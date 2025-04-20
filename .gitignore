@@ -1,1 +1,3 @@
 .venv/
+gephi/
+__pycache__
