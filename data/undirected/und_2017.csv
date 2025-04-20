@@ -1,0 +1,510 @@
+Source,Target,Weight
+FaZe,MOUZ,15.0
+FaZe,fnatic,15.0
+FaZe,Astralis,26.0
+FaZe,Cloud9,8.0
+FaZe,OpTic,5.0
+FaZe,Liquid,9.0
+FaZe,Luminosity,1.0
+FaZe,SK,23.0
+FaZe,HellRaisers,8.0
+FaZe,Ninjas in Pyjamas,16.0
+FaZe,North,10.0
+FaZe,Natus Vincere,8.0
+FaZe,Gambit,9.0
+FaZe,Envy,11.0
+FaZe,BIG,3.0
+FaZe,HEROIC,7.0
+FaZe,G2,15.0
+FaZe,Renegades,4.0
+FaZe,GODSENT,6.0
+FaZe,Virtus.pro,10.0
+FaZe,Immortals,4.0
+FaZe,LDLC,2.0
+FaZe,Kinguin,2.0
+FaZe,FlipSid3,2.0
+FaZe,Dignitas,2.0
+MOUZ,fnatic,13.0
+MOUZ,Astralis,11.0
+MOUZ,Cloud9,5.0
+MOUZ,OpTic,4.0
+MOUZ,Liquid,7.0
+MOUZ,Luminosity,2.0
+MOUZ,SK,5.0
+MOUZ,HellRaisers,5.0
+MOUZ,Ninjas in Pyjamas,9.0
+MOUZ,North,6.0
+MOUZ,NRG,1.0
+MOUZ,Natus Vincere,11.0
+MOUZ,Gambit,6.0
+MOUZ,Envy,9.0
+MOUZ,BIG,5.0
+MOUZ,HEROIC,9.0
+MOUZ,North Academy,1.0
+MOUZ,G2,11.0
+MOUZ,GODSENT,7.0
+MOUZ,Virtus.pro,11.0
+MOUZ,Immortals,2.0
+MOUZ,LDLC,7.0
+MOUZ,Kinguin,2.0
+MOUZ,PENTA,1.0
+MOUZ,Dignitas,2.0
+MOUZ,Tengri,1.0
+MOUZ,Singularity,2.0
+fnatic,Astralis,16.0
+fnatic,Cloud9,3.0
+fnatic,OpTic,5.0
+fnatic,Liquid,4.0
+fnatic,Luminosity,2.0
+fnatic,SK,5.0
+fnatic,Misfits,1.0
+fnatic,HellRaisers,5.0
+fnatic,Ninjas in Pyjamas,10.0
+fnatic,North,6.0
+fnatic,Natus Vincere,9.0
+fnatic,Gambit,9.0
+fnatic,Envy,11.0
+fnatic,BIG,2.0
+fnatic,HEROIC,7.0
+fnatic,G2,11.0
+fnatic,GODSENT,6.0
+fnatic,Virtus.pro,10.0
+fnatic,CLG,1.0
+fnatic,Immortals,10.0
+fnatic,LDLC,4.0
+fnatic,Kinguin,2.0
+fnatic,FlipSid3,1.0
+fnatic,Space Soldiers,1.0
+fnatic,Dignitas,2.0
+Astralis,Cloud9,6.0
+Astralis,OpTic,3.0
+Astralis,Liquid,13.0
+Astralis,Luminosity,1.0
+Astralis,SK,16.0
+Astralis,HellRaisers,5.0
+Astralis,Ninjas in Pyjamas,13.0
+Astralis,North,8.0
+Astralis,Natus Vincere,13.0
+Astralis,Gambit,5.0
+Astralis,Envy,9.0
+Astralis,BIG,2.0
+Astralis,HEROIC,9.0
+Astralis,G2,16.0
+Astralis,Renegades,2.0
+Astralis,GODSENT,7.0
+Astralis,Virtus.pro,12.0
+Astralis,The MongolZ,1.0
+Astralis,CLG,3.0
+Astralis,Complexity,1.0
+Astralis,Immortals,2.0
+Astralis,LDLC,4.0
+Astralis,Kinguin,2.0
+Astralis,Dignitas,2.0
+Astralis,Chiefs,1.0
+Cloud9,OpTic,13.0
+Cloud9,Liquid,13.0
+Cloud9,Luminosity,10.0
+Cloud9,SK,21.0
+Cloud9,Misfits,4.0
+Cloud9,Ninjas in Pyjamas,12.0
+Cloud9,North,5.0
+Cloud9,NRG,10.0
+Cloud9,Natus Vincere,7.0
+Cloud9,Gambit,5.0
+Cloud9,Envy,3.0
+Cloud9,BIG,4.0
+Cloud9,HEROIC,1.0
+Cloud9,G2,9.0
+Cloud9,Renegades,12.0
+Cloud9,GODSENT,1.0
+Cloud9,Virtus.pro,2.0
+Cloud9,Ghost,6.0
+Cloud9,The MongolZ,1.0
+Cloud9,CLG,8.0
+Cloud9,Complexity,5.0
+Cloud9,Rogue,2.0
+Cloud9,Splyce,2.0
+Cloud9,Immortals,12.0
+Cloud9,TYLOO,1.0
+Cloud9,Tempo Storm,1.0
+Cloud9,BOOT-d[S],1.0
+Cloud9,FlipSid3,1.0
+Cloud9,Rush,2.0
+Cloud9,The Foundation,2.0
+Cloud9,Winterfox,2.0
+OpTic,Liquid,15.0
+OpTic,Luminosity,8.0
+OpTic,SK,14.0
+OpTic,Misfits,6.0
+OpTic,Ninjas in Pyjamas,2.0
+OpTic,North,7.0
+OpTic,NRG,10.0
+OpTic,Natus Vincere,1.0
+OpTic,Gambit,4.0
+OpTic,Envy,3.0
+OpTic,G2,3.0
+OpTic,Renegades,12.0
+OpTic,GODSENT,1.0
+OpTic,Virtus.pro,1.0
+OpTic,Ghost,6.0
+OpTic,CLG,9.0
+OpTic,Complexity,4.0
+OpTic,Rogue,2.0
+OpTic,Splyce,2.0
+OpTic,Immortals,7.0
+OpTic,FlipSid3,1.0
+OpTic,PENTA,1.0
+OpTic,Vega Squadron,1.0
+OpTic,Space Soldiers,1.0
+OpTic,Rush,2.0
+OpTic,Chiefs,2.0
+OpTic,ViCi,1.0
+OpTic,Winterfox,2.0
+OpTic,Selfless,2.0
+Liquid,Luminosity,9.0
+Liquid,SK,16.0
+Liquid,Misfits,5.0
+Liquid,HellRaisers,2.0
+Liquid,Ninjas in Pyjamas,3.0
+Liquid,North,6.0
+Liquid,NRG,9.0
+Liquid,Natus Vincere,2.0
+Liquid,Gambit,3.0
+Liquid,Envy,4.0
+Liquid,BIG,4.0
+Liquid,G2,4.0
+Liquid,Renegades,8.0
+Liquid,Virtus.pro,4.0
+Liquid,Ghost,6.0
+Liquid,CLG,8.0
+Liquid,Complexity,4.0
+Liquid,Rogue,2.0
+Liquid,Splyce,2.0
+Liquid,Immortals,10.0
+Liquid,TYLOO,1.0
+Liquid,FlipSid3,2.0
+Liquid,PENTA,1.0
+Liquid,Rush,2.0
+Liquid,Winterfox,2.0
+Liquid,Selfless,2.0
+Luminosity,SK,8.0
+Luminosity,Misfits,4.0
+Luminosity,HellRaisers,2.0
+Luminosity,NRG,9.0
+Luminosity,HEROIC,2.0
+Luminosity,Renegades,9.0
+Luminosity,Ghost,6.0
+Luminosity,CLG,8.0
+Luminosity,Complexity,6.0
+Luminosity,Rogue,2.0
+Luminosity,Splyce,2.0
+Luminosity,Immortals,8.0
+Luminosity,Rush,2.0
+Luminosity,Winterfox,2.0
+SK,Misfits,7.0
+SK,HellRaisers,1.0
+SK,Ninjas in Pyjamas,6.0
+SK,North,10.0
+SK,NRG,8.0
+SK,Natus Vincere,4.0
+SK,Gambit,6.0
+SK,Envy,5.0
+SK,BIG,1.0
+SK,HEROIC,5.0
+SK,G2,10.0
+SK,Renegades,8.0
+SK,Virtus.pro,18.0
+SK,Ghost,4.0
+SK,The MongolZ,1.0
+SK,CLG,11.0
+SK,Complexity,4.0
+SK,Rogue,2.0
+SK,Splyce,2.0
+SK,Immortals,11.0
+SK,TYLOO,2.0
+SK,BOOT-d[S],1.0
+SK,PENTA,1.0
+SK,Space Soldiers,1.0
+SK,Singularity,1.0
+SK,Rush,2.0
+SK,ViCi,1.0
+SK,Bee's Money Crew,2.0
+SK,Selfless,2.0
+Misfits,HellRaisers,4.0
+Misfits,Ninjas in Pyjamas,1.0
+Misfits,North,1.0
+Misfits,NRG,5.0
+Misfits,Natus Vincere,4.0
+Misfits,HEROIC,3.0
+Misfits,Renegades,4.0
+Misfits,Virtus.pro,1.0
+Misfits,Ghost,2.0
+Misfits,CLG,5.0
+Misfits,Complexity,4.0
+Misfits,Rogue,2.0
+Misfits,Splyce,2.0
+Misfits,Immortals,4.0
+Misfits,Rush,2.0
+Misfits,Winterfox,2.0
+Misfits,Selfless,2.0
+HellRaisers,Ninjas in Pyjamas,5.0
+HellRaisers,North,8.0
+HellRaisers,Natus Vincere,4.0
+HellRaisers,Gambit,1.0
+HellRaisers,Envy,5.0
+HellRaisers,BIG,2.0
+HellRaisers,HEROIC,10.0
+HellRaisers,G2,7.0
+HellRaisers,Renegades,3.0
+HellRaisers,GODSENT,2.0
+HellRaisers,Virtus.pro,2.0
+HellRaisers,CLG,1.0
+HellRaisers,Immortals,1.0
+HellRaisers,LDLC,4.0
+HellRaisers,TYLOO,4.0
+HellRaisers,Kinguin,2.0
+HellRaisers,FlipSid3,1.0
+HellRaisers,Vega Squadron,1.0
+HellRaisers,Tricked,1.0
+Ninjas in Pyjamas,North,6.0
+Ninjas in Pyjamas,NRG,1.0
+Ninjas in Pyjamas,Natus Vincere,7.0
+Ninjas in Pyjamas,Gambit,3.0
+Ninjas in Pyjamas,Envy,12.0
+Ninjas in Pyjamas,BIG,2.0
+Ninjas in Pyjamas,HEROIC,6.0
+Ninjas in Pyjamas,G2,13.0
+Ninjas in Pyjamas,GODSENT,8.0
+Ninjas in Pyjamas,Virtus.pro,9.0
+Ninjas in Pyjamas,The MongolZ,1.0
+Ninjas in Pyjamas,Immortals,1.0
+Ninjas in Pyjamas,LDLC,4.0
+Ninjas in Pyjamas,TYLOO,1.0
+Ninjas in Pyjamas,Kinguin,2.0
+Ninjas in Pyjamas,Dignitas,2.0
+Ninjas in Pyjamas,MVP Project,1.0
+North,NRG,2.0
+North,Natus Vincere,7.0
+North,Gambit,5.0
+North,Envy,4.0
+North,BIG,2.0
+North,HEROIC,8.0
+North,G2,14.0
+North,GODSENT,3.0
+North,Virtus.pro,9.0
+North,Complexity,1.0
+North,Immortals,8.0
+North,LDLC,4.0
+North,TYLOO,1.0
+North,Kinguin,3.0
+North,Gale Force,1.0
+North,PENTA,1.0
+North,Chiefs,1.0
+NRG,Natus Vincere,1.0
+NRG,BIG,1.0
+NRG,Renegades,8.0
+NRG,Ghost,6.0
+NRG,CLG,8.0
+NRG,Complexity,4.0
+NRG,Rogue,2.0
+NRG,Splyce,2.0
+NRG,Immortals,8.0
+NRG,LDLC,2.0
+NRG,Rush,2.0
+NRG,The Foundation,2.0
+NRG,Winterfox,2.0
+Natus Vincere,Gambit,1.0
+Natus Vincere,Envy,9.0
+Natus Vincere,BIG,2.0
+Natus Vincere,HEROIC,9.0
+Natus Vincere,G2,10.0
+Natus Vincere,Renegades,3.0
+Natus Vincere,GODSENT,2.0
+Natus Vincere,Virtus.pro,4.0
+Natus Vincere,Immortals,1.0
+Natus Vincere,LDLC,4.0
+Natus Vincere,Kinguin,2.0
+Natus Vincere,FlipSid3,1.0
+Natus Vincere,Space Soldiers,1.0
+Natus Vincere,UYA,1.0
+Gambit,HEROIC,2.0
+Gambit,Rise Nation,1.0
+Gambit,G2,5.0
+Gambit,Renegades,1.0
+Gambit,GODSENT,3.0
+Gambit,Virtus.pro,6.0
+Gambit,CLG,2.0
+Gambit,Immortals,5.0
+Gambit,TYLOO,1.0
+Envy,BIG,6.0
+Envy,HEROIC,6.0
+Envy,G2,12.0
+Envy,GODSENT,7.0
+Envy,Virtus.pro,10.0
+Envy,The MongolZ,1.0
+Envy,Immortals,1.0
+Envy,LDLC,4.0
+Envy,TYLOO,3.0
+Envy,Kinguin,4.0
+Envy,Space Soldiers,3.0
+Envy,Dignitas,2.0
+Envy,Epsilon,2.0
+Envy,.Russia,2.0
+Envy,subtLe,2.0
+Envy,TeamOne,2.0
+BIG,HEROIC,2.0
+BIG,North Academy,3.0
+BIG,G2,2.0
+BIG,Renegades,2.0
+BIG,GODSENT,2.0
+BIG,Immortals,4.0
+BIG,LDLC,2.0
+BIG,Tengri,1.0
+HEROIC,Rise Nation,2.0
+HEROIC,G2,6.0
+HEROIC,GODSENT,4.0
+HEROIC,Virtus.pro,8.0
+HEROIC,Immortals,3.0
+HEROIC,LDLC,4.0
+HEROIC,Spirit,4.0
+HEROIC,Kinguin,2.0
+G2,Renegades,3.0
+G2,GODSENT,6.0
+G2,Virtus.pro,10.0
+G2,Immortals,6.0
+G2,LDLC,4.0
+G2,TYLOO,1.0
+G2,Kinguin,2.0
+G2,FlipSid3,1.0
+G2,Dignitas,2.0
+G2,Tricked,3.0
+Renegades,Virtus.pro,5.0
+Renegades,Ghost,6.0
+Renegades,CLG,12.0
+Renegades,Complexity,4.0
+Renegades,Rogue,2.0
+Renegades,Splyce,2.0
+Renegades,Immortals,6.0
+Renegades,Flash,2.0
+Renegades,HAVU,2.0
+Renegades,TYLOO,1.0
+Renegades,FlipSid3,1.0
+Renegades,Dignitas,1.0
+Renegades,Rush,2.0
+Renegades,Chiefs,1.0
+Renegades,ViCi,1.0
+Renegades,Winterfox,2.0
+Renegades,Selfless,2.0
+GODSENT,Virtus.pro,4.0
+GODSENT,Immortals,1.0
+GODSENT,LDLC,2.0
+GODSENT,Dignitas,3.0
+Virtus.pro,Immortals,3.0
+Virtus.pro,LDLC,2.0
+Virtus.pro,Flash,3.0
+Virtus.pro,Kinguin,4.0
+Virtus.pro,Vega Squadron,1.0
+Virtus.pro,Space Soldiers,2.0
+Virtus.pro,Dignitas,2.0
+Virtus.pro,MVP Project,1.0
+Virtus.pro,Epsilon,2.0
+Virtus.pro,DarkPassage,2.0
+Virtus.pro,K23,2.0
+Virtus.pro,.Russia,2.0
+Virtus.pro,subtLe,2.0
+Virtus.pro,TeamOne,2.0
+Ghost,CLG,6.0
+Ghost,Complexity,2.0
+Ghost,Rogue,2.0
+Ghost,Splyce,2.0
+Ghost,Immortals,6.0
+CLG,Complexity,4.0
+CLG,Rogue,2.0
+CLG,Splyce,2.0
+CLG,Immortals,11.0
+CLG,Tempo Storm,3.0
+CLG,Kinguin,3.0
+CLG,Gale Force,2.0
+CLG,Rush,2.0
+CLG,Winterfox,2.0
+CLG,UYA,1.0
+CLG,Selfless,2.0
+Complexity,Rogue,2.0
+Complexity,Splyce,2.0
+Complexity,Immortals,4.0
+Complexity,Rush,2.0
+Complexity,Winterfox,2.0
+Complexity,Selfless,2.0
+Rogue,Splyce,2.0
+Rogue,Immortals,2.0
+Splyce,Immortals,2.0
+Immortals,FlipSid3,1.0
+Immortals,Vega Squadron,1.0
+Immortals,Dignitas,1.0
+Immortals,Rush,2.0
+Immortals,The Foundation,2.0
+Immortals,Winterfox,2.0
+Immortals,MVP Project,1.0
+Immortals,UYA,1.0
+LDLC,Kinguin,2.0
+Flash,HAVU,3.0
+Spirit,TYLOO,3.0
+TYLOO,Vega Squadron,1.0
+TYLOO,MVP Project,1.0
+TYLOO,Selfless,2.0
+TYLOO,DarkPassage,2.0
+TYLOO,Signature,2.0
+TYLOO,JYP,2.0
+TYLOO,Ukraine,2.0
+TYLOO,QuetzaL,2.0
+Kinguin,Space Soldiers,2.0
+Kinguin,Epsilon,3.0
+Kinguin,Signature,2.0
+Kinguin,Bravado,2.0
+Kinguin,FIVE,2.0
+FlipSid3,PENTA,1.0
+PENTA,Vega Squadron,2.0
+Vega Squadron,Dignitas,1.0
+Space Soldiers,Selfless,2.0
+Space Soldiers,iGame.com,3.0
+Space Soldiers,Signature,2.0
+Space Soldiers,Bravado,2.0
+Space Soldiers,FIVE,2.0
+Dignitas,Tengri,1.0
+Rush,Winterfox,2.0
+Rush,Selfless,2.0
+Selfless,DarkPassage,2.0
+Selfless,JYP,2.0
+Selfless,Ukraine,2.0
+Selfless,QuetzaL,2.0
+Epsilon,VG.CyberZen,2.0
+Epsilon,.Russia,2.0
+Epsilon,subtLe,2.0
+Epsilon,TeamOne,2.0
+DarkPassage,JYP,2.0
+DarkPassage,Ukraine,2.0
+DarkPassage,QuetzaL,2.0
+iGame.com,VG.CyberZen,2.0
+iGame.com,K23,2.0
+iGame.com,Colombia,2.0
+iGame.com,rEAK,2.0
+iGame.com,ENZO,2.0
+VG.CyberZen,K23,2.0
+VG.CyberZen,Colombia,2.0
+VG.CyberZen,rEAK,2.0
+VG.CyberZen,ENZO,2.0
+K23,Colombia,2.0
+K23,rEAK,2.0
+K23,ENZO,2.0
+Signature,Bravado,2.0
+Signature,FIVE,2.0
+Colombia,rEAK,2.0
+Colombia,ENZO,2.0
+rEAK,ENZO,2.0
+.Russia,subtLe,2.0
+.Russia,TeamOne,2.0
+subtLe,TeamOne,2.0
+JYP,Ukraine,2.0
+JYP,QuetzaL,2.0
+Ukraine,QuetzaL,2.0
+Bravado,FIVE,2.0

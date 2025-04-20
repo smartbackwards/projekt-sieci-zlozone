@@ -1,0 +1,464 @@
+Source,Target,Weight
+Natus Vincere,Gambit,35.0
+Natus Vincere,Vitality,20.0
+Natus Vincere,Liquid,12.0
+Natus Vincere,Astralis,5.0
+Natus Vincere,G2,13.0
+Natus Vincere,Ninjas in Pyjamas,2.0
+Natus Vincere,HEROIC,12.0
+Natus Vincere,Virtus.pro,7.0
+Natus Vincere,fnatic,2.0
+Natus Vincere,FaZe,14.0
+Natus Vincere,BIG,6.0
+Natus Vincere,OG,3.0
+Natus Vincere,ENCE,2.0
+Natus Vincere,MOUZ,3.0
+Natus Vincere,Entropiq,5.0
+Natus Vincere,FURIA,7.0
+Natus Vincere,Evil Geniuses,2.0
+Natus Vincere,Spirit,9.0
+Natus Vincere,Renegades,3.0
+Natus Vincere,TeamOne,2.0
+Natus Vincere,Complexity,8.0
+Natus Vincere,FORZE,4.0
+Natus Vincere,Nemiga,4.0
+Natus Vincere,AVE,1.0
+Natus Vincere,Akuma,5.0
+Natus Vincere,MIBR,5.0
+Natus Vincere,bankaPEPSI,2.0
+Natus Vincere,GROND,2.0
+Natus Vincere,Cloud9,3.0
+Gambit,Vitality,9.0
+Gambit,Liquid,6.0
+Gambit,Astralis,4.0
+Gambit,G2,12.0
+Gambit,Ninjas in Pyjamas,9.0
+Gambit,HEROIC,10.0
+Gambit,Virtus.pro,12.0
+Gambit,fnatic,4.0
+Gambit,FaZe,6.0
+Gambit,BIG,2.0
+Gambit,OG,3.0
+Gambit,ENCE,1.0
+Gambit,MOUZ,8.0
+Gambit,Entropiq,13.0
+Gambit,Fiend,2.0
+Gambit,Enterprise,3.0
+Gambit,eSuba,2.0
+Gambit,FURIA,7.0
+Gambit,Evil Geniuses,6.0
+Gambit,Spirit,6.0
+Gambit,TeamOne,5.0
+Gambit,Sprout,1.0
+Gambit,Complexity,5.0
+Gambit,INDE IRAE,1.0
+Gambit,K23,3.0
+Gambit,Unique,1.0
+Gambit,FORZE,3.0
+Gambit,Nemiga,5.0
+Gambit,Akuma,6.0
+Gambit,MIBR,3.0
+Gambit,Trident,2.0
+Gambit,Cloud9,3.0
+Vitality,Liquid,10.0
+Vitality,Astralis,23.0
+Vitality,G2,9.0
+Vitality,Ninjas in Pyjamas,10.0
+Vitality,HEROIC,6.0
+Vitality,Virtus.pro,7.0
+Vitality,FaZe,5.0
+Vitality,BIG,2.0
+Vitality,OG,10.0
+Vitality,ENCE,5.0
+Vitality,MOUZ,3.0
+Vitality,Entropiq,3.0
+Vitality,FURIA,4.0
+Vitality,Copenhagen Flames,2.0
+Vitality,Evil Geniuses,6.0
+Vitality,Spirit,6.0
+Vitality,Renegades,1.0
+Vitality,Bad News Bears,2.0
+Vitality,Extra Salt,3.0
+Vitality,MAD Lions,1.0
+Vitality,Sprout,1.0
+Vitality,Dignitas,1.0
+Vitality,Complexity,9.0
+Vitality,FunPlus Phoenix,3.0
+Vitality,DBL PONEY,4.0
+Liquid,Astralis,9.0
+Liquid,G2,5.0
+Liquid,Ninjas in Pyjamas,10.0
+Liquid,HEROIC,6.0
+Liquid,Virtus.pro,4.0
+Liquid,GODSENT,2.0
+Liquid,fnatic,4.0
+Liquid,FaZe,8.0
+Liquid,BIG,2.0
+Liquid,OG,4.0
+Liquid,ENCE,1.0
+Liquid,MOUZ,3.0
+Liquid,Entropiq,3.0
+Liquid,FURIA,11.0
+Liquid,Evil Geniuses,6.0
+Liquid,paiN,6.0
+Liquid,EXTREMUM,4.0
+Liquid,TeamOne,2.0
+Liquid,Bad News Bears,4.0
+Liquid,Extra Salt,4.0
+Liquid,ATK,1.0
+Liquid,Endpoint,2.0
+Liquid,MIBR,3.0
+Astralis,G2,9.0
+Astralis,Ninjas in Pyjamas,9.0
+Astralis,HEROIC,12.0
+Astralis,Virtus.pro,9.0
+Astralis,GODSENT,2.0
+Astralis,fnatic,2.0
+Astralis,FaZe,5.0
+Astralis,BIG,5.0
+Astralis,OG,4.0
+Astralis,ENCE,4.0
+Astralis,MOUZ,6.0
+Astralis,Entropiq,1.0
+Astralis,Fiend,2.0
+Astralis,Movistar Riders,1.0
+Astralis,SINNERS,1.0
+Astralis,FURIA,3.0
+Astralis,Copenhagen Flames,1.0
+Astralis,Evil Geniuses,10.0
+Astralis,Spirit,8.0
+Astralis,paiN,2.0
+Astralis,Bad News Bears,2.0
+Astralis,Extra Salt,3.0
+Astralis,Endpoint,3.0
+Astralis,Complexity,3.0
+Astralis,FunPlus Phoenix,1.0
+Astralis,DBL PONEY,2.0
+G2,Ninjas in Pyjamas,22.0
+G2,HEROIC,6.0
+G2,Virtus.pro,5.0
+G2,FaZe,9.0
+G2,BIG,11.0
+G2,OG,2.0
+G2,ENCE,6.0
+G2,TYLOO,1.0
+G2,MOUZ,7.0
+G2,Entropiq,2.0
+G2,Fiend,2.0
+G2,Movistar Riders,3.0
+G2,SINNERS,3.0
+G2,FURIA,5.0
+G2,Copenhagen Flames,2.0
+G2,Evil Geniuses,7.0
+G2,Spirit,4.0
+G2,Extra Salt,1.0
+G2,Complexity,10.0
+G2,FunPlus Phoenix,4.0
+G2,AURA,1.0
+G2,FORZE,2.0
+G2,MIBR,2.0
+Ninjas in Pyjamas,HEROIC,7.0
+Ninjas in Pyjamas,Virtus.pro,13.0
+Ninjas in Pyjamas,GODSENT,3.0
+Ninjas in Pyjamas,fnatic,4.0
+Ninjas in Pyjamas,FaZe,3.0
+Ninjas in Pyjamas,BIG,14.0
+Ninjas in Pyjamas,OG,7.0
+Ninjas in Pyjamas,ENCE,7.0
+Ninjas in Pyjamas,MOUZ,12.0
+Ninjas in Pyjamas,Entropiq,2.0
+Ninjas in Pyjamas,Fiend,1.0
+Ninjas in Pyjamas,Movistar Riders,3.0
+Ninjas in Pyjamas,FURIA,5.0
+Ninjas in Pyjamas,Copenhagen Flames,3.0
+Ninjas in Pyjamas,Evil Geniuses,2.0
+Ninjas in Pyjamas,TeamOne,2.0
+Ninjas in Pyjamas,Dignitas,3.0
+Ninjas in Pyjamas,Complexity,6.0
+Ninjas in Pyjamas,FunPlus Phoenix,2.0
+Ninjas in Pyjamas,SKADE,1.0
+Ninjas in Pyjamas,DBL PONEY,1.0
+Ninjas in Pyjamas,LDLC,1.0
+Ninjas in Pyjamas,Anonymo,3.0
+Ninjas in Pyjamas,Cloud9,3.0
+HEROIC,Virtus.pro,3.0
+HEROIC,GODSENT,1.0
+HEROIC,fnatic,2.0
+HEROIC,FaZe,7.0
+HEROIC,BIG,9.0
+HEROIC,OG,7.0
+HEROIC,ENCE,3.0
+HEROIC,TYLOO,1.0
+HEROIC,MOUZ,3.0
+HEROIC,Entropiq,3.0
+HEROIC,Movistar Riders,3.0
+HEROIC,SINNERS,1.0
+HEROIC,FURIA,4.0
+HEROIC,Copenhagen Flames,6.0
+HEROIC,Evil Geniuses,3.0
+HEROIC,Spirit,7.0
+HEROIC,Renegades,2.0
+HEROIC,paiN,1.0
+HEROIC,Bad News Bears,2.0
+HEROIC,Sprout,2.0
+HEROIC,Endpoint,1.0
+HEROIC,Complexity,6.0
+HEROIC,FunPlus Phoenix,2.0
+HEROIC,MIBR,5.0
+HEROIC,Imperial,1.0
+Virtus.pro,GODSENT,2.0
+Virtus.pro,fnatic,5.0
+Virtus.pro,FaZe,6.0
+Virtus.pro,BIG,4.0
+Virtus.pro,OG,4.0
+Virtus.pro,ENCE,4.0
+Virtus.pro,MOUZ,5.0
+Virtus.pro,Entropiq,9.0
+Virtus.pro,Movistar Riders,1.0
+Virtus.pro,SINNERS,2.0
+Virtus.pro,FURIA,4.0
+Virtus.pro,Evil Geniuses,3.0
+Virtus.pro,Spirit,14.0
+Virtus.pro,Renegades,2.0
+Virtus.pro,paiN,1.0
+Virtus.pro,Endpoint,2.0
+Virtus.pro,Complexity,9.0
+Virtus.pro,INDE IRAE,1.0
+Virtus.pro,K23,6.0
+Virtus.pro,Unique,1.0
+Virtus.pro,FORZE,12.0
+Virtus.pro,Akuma,4.0
+Virtus.pro,100PG,3.0
+Virtus.pro,ex-Marlian,2.0
+Virtus.pro,HAVU,3.0
+Virtus.pro,Wisla Krakow,1.0
+GODSENT,BIG,3.0
+GODSENT,ENCE,1.0
+GODSENT,FURIA,4.0
+GODSENT,Evil Geniuses,1.0
+GODSENT,Spirit,1.0
+GODSENT,Triumph,1.0
+GODSENT,TeamOne,1.0
+GODSENT,00NATION,1.0
+fnatic,FaZe,3.0
+fnatic,BIG,6.0
+fnatic,OG,4.0
+fnatic,ENCE,2.0
+fnatic,MOUZ,4.0
+fnatic,Fiend,1.0
+fnatic,Evil Geniuses,5.0
+fnatic,Endpoint,2.0
+fnatic,Complexity,4.0
+fnatic,SKADE,1.0
+fnatic,DBL PONEY,1.0
+fnatic,MIBR,2.0
+fnatic,Cloud9,3.0
+FaZe,BIG,7.0
+FaZe,OG,8.0
+FaZe,ENCE,3.0
+FaZe,MOUZ,10.0
+FaZe,Fiend,1.0
+FaZe,FURIA,3.0
+FaZe,Copenhagen Flames,1.0
+FaZe,Evil Geniuses,5.0
+FaZe,Spirit,4.0
+FaZe,Sprout,3.0
+FaZe,Complexity,7.0
+FaZe,SKADE,1.0
+FaZe,DBL PONEY,1.0
+FaZe,MIBR,3.0
+BIG,OG,7.0
+BIG,ENCE,3.0
+BIG,MOUZ,9.0
+BIG,Entropiq,1.0
+BIG,Fiend,2.0
+BIG,Movistar Riders,1.0
+BIG,eSuba,1.0
+BIG,FURIA,1.0
+BIG,Copenhagen Flames,2.0
+BIG,Evil Geniuses,4.0
+BIG,Spirit,2.0
+BIG,Renegades,3.0
+BIG,Extra Salt,7.0
+BIG,Sprout,4.0
+BIG,Complexity,6.0
+BIG,FunPlus Phoenix,4.0
+BIG,AURA,1.0
+BIG,DBL PONEY,3.0
+BIG,FORZE,2.0
+BIG,MIBR,4.0
+BIG,HAVU,2.0
+OG,ENCE,1.0
+OG,TYLOO,2.0
+OG,SINNERS,3.0
+OG,Evil Geniuses,3.0
+OG,Renegades,4.0
+OG,TeamOne,1.0
+OG,MAD Lions,1.0
+OG,Sprout,1.0
+OG,Dignitas,7.0
+OG,Complexity,4.0
+OG,FunPlus Phoenix,3.0
+OG,FORZE,3.0
+OG,Cloud9,3.0
+ENCE,MOUZ,6.0
+ENCE,Spirit,2.0
+ENCE,Bad News Bears,2.0
+ENCE,MAD Lions,1.0
+ENCE,Sprout,1.0
+ENCE,Dignitas,1.0
+ENCE,FORZE,2.0
+TYLOO,Movistar Riders,3.0
+TYLOO,Spirit,1.0
+TYLOO,Sharks,1.0
+MOUZ,FURIA,3.0
+MOUZ,Copenhagen Flames,1.0
+MOUZ,Evil Geniuses,4.0
+MOUZ,Renegades,4.0
+MOUZ,Sharks,1.0
+MOUZ,Bad News Bears,1.0
+MOUZ,Complexity,3.0
+MOUZ,FunPlus Phoenix,1.0
+MOUZ,AURA,1.0
+Entropiq,Fiend,2.0
+Entropiq,Movistar Riders,1.0
+Entropiq,Enterprise,3.0
+Entropiq,SINNERS,1.0
+Entropiq,FURIA,5.0
+Entropiq,Spirit,6.0
+Entropiq,TeamOne,2.0
+Entropiq,K23,5.0
+Entropiq,FORZE,2.0
+Entropiq,Nemiga,1.0
+Entropiq,AVE,1.0
+Entropiq,Akuma,1.0
+Entropiq,100PG,5.0
+Fiend,Movistar Riders,2.0
+Fiend,Copenhagen Flames,2.0
+Fiend,Spirit,3.0
+Fiend,SKADE,1.0
+Fiend,DBL PONEY,1.0
+Movistar Riders,Enterprise,1.0
+Movistar Riders,SINNERS,3.0
+Movistar Riders,Copenhagen Flames,2.0
+Movistar Riders,Renegades,1.0
+Movistar Riders,Endpoint,1.0
+Movistar Riders,Complexity,1.0
+Movistar Riders,Cloud9,2.0
+SINNERS,Endpoint,1.0
+SINNERS,Complexity,3.0
+SINNERS,FORZE,3.0
+FURIA,Evil Geniuses,6.0
+FURIA,Renegades,2.0
+FURIA,paiN,4.0
+FURIA,EXTREMUM,2.0
+FURIA,Triumph,1.0
+FURIA,TeamOne,5.0
+FURIA,00NATION,1.0
+FURIA,Extra Salt,3.0
+FURIA,Complexity,2.0
+FURIA,FunPlus Phoenix,3.0
+FURIA,MIBR,2.0
+FURIA,O PLANO,4.0
+FURIA,Cloud9,8.0
+Copenhagen Flames,Evil Geniuses,1.0
+Copenhagen Flames,FunPlus Phoenix,1.0
+Copenhagen Flames,AURA,1.0
+Evil Geniuses,Spirit,1.0
+Evil Geniuses,paiN,3.0
+Evil Geniuses,EXTREMUM,3.0
+Evil Geniuses,TeamOne,1.0
+Evil Geniuses,00NATION,1.0
+Evil Geniuses,Dignitas,2.0
+Evil Geniuses,Endpoint,2.0
+Evil Geniuses,Complexity,2.0
+Evil Geniuses,ViCi,2.0
+Spirit,Bad News Bears,2.0
+Spirit,Sprout,3.0
+Spirit,INDE IRAE,2.0
+Spirit,K23,8.0
+Spirit,Nemiga,1.0
+Spirit,AVE,1.0
+Spirit,Akuma,1.0
+Spirit,MIBR,1.0
+Spirit,100PG,3.0
+Spirit,Imperial,2.0
+Spirit,bankaPEPSI,2.0
+Spirit,Cloud9,1.0
+Renegades,paiN,1.0
+Renegades,TeamOne,3.0
+Renegades,Complexity,2.0
+Renegades,FunPlus Phoenix,2.0
+Renegades,MIBR,2.0
+paiN,Sharks,3.0
+paiN,EXTREMUM,1.0
+paiN,Bad News Bears,1.0
+paiN,Extra Salt,3.0
+paiN,ATK,1.0
+paiN,O PLANO,5.0
+EXTREMUM,Bad News Bears,3.0
+EXTREMUM,Extra Salt,6.0
+EXTREMUM,ATK,1.0
+EXTREMUM,O PLANO,2.0
+Triumph,TeamOne,1.0
+Triumph,00NATION,1.0
+TeamOne,00NATION,1.0
+TeamOne,Sprout,3.0
+TeamOne,MIBR,3.0
+TeamOne,Cloud9,3.0
+Bad News Bears,Extra Salt,1.0
+Bad News Bears,ATK,1.0
+Bad News Bears,LDLC,2.0
+Extra Salt,ATK,1.0
+Extra Salt,Dignitas,2.0
+Extra Salt,FORZE,3.0
+MAD Lions,Sprout,1.0
+MAD Lions,Dignitas,1.0
+Sprout,Dignitas,1.0
+Sprout,Complexity,4.0
+Sprout,FunPlus Phoenix,3.0
+Sprout,Anonymo,3.0
+Dignitas,Complexity,2.0
+Dignitas,HAVU,3.0
+Endpoint,Complexity,1.0
+Complexity,FunPlus Phoenix,7.0
+Complexity,FORZE,6.0
+Complexity,LDLC,2.0
+Complexity,ViCi,1.0
+Complexity,Anonymo,2.0
+Complexity,HAVU,2.0
+Complexity,Wisla Krakow,3.0
+FunPlus Phoenix,AURA,1.0
+FunPlus Phoenix,HYENAS,2.0
+SKADE,DBL PONEY,1.0
+DBL PONEY,Anonymo,3.0
+INDE IRAE,K23,1.0
+INDE IRAE,Unique,1.0
+INDE IRAE,FORZE,1.0
+K23,Unique,1.0
+K23,FORZE,1.0
+K23,Nemiga,2.0
+K23,Akuma,2.0
+K23,100PG,2.0
+K23,Trident,3.0
+K23,Marlian,2.0
+Unique,FORZE,1.0
+FORZE,Nemiga,5.0
+FORZE,Akuma,2.0
+FORZE,IN.GAME,2.0
+Nemiga,AVE,1.0
+Nemiga,Akuma,4.0
+Nemiga,bankaPEPSI,2.0
+Nemiga,1win,3.0
+AVE,Akuma,1.0
+Akuma,1win,2.0
+Akuma,GROND,2.0
+MIBR,Cloud9,5.0
+100PG,1win,2.0
+100PG,IN.GAME,1.0
+Anonymo,HYENAS,3.0
+Trident,Marlian,3.0
+Trident,IN.GAME,3.0
+bankaPEPSI,IN.GAME,3.0
+Marlian,1win,3.0
+Marlian,GROND,2.0

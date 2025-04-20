@@ -1,0 +1,271 @@
+Source,Target,Weight
+AGAiN,Natus Vincere,6.0
+AGAiN,GamePub,2.0
+Natus Vincere,GamePub,2.0
+Natus Vincere,Astana Dragons,10.0
+Natus Vincere,fnatic,4.0
+Natus Vincere,Ninjas in Pyjamas,11.0
+Natus Vincere,VeryGames,3.0
+Natus Vincere,CPH Wolves,2.0
+Natus Vincere,n!faculty,1.0
+Natus Vincere,LGB,1.0
+Natus Vincere,UniversalSoldiers,4.0
+Natus Vincere,Lemondogs,3.0
+Natus Vincere,FAW,1.0
+Natus Vincere,Beantown Bandits,1.0
+Natus Vincere,Virtus.pro,5.0
+Natus Vincere,ESC,6.0
+Natus Vincere,Epsilon,3.0
+Natus Vincere,TeamCRG,1.0
+Natus Vincere,BX3,2.0
+GamePub,Astana Dragons,2.0
+Astana Dragons,fnatic,4.0
+Astana Dragons,Ninjas in Pyjamas,8.0
+Astana Dragons,Complexity,3.0
+Astana Dragons,VeryGames,5.0
+Astana Dragons,CPH Wolves,3.0
+Astana Dragons,Reason,2.0
+Astana Dragons,n!faculty,2.0
+Astana Dragons,UniversalSoldiers,3.0
+Astana Dragons,Clan-Mystik,3.0
+Astana Dragons,3DMAX,2.0
+Astana Dragons,ALTERNATE aTTaX,1.0
+Astana Dragons,ATE,1.0
+Astana Dragons,FAW,1.0
+fnatic,Ninjas in Pyjamas,10.0
+fnatic,Complexity,2.0
+fnatic,VeryGames,8.0
+fnatic,CPH Wolves,1.0
+fnatic,Reason,1.0
+fnatic,n!faculty,1.0
+fnatic,Recursive,3.0
+fnatic,Clan-Mystik,1.0
+fnatic,FMESPORTS,1.0
+fnatic,ALTERNATE aTTaX,2.0
+fnatic,ATE,1.0
+fnatic,Lemondogs,6.0
+fnatic,neXtPlease!,1.0
+fnatic,Curse,2.0
+fnatic,Western Wolves,5.0
+fnatic,LDLC,2.0
+fnatic,Epsilon,3.0
+fnatic,Absolute Legends,3.0
+fnatic,Imaginary,2.0
+fnatic,Anexis,3.0
+fnatic,Dignitas,1.0
+fnatic,BX3,2.0
+Ninjas in Pyjamas,Complexity,5.0
+Ninjas in Pyjamas,VeryGames,18.0
+Ninjas in Pyjamas,CPH Wolves,8.0
+Ninjas in Pyjamas,LGB,3.0
+Ninjas in Pyjamas,Recursive,1.0
+Ninjas in Pyjamas,UniversalSoldiers,1.0
+Ninjas in Pyjamas,FMESPORTS,1.0
+Ninjas in Pyjamas,k1ck,2.0
+Ninjas in Pyjamas,AGENT,1.0
+Ninjas in Pyjamas,ENCE,1.0
+Ninjas in Pyjamas,MOUZ,1.0
+Ninjas in Pyjamas,Lemondogs,2.0
+Ninjas in Pyjamas,Refuse,1.0
+Ninjas in Pyjamas,TeG,2.0
+Ninjas in Pyjamas,Curse,6.0
+Ninjas in Pyjamas,Frost Gaming,2.0
+Ninjas in Pyjamas,Virtus.pro,16.0
+Ninjas in Pyjamas,ESC,4.0
+Ninjas in Pyjamas,Western Wolves,4.0
+Ninjas in Pyjamas,Epsilon,2.0
+Ninjas in Pyjamas,Publiclir.se,1.0
+Ninjas in Pyjamas,Quantic,2.0
+Ninjas in Pyjamas,Denial,2.0
+Ninjas in Pyjamas,Imaginary,1.0
+Ninjas in Pyjamas,Anexis,2.0
+Ninjas in Pyjamas,EYES ON U,2.0
+Ninjas in Pyjamas,myRevenge,2.0
+Ninjas in Pyjamas,Nostalgie,3.0
+Ninjas in Pyjamas,TCM-Gaming,1.0
+Complexity,VeryGames,1.0
+Complexity,n!faculty,1.0
+Complexity,LGB,1.0
+Complexity,Clan-Mystik,1.0
+Complexity,ETERNiTY,1.0
+Complexity,Curse,4.0
+Complexity,Frost Gaming,2.0
+Complexity,MonoManiac,2.0
+Complexity,cuLtivation,2.0
+VeryGames,CPH Wolves,8.0
+VeryGames,n!faculty,1.0
+VeryGames,Xapso,1.0
+VeryGames,UniversalSoldiers,2.0
+VeryGames,Clan-Mystik,2.0
+VeryGames,3DMAX,2.0
+VeryGames,FMESPORTS,2.0
+VeryGames,ALTERNATE aTTaX,1.0
+VeryGames,k1ck,2.0
+VeryGames,C3 Gaming,1.0
+VeryGames,Lemondogs,4.0
+VeryGames,Refuse,1.0
+VeryGames,Curse,1.0
+VeryGames,Virtus.pro,2.0
+VeryGames,ESC,5.0
+VeryGames,Western Wolves,1.0
+VeryGames,Epsilon,1.0
+VeryGames,Quantic,3.0
+VeryGames,Dynamic,3.0
+VeryGames,Anexis,8.0
+VeryGames,TeamCRG,2.0
+VeryGames,Infused,1.0
+VeryGames,Temp.no,2.0
+VeryGames,Nostalgie,1.0
+VeryGames,iRAGE,2.0
+VeryGames,e-Sports.rs,1.0
+VeryGames,logiX,1.0
+CPH Wolves,SK,1.0
+CPH Wolves,n!faculty,2.0
+CPH Wolves,3DMAX,1.0
+CPH Wolves,k1ck,1.0
+CPH Wolves,C3 Gaming,1.0
+CPH Wolves,IGG,1.0
+CPH Wolves,Curse,1.0
+CPH Wolves,Western Wolves,2.0
+CPH Wolves,plan-B,3.0
+CPH Wolves,Server-Forge,2.0
+Reason,SK,1.0
+Reason,FMESPORTS,1.0
+Reason,Curse,2.0
+Reason,Western Wolves,1.0
+Reason,Anexis,2.0
+Reason,Dignitas,1.0
+Reason,EYES ON U,2.0
+Reason,LowLandLions,3.0
+n!faculty,Xapso,1.0
+n!faculty,3DMAX,3.0
+n!faculty,MOUZ,2.0
+n!faculty,HEADSHOTBG,2.0
+n!faculty,Curse,2.0
+n!faculty,ESC,5.0
+n!faculty,Denial,3.0
+n!faculty,Absolute Legends,2.0
+n!faculty,TeamCRG,1.0
+n!faculty,Temp.no,1.0
+n!faculty,KILLERFISH,2.0
+Xapso,Curse,1.0
+Xapso,Virtus.pro,2.0
+Xapso,Anexis,1.0
+Xapso,WRTT,3.0
+Xapso,Nostalgie,2.0
+Xapso,iRAGE,2.0
+LGB,Clan-Mystik,3.0
+LGB,ETERNiTY,1.0
+Recursive,UniversalSoldiers,1.0
+Recursive,iBUYPOWER,1.0
+UniversalSoldiers,iBUYPOWER,1.0
+UniversalSoldiers,3DMAX,2.0
+UniversalSoldiers,MOUZ,1.0
+Clan-Mystik,FMESPORTS,2.0
+Clan-Mystik,ETERNiTY,1.0
+3DMAX,Lemondogs,3.0
+3DMAX,ESC,1.0
+3DMAX,LDLC,1.0
+3DMAX,Epsilon,1.0
+3DMAX,iRAGE,2.0
+3DMAX,TCM-Gaming,1.0
+3DMAX,e-Sports.rs,1.0
+FMESPORTS,ALTERNATE aTTaX,2.0
+FMESPORTS,k1ck,3.0
+FMESPORTS,AGENT,1.0
+FMESPORTS,ENCE,1.0
+FMESPORTS,ESC,1.0
+FMESPORTS,Western Wolves,3.0
+FMESPORTS,Quantic,2.0
+FMESPORTS,Dignitas,1.0
+FMESPORTS,Temp.no,3.0
+FMESPORTS,myRevenge,3.0
+ALTERNATE aTTaX,ATE,1.0
+ALTERNATE aTTaX,Curse,1.0
+ALTERNATE aTTaX,LDLC,1.0
+ALTERNATE aTTaX,Quantic,3.0
+ALTERNATE aTTaX,Anexis,1.0
+ALTERNATE aTTaX,Temp.no,3.0
+ALTERNATE aTTaX,LowLandLions,3.0
+ALTERNATE aTTaX,logiX,1.0
+k1ck,C3 Gaming,1.0
+k1ck,Anexis,1.0
+k1ck,TeamCRG,1.0
+k1ck,Infused,1.0
+AGENT,ENCE,1.0
+MOUZ,ESC,2.0
+MOUZ,Western Wolves,1.0
+MOUZ,Quantic,2.0
+MOUZ,Anexis,1.0
+MOUZ,WRTT,2.0
+MOUZ,KILLERFISH,3.0
+Lemondogs,Refuse,1.0
+Lemondogs,Tessa,1.0
+Lemondogs,Curse,1.0
+Lemondogs,Virtus.pro,2.0
+Lemondogs,LDLC,2.0
+Lemondogs,Anexis,2.0
+Lemondogs,iRAGE,3.0
+Lemondogs,e-Sports.rs,1.0
+FAW,Beantown Bandits,1.0
+Refuse,Tessa,1.0
+Refuse,Publiclir.se,1.0
+HEADSHOTBG,IGG,1.0
+TeG,neXtPlease!,1.0
+Curse,Epsilon,2.0
+Curse,Quantic,4.0
+Curse,Anexis,3.0
+Curse,WRTT,1.0
+Curse,EYES ON U,2.0
+Curse,myRevenge,2.0
+Curse,LowLandLions,2.0
+Frost Gaming,MonoManiac,3.0
+Frost Gaming,cuLtivation,2.0
+Virtus.pro,ESC,9.0
+Virtus.pro,Western Wolves,4.0
+Virtus.pro,H2k.mix,1.0
+Virtus.pro,Quantic,3.0
+Virtus.pro,WRTT,2.0
+Virtus.pro,Nostalgie,2.0
+ESC,LDLC,4.0
+ESC,Epsilon,1.0
+ESC,Cursive,2.0
+ESC,Quantic,6.0
+ESC,TeamCRG,1.0
+ESC,KILLERFISH,2.0
+ESC,TCM-Gaming,1.0
+ESC,logiX,1.0
+Western Wolves,Epsilon,5.0
+Western Wolves,Publiclir.se,1.0
+Western Wolves,Dignitas,1.0
+Western Wolves,Temp.no,1.0
+Western Wolves,plan-B,2.0
+Western Wolves,Server-Forge,2.0
+LDLC,Epsilon,3.0
+LDLC,e-Sports.rs,1.0
+Epsilon,Server-Forge,1.0
+Epsilon,BX3,2.0
+Cursive,H2k.mix,1.0
+Quantic,Dynamic,3.0
+Quantic,Temp.no,2.0
+Imaginary,Nostalgie,1.0
+Imaginary,TCM-Gaming,1.0
+Anexis,TeamCRG,1.0
+Anexis,Infused,1.0
+Anexis,KILLERFISH,1.0
+Anexis,LowLandLions,2.0
+Anexis,TCM-Gaming,2.0
+Anexis,logiX,1.0
+TeamCRG,Infused,1.0
+TeamCRG,Nostalgie,1.0
+TeamCRG,e-Sports.rs,1.0
+Temp.no,plan-B,1.0
+plan-B,Server-Forge,3.0
+WRTT,EYES ON U,1.0
+WRTT,Nostalgie,1.0
+KILLERFISH,BX3,3.0
+Server-Forge,Nostalgie,2.0
+EYES ON U,myRevenge,2.0
+Nostalgie,TCM-Gaming,1.0
+Nostalgie,e-Sports.rs,1.0
+TCM-Gaming,logiX,1.0

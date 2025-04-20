@@ -1,0 +1,563 @@
+Source,Target,Weight
+fnatic,Natus Vincere,23.0
+fnatic,Envy,31.0
+fnatic,?,4.0
+fnatic,Luminosity,7.0
+fnatic,Liquid,11.0
+fnatic,CLG,4.0
+fnatic,Conquest,2.0
+fnatic,Ninjas in Pyjamas,43.0
+fnatic,SK,5.0
+fnatic,TSM,33.0
+fnatic,Virtus.pro,32.0
+fnatic,G2,2.0
+fnatic,Cloud9,8.0
+fnatic,MOUZ,12.0
+fnatic,HellRaisers,9.0
+fnatic,Titan,24.0
+fnatic,Dignitas,9.0
+fnatic,PENTA,5.0
+fnatic,FlipSid3,10.0
+fnatic,Vexed,1.0
+fnatic,eBettle,1.0
+fnatic,Keyd,2.0
+fnatic,Nihilum,2.0
+fnatic,LGB,4.0
+fnatic,Vox Eminor,3.0
+fnatic,Awsomniac,1.0
+fnatic,LDLC,1.0
+Natus Vincere,Envy,29.0
+Natus Vincere,?,2.0
+Natus Vincere,Luminosity,12.0
+Natus Vincere,Liquid,4.0
+Natus Vincere,CLG,5.0
+Natus Vincere,Ninjas in Pyjamas,13.0
+Natus Vincere,SK,3.0
+Natus Vincere,TSM,31.0
+Natus Vincere,Virtus.pro,25.0
+Natus Vincere,G2,1.0
+Natus Vincere,Cloud9,4.0
+Natus Vincere,MOUZ,8.0
+Natus Vincere,HellRaisers,7.0
+Natus Vincere,Titan,22.0
+Natus Vincere,Dignitas,10.0
+Natus Vincere,PENTA,5.0
+Natus Vincere,FlipSid3,14.0
+Natus Vincere,Renegades,2.0
+Natus Vincere,Kinguin,5.0
+Natus Vincere,Tempo Storm,3.0
+Natus Vincere,Elevate,2.0
+Natus Vincere,GPlay,1.0
+Natus Vincere,LGB,2.0
+Natus Vincere,Vox Eminor,3.0
+Natus Vincere,Epsilon,2.0
+Envy,Luminosity,5.0
+Envy,Liquid,2.0
+Envy,CLG,2.0
+Envy,Ninjas in Pyjamas,34.0
+Envy,SK,4.0
+Envy,TSM,19.0
+Envy,Virtus.pro,23.0
+Envy,G2,6.0
+Envy,Cloud9,13.0
+Envy,MOUZ,10.0
+Envy,HellRaisers,7.0
+Envy,Titan,18.0
+Envy,Dignitas,11.0
+Envy,PENTA,7.0
+Envy,FlipSid3,5.0
+Envy,Renegades,1.0
+Envy,Immunity,2.0
+Envy,CPH Wolves,4.0
+Envy,EZskins.com,1.0
+Envy,Bravado,1.0
+Envy,LDLC White,1.0
+Envy,GPlay,3.0
+Envy,LGB,4.0
+Envy,Property,2.0
+?,CLG,2.0
+?,SK,3.0
+Luminosity,Liquid,12.0
+Luminosity,CLG,13.0
+Luminosity,Conquest,2.0
+Luminosity,Ninjas in Pyjamas,3.0
+Luminosity,SK,1.0
+Luminosity,TSM,3.0
+Luminosity,Virtus.pro,1.0
+Luminosity,Cloud9,9.0
+Luminosity,3sUP,2.0
+Luminosity,Winterfox,4.0
+Luminosity,Enemy,2.0
+Luminosity,Method,5.0
+Luminosity,Complexity,4.0
+Luminosity,MOUZ,2.0
+Luminosity,Titan,8.0
+Luminosity,Splyce,3.0
+Luminosity,FlipSid3,1.0
+Luminosity,Coastless,1.0
+Luminosity,Kinguin,1.0
+Luminosity,Tempo Storm,5.0
+Luminosity,Keyd,2.0
+Luminosity,Nihilum,2.0
+Luminosity,affNity,1.0
+Luminosity,ACE,2.0
+Luminosity,Elevate,3.0
+Luminosity,mouseSpaz,2.0
+Luminosity,SYNRGY,1.0
+Luminosity,Paradox,1.0
+Liquid,CLG,19.0
+Liquid,Conquest,7.0
+Liquid,Ninjas in Pyjamas,6.0
+Liquid,TSM,1.0
+Liquid,Virtus.pro,7.0
+Liquid,Legacy OCE,2.0
+Liquid,Cloud9,12.0
+Liquid,3sUP,2.0
+Liquid,Winterfox,4.0
+Liquid,Enemy,2.0
+Liquid,Method,6.0
+Liquid,Complexity,4.0
+Liquid,MOUZ,4.0
+Liquid,Dignitas,2.0
+Liquid,SKDC,1.0
+Liquid,Splyce,3.0
+Liquid,Coastless,1.0
+Liquid,ex-eLevate,1.0
+Liquid,Renegades,5.0
+Liquid,Immunity,3.0
+Liquid,Tempo Storm,2.0
+Liquid,QeeYou,1.0
+Liquid,LDLC White,1.0
+Liquid,Keyd,2.0
+Liquid,Nihilum,3.0
+Liquid,affNity,2.0
+Liquid,ACE,2.0
+Liquid,Elevate,6.0
+Liquid,mouseSpaz,2.0
+Liquid,Vox Eminor,2.0
+Liquid,Mythic,2.0
+Liquid,LDLC,1.0
+CLG,Conquest,2.0
+CLG,Ninjas in Pyjamas,2.0
+CLG,SK,1.0
+CLG,TSM,2.0
+CLG,G2,2.0
+CLG,Cloud9,14.0
+CLG,3sUP,2.0
+CLG,Winterfox,2.0
+CLG,Enemy,2.0
+CLG,Method,4.0
+CLG,Complexity,2.0
+CLG,MOUZ,2.0
+CLG,HellRaisers,1.0
+CLG,Dignitas,1.0
+CLG,SKDC,3.0
+CLG,Splyce,1.0
+CLG,FlipSid3,2.0
+CLG,Renegades,1.0
+CLG,Coast,1.0
+CLG,CSGL,3.0
+CLG,eBettle,1.0
+CLG,Tempo Storm,2.0
+CLG,Bravado,1.0
+CLG,Keyd,4.0
+CLG,Nihilum,3.0
+CLG,affNity,1.0
+CLG,ACE,2.0
+CLG,Elevate,5.0
+CLG,mouseSpaz,2.0
+CLG,SYNRGY,1.0
+CLG,Mythic,2.0
+CLG,LDLC,1.0
+Conquest,Virtus.pro,2.0
+Conquest,Cloud9,2.0
+Conquest,3sUP,2.0
+Conquest,Winterfox,2.0
+Conquest,Enemy,2.0
+Conquest,Method,2.0
+Conquest,Complexity,2.0
+Conquest,MOUZ,3.0
+Conquest,Dignitas,3.0
+Conquest,SKDC,2.0
+Conquest,Coast,1.0
+Ninjas in Pyjamas,SK,6.0
+Ninjas in Pyjamas,TSM,27.0
+Ninjas in Pyjamas,Virtus.pro,23.0
+Ninjas in Pyjamas,G2,4.0
+Ninjas in Pyjamas,Cloud9,2.0
+Ninjas in Pyjamas,MOUZ,7.0
+Ninjas in Pyjamas,HellRaisers,8.0
+Ninjas in Pyjamas,Titan,17.0
+Ninjas in Pyjamas,Dignitas,10.0
+Ninjas in Pyjamas,PENTA,6.0
+Ninjas in Pyjamas,FlipSid3,7.0
+Ninjas in Pyjamas,Renegades,1.0
+Ninjas in Pyjamas,Immunity,4.0
+Ninjas in Pyjamas,QeeYou,1.0
+Ninjas in Pyjamas,LDLC White,1.0
+Ninjas in Pyjamas,Keyd,1.0
+Ninjas in Pyjamas,LGB,3.0
+Ninjas in Pyjamas,Vox Eminor,2.0
+Ninjas in Pyjamas,3DMAX,1.0
+Ninjas in Pyjamas,Property,3.0
+Ninjas in Pyjamas,LDLC,3.0
+Ninjas in Pyjamas,KaBuM,1.0
+SK,TSM,4.0
+SK,Virtus.pro,2.0
+SK,G2,1.0
+SK,MOUZ,4.0
+SK,HellRaisers,5.0
+SK,Titan,5.0
+SK,Dignitas,2.0
+SK,PENTA,2.0
+SK,Renegades,3.0
+SK,CPH Wolves,1.0
+SK,KILLERFISH,3.0
+TSM,Virtus.pro,38.0
+TSM,G2,7.0
+TSM,Cloud9,7.0
+TSM,MOUZ,6.0
+TSM,HellRaisers,10.0
+TSM,Titan,16.0
+TSM,Dignitas,12.0
+TSM,PENTA,4.0
+TSM,FlipSid3,5.0
+TSM,Renegades,3.0
+TSM,CPH Wolves,1.0
+TSM,Kinguin,7.0
+TSM,E-frag.net,3.0
+TSM,Keyd,1.0
+TSM,LGB,4.0
+TSM,3DMAX,1.0
+TSM,Space Soldiers,2.0
+TSM,Acer,2.0
+TSM,jQntefabrikkeN,2.0
+Virtus.pro,Legacy OCE,1.0
+Virtus.pro,G2,6.0
+Virtus.pro,Cloud9,15.0
+Virtus.pro,MOUZ,14.0
+Virtus.pro,HellRaisers,7.0
+Virtus.pro,Titan,19.0
+Virtus.pro,Dignitas,6.0
+Virtus.pro,PENTA,5.0
+Virtus.pro,FlipSid3,5.0
+Virtus.pro,Immunity,3.0
+Virtus.pro,Kinguin,5.0
+Virtus.pro,Tempo Storm,2.0
+Virtus.pro,Keyd,3.0
+Virtus.pro,Nihilum,2.0
+Virtus.pro,Elevate,2.0
+Virtus.pro,LGB,3.0
+Virtus.pro,3DMAX,1.0
+Virtus.pro,CPLAY,2.0
+Virtus.pro,Atlantis,2.0
+Virtus.pro,Publiclir.se,2.0
+Virtus.pro,Lions,2.0
+Virtus.pro,Infused,2.0
+Virtus.pro,volgare,1.0
+G2,MOUZ,4.0
+G2,HellRaisers,3.0
+G2,Titan,2.0
+G2,Dignitas,1.0
+G2,FlipSid3,1.0
+G2,CPH Wolves,1.0
+G2,GPlay,1.0
+G2,Reason,3.0
+G2,Orbit,3.0
+G2,Property,5.0
+G2,Badger,2.0
+Cloud9,3sUP,2.0
+Cloud9,Winterfox,4.0
+Cloud9,Enemy,2.0
+Cloud9,Method,4.0
+Cloud9,Complexity,4.0
+Cloud9,MOUZ,5.0
+Cloud9,Titan,2.0
+Cloud9,Dignitas,3.0
+Cloud9,SKDC,2.0
+Cloud9,Splyce,3.0
+Cloud9,FlipSid3,1.0
+Cloud9,Vexed,1.0
+Cloud9,ex-eLevate,1.0
+Cloud9,Immunity,2.0
+Cloud9,Coast,2.0
+Cloud9,ROCCAT,2.0
+Cloud9,Kinguin,2.0
+Cloud9,Tempo Storm,2.0
+Cloud9,Keyd,3.0
+Cloud9,Boreal,1.0
+Cloud9,Nihilum,6.0
+Cloud9,affNity,2.0
+Cloud9,ACE,1.0
+Cloud9,Elevate,6.0
+Cloud9,mouseSpaz,2.0
+Cloud9,Orbit,5.0
+Cloud9,Mythic,2.0
+Cloud9,KaBuM,1.0
+3sUP,Winterfox,2.0
+3sUP,Enemy,2.0
+3sUP,Method,2.0
+3sUP,Complexity,2.0
+3sUP,Splyce,2.0
+3sUP,Coast,1.0
+Winterfox,Enemy,2.0
+Winterfox,Method,2.0
+Winterfox,Complexity,4.0
+Winterfox,MOUZ,2.0
+Winterfox,Splyce,2.0
+Winterfox,Coastless,1.0
+Winterfox,ex-eLevate,2.0
+Winterfox,Renegades,2.0
+Winterfox,Coast,1.0
+Enemy,Method,2.0
+Enemy,Complexity,1.0
+Enemy,Splyce,2.0
+Enemy,Coast,1.0
+Method,Complexity,2.0
+Method,SKDC,2.0
+Method,Tempo Storm,2.0
+Method,Keyd,2.0
+Method,Nihilum,2.0
+Method,affNity,2.0
+Method,ACE,1.0
+Method,Elevate,1.0
+Method,mouseSpaz,1.0
+Complexity,Splyce,3.0
+Complexity,ex-eLevate,1.0
+Complexity,Coast,1.0
+MOUZ,HellRaisers,10.0
+MOUZ,Titan,9.0
+MOUZ,Dignitas,8.0
+MOUZ,PENTA,6.0
+MOUZ,FlipSid3,4.0
+MOUZ,Renegades,1.0
+MOUZ,Kinguin,1.0
+MOUZ,E-frag.net,3.0
+HellRaisers,Titan,11.0
+HellRaisers,Dignitas,9.0
+HellRaisers,PENTA,7.0
+HellRaisers,FlipSid3,3.0
+HellRaisers,Vexed,5.0
+HellRaisers,E-frag.net,3.0
+HellRaisers,LDLC White,1.0
+HellRaisers,Keyd,1.0
+HellRaisers,GPlay,1.0
+HellRaisers,volgare,1.0
+Titan,Dignitas,12.0
+Titan,PENTA,7.0
+Titan,FlipSid3,4.0
+Titan,Renegades,1.0
+Titan,Immunity,2.0
+Titan,Skyred,2.0
+Titan,LGB,3.0
+Titan,3DMAX,7.0
+Dignitas,PENTA,6.0
+Dignitas,FlipSid3,7.0
+Dignitas,Renegades,1.0
+Dignitas,Immunity,5.0
+Dignitas,CPH Wolves,3.0
+Dignitas,EZskins.com,1.0
+Dignitas,Kinguin,2.0
+Dignitas,E-frag.net,2.0
+Dignitas,Reason,1.0
+Dignitas,schlaegeros,2.0
+Dignitas,LDLC,3.0
+Dignitas,KaBuM,1.0
+Dignitas,myXMG,2.0
+PENTA,FlipSid3,1.0
+PENTA,KILLERFISH,2.0
+PENTA,LGB,2.0
+PENTA,ESC,3.0
+SKDC,Elevate,2.0
+SKDC,Mythic,2.0
+Splyce,Coast,1.0
+FlipSid3,CPH Wolves,4.0
+FlipSid3,Keyd,1.0
+FlipSid3,Boreal,1.0
+FlipSid3,GPlay,1.0
+FlipSid3,LGB,2.0
+FlipSid3,Vox Eminor,1.0
+FlipSid3,Awsomniac,1.0
+FlipSid3,3DMAX,1.0
+FlipSid3,CPLAY,4.0
+FlipSid3,Space Soldiers,1.0
+FlipSid3,Menace,1.0
+FlipSid3,Fraternitas,2.0
+FlipSid3,Temp.no,2.0
+Vexed,Skyred,2.0
+Renegades,Immunity,1.0
+Renegades,Animal Squad,1.0
+Renegades,fSociety,1.0
+Renegades,Exile5,2.0
+Renegades,Chiefs,1.0
+Renegades,EZskins.com,1.0
+Renegades,Bravado,1.0
+Renegades,Dire Wolves,1.0
+Immunity,Animal Squad,1.0
+Immunity,fSociety,1.0
+Immunity,Exile5,2.0
+Immunity,Chiefs,2.0
+Immunity,ROCCAT,2.0
+Immunity,Kinguin,1.0
+Immunity,STREAMLINE,2.0
+Immunity,AVANT,2.0
+Immunity,Vox Eminor,1.0
+Immunity,TRIDENT,1.0
+Animal Squad,fSociety,1.0
+Animal Squad,Exile5,1.0
+Animal Squad,Chiefs,1.0
+fSociety,Exile5,1.0
+fSociety,Chiefs,1.0
+Exile5,Chiefs,1.0
+Exile5,AVANT,1.0
+Chiefs,STREAMLINE,1.0
+Chiefs,AVANT,1.0
+Chiefs,Vox Eminor,1.0
+Chiefs,TRIDENT,1.0
+CPH Wolves,CSGL,3.0
+CPH Wolves,LGB,2.0
+CPH Wolves,3DMAX,5.0
+CPH Wolves,Orbit,1.0
+CPH Wolves,Menace,4.0
+Tempo Storm,Keyd,1.0
+Tempo Storm,Nihilum,2.0
+Tempo Storm,affNity,2.0
+Tempo Storm,ACE,2.0
+Tempo Storm,Elevate,2.0
+Tempo Storm,mouseSpaz,2.0
+QeeYou,LDLC White,1.0
+Keyd,Boreal,1.0
+Keyd,Nihilum,2.0
+Keyd,affNity,2.0
+Keyd,ACE,2.0
+Keyd,Elevate,2.0
+Keyd,mouseSpaz,2.0
+Nihilum,affNity,2.0
+Nihilum,ACE,2.0
+Nihilum,Elevate,2.0
+Nihilum,mouseSpaz,2.0
+affNity,ACE,2.0
+affNity,Elevate,2.0
+affNity,mouseSpaz,2.0
+ACE,Elevate,2.0
+ACE,mouseSpaz,2.0
+Elevate,mouseSpaz,2.0
+Elevate,Paradox,1.0
+mouseSpaz,Paradox,1.0
+STREAMLINE,Dire Wolves,1.0
+STREAMLINE,AVANT,1.0
+STREAMLINE,Vox Eminor,2.0
+STREAMLINE,TRIDENT,1.0
+Dire Wolves,AVANT,1.0
+AVANT,Vox Eminor,1.0
+AVANT,TRIDENT,1.0
+LGB,INSHOCK,3.0
+LGB,malefiQ,2.0
+LGB,puta,2.0
+Vox Eminor,TRIDENT,1.0
+3DMAX,Orbit,2.0
+3DMAX,Property,1.0
+3DMAX,Games4u,2.0
+3DMAX,INSHOCK,1.0
+3DMAX,myKPV,2.0
+3DMAX,Lemondogs,1.0
+Reason,Games4u,1.0
+Reason,INSHOCK,5.0
+Reason,Atlantis,1.0
+Reason,schlaegeros,1.0
+Orbit,Games4u,2.0
+Orbit,Playing Ducks,1.0
+Orbit,malefiQ,1.0
+Orbit,FUGL?,2.0
+Orbit,Infused,2.0
+CPLAY,Acer,2.0
+CPLAY,Fraternitas,3.0
+CPLAY,Badger,2.0
+CPLAY,Temp.no,1.0
+CPLAY,Lucidez,1.0
+Property,Playing Ducks,2.0
+Property,Publiclir.se,3.0
+Property,Lemondogs,2.0
+Games4u,Acer,1.0
+Games4u,schlaegeros,1.0
+Games4u,FUGL?,2.0
+Games4u,Lions,1.0
+Games4u,Frederiksberg,1.0
+Games4u,Lucidez,2.0
+Playing Ducks,Space Soldiers,5.0
+Playing Ducks,Publiclir.se,1.0
+Playing Ducks,jQntefabrikkeN,1.0
+Space Soldiers,myKPV,1.0
+Space Soldiers,Lemondogs,2.0
+Space Soldiers,FUGL?,1.0
+Space Soldiers,Badger,1.0
+Space Soldiers,FONA,1.0
+Space Soldiers,PRiME,1.0
+INSHOCK,puta,1.0
+INSHOCK,FUGL?,1.0
+INSHOCK,Badger,2.0
+INSHOCK,Blight,1.0
+INSHOCK,Sespåmermaid,2.0
+Atlantis,malefiQ,2.0
+Atlantis,puta,5.0
+Acer,Sharkgaming,4.0
+malefiQ,Fraternitas,1.0
+malefiQ,TAKTIKSTATIV,2.0
+malefiQ,melty,1.0
+malefiQ,DENiED,2.0
+Publiclir.se,myKPV,5.0
+myKPV,FUGL?,1.0
+myKPV,Lions,3.0
+myKPV,partyastronauts,1.0
+myKPV,re:take,2.0
+Menace,Lemondogs,1.0
+Menace,schlaegeros,2.0
+Menace,Badger,1.0
+Menace,Lions,2.0
+Menace,MnM,1.0
+Lemondogs,Sharkgaming,1.0
+Lemondogs,MnM,1.0
+Lemondogs,re:take,1.0
+Lemondogs,eSpuma,1.0
+puta,jQntefabrikkeN,1.0
+puta,Temp.no,1.0
+puta,Free Transfer,1.0
+puta,TJ'S HELTE,1.0
+schlaegeros,Frederiksberg,2.0
+schlaegeros,Sespåmermaid,1.0
+Fraternitas,Temp.no,2.0
+jQntefabrikkeN,Sharkgaming,4.0
+jQntefabrikkeN,Free Transfer,2.0
+jQntefabrikkeN,TEMPEST,1.0
+FUGL?,Blight,1.0
+FUGL?,h$fyre,1.0
+FUGL?,PRiME,1.0
+Badger,FONA,1.0
+Badger,Sapiens,1.0
+Sharkgaming,TAKTIKSTATIV,1.0
+Sharkgaming,melty,1.0
+Sharkgaming,TEMPEST,1.0
+Temp.no,myRevenge,2.0
+Temp.no,h$fyre,1.0
+Lions,no_rhythm,2.0
+FONA,Sapiens,1.0
+FONA,DENiED,1.0
+Free Transfer,TJ'S HELTE,1.0
+Free Transfer,MIXERINO,2.0
+MnM,no_rhythm,1.0
+MnM,re:take,1.0
+MnM,e9,1.0
+no_rhythm,partyastronauts,1.0
+no_rhythm,e9,1.0
+Blight,Sapiens,1.0
+Blight,h$fyre,1.0
+Blight,FoxamoX,1.0
+Frederiksberg,Sespåmermaid,1.0
+Frederiksberg,1. Holdet,2.0
+myRevenge,Lucidez,1.0
+myRevenge,melty,2.0
+TAKTIKSTATIV,TJ'S HELTE,1.0
+partyastronauts,eSpuma,2.0
+Sapiens,FoxamoX,1.0
+h$fyre,naptoR.Factory,2.0
+TJ'S HELTE,kRoGhs KanonEr,2.0

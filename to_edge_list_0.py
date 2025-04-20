@@ -20,16 +20,16 @@ def to_single(df: pd.DataFrame, map_name: str = None, team: str = None, postfix:
         if row[f"Team1_{postfix}"] > row[f"Team2_{postfix}"]:
             return pd.Series({
                 'Date': row['Date'],
-                'Source': row['Team1_Name'],
-                'Target': row['Team2_Name'],
+                'Source': row['Team1_Text'],
+                'Target': row['Team2_Text'],
                 'Score_Diff': row[f"Team1_{postfix}"] - row[f"Team2_{postfix}"],
                 'Map_Name': row['Map_Name']
             })
         else:
             return pd.Series({
                 'Date': row['Date'],
-                'Source': row['Team2_Name'],
-                'Target': row['Team1_Name'],
+                'Source': row['Team2_Text'],
+                'Target': row['Team1_Text'],
                 'Score_Diff': row[f"Team2_{postfix}"] - row[f"Team1_{postfix}"],
                 'Map_Name': row['Map_Name']
             })
@@ -43,14 +43,14 @@ def to_single(df: pd.DataFrame, map_name: str = None, team: str = None, postfix:
 def to_double(df: pd.DataFrame, map_name: str = None, team: str = None, postfix: str = "Scaled") -> pd.DataFrame:
     first = df.drop(columns=[f"Team2_{postfix}"])
     first = first.rename(columns={
-                         f"Team1_{postfix}": f"{postfix}_Score", 'Team1_Name': 'Source', 'Team2_Name': 'Target'})
+                         f"Team1_{postfix}": f"{postfix}_Score", 'Team1_Text': 'Source', 'Team2_Text': 'Target'})
     first.index = map(lambda i: 2 * i, first.index.to_list())
     second = df.drop(columns=[f"Team1_{postfix}"])
     second = second.rename(
-        columns={'Team1_Name': 'Team2_Name', 'Team2_Name': 'Team1_Name'})
+        columns={'Team1_Text': 'Team2_Text', 'Team2_Text': 'Team1_Text'})
     second = second.rename(columns={f"Team2_{postfix}": f"{postfix}_Score"})
     second = second.rename(
-        columns={'Team1_Name': 'Source', 'Team2_Name': 'Target'})
+        columns={'Team1_Text': 'Source', 'Team2_Text': 'Target'})
     second.index = map(lambda i: 2 * i + 1, second.index.to_list())
     other = pd.concat([first, second], axis=0).sort_index()
     return filter_map(filter_team(other, team), map_name)
@@ -81,8 +81,8 @@ def save_dataframes(dfs: list[pd.DataFrame], prefix: str, target_dir: str) -> No
 def read_data(input_path: str) -> pd.DataFrame:
     df = pd.read_csv(input_path, sep=',')
     df['Date'] = pd.to_datetime(df['Date'])
-    df = df[["Date", "Team1_Name", "Team1_Score",
-             "Team2_Name", "Team2_Score", "Map_Name"]]
+    df = df[["Date", "Team1_Text", "Team1_Score",
+             "Team2_Text", "Team2_Score", "Map_Name"]]
     return df
 
 
