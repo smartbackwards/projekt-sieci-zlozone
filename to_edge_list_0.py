@@ -15,22 +15,22 @@ def filter_team(df: pd.DataFrame, team_name: str) -> pd.DataFrame:
     return df[(df['Target'] == team_name) | (df['Source'] == team_name)]
 
 
-def to_single(df: pd.DataFrame, map_name: str = None, team: str = None) -> pd.DataFrame:
+def to_single(df: pd.DataFrame, map_name: str = None, team: str = None, postfix: str = "Scaled") -> pd.DataFrame:
     def helper(row: pd.Series):
-        if row['Team1_Scaled'] > row["Team2_Scaled"]:
+        if row[f"Team1_{postfix}"] > row[f"Team2_{postfix}"]:
             return pd.Series({
                 'Date': row['Date'],
-                'Source': row['Team1_Name'],
-                'Target': row['Team2_Name'],
-                'Score_Diff': row['Team1_Scaled'] - row['Team2_Scaled'],
+                'Source': row['Team1_Text'],
+                'Target': row['Team2_Text'],
+                'Score_Diff': row[f"Team1_{postfix}"] - row[f"Team2_{postfix}"],
                 'Map_Name': row['Map_Name']
             })
         else:
             return pd.Series({
                 'Date': row['Date'],
-                'Source': row['Team2_Name'],
-                'Target': row['Team1_Name'],
-                'Score_Diff': row['Team2_Scaled'] - row['Team1_Scaled'],
+                'Source': row['Team2_Text'],
+                'Target': row['Team1_Text'],
+                'Score_Diff': row[f"Team2_{postfix}"] - row[f"Team1_{postfix}"],
                 'Map_Name': row['Map_Name']
             })
     other = pd.DataFrame(
@@ -40,17 +40,17 @@ def to_single(df: pd.DataFrame, map_name: str = None, team: str = None) -> pd.Da
     return filter_map(filter_team(other, team), map_name)
 
 
-def to_double(df: pd.DataFrame, map_name: str = None, team: str = None) -> pd.DataFrame:
-    first = df.drop(columns=['Team2_Scaled'])
+def to_double(df: pd.DataFrame, map_name: str = None, team: str = None, postfix: str = "Scaled") -> pd.DataFrame:
+    first = df.drop(columns=[f"Team2_{postfix}"])
     first = first.rename(columns={
-                         'Team1_Scaled': 'Scaled_Score', 'Team1_Name': 'Source', 'Team2_Name': 'Target'})
+                         f"Team1_{postfix}": f"{postfix}_Score", 'Team1_Text': 'Source', 'Team2_Text': 'Target'})
     first.index = map(lambda i: 2 * i, first.index.to_list())
-    second = df.drop(columns=['Team1_Scaled'])
+    second = df.drop(columns=[f"Team1_{postfix}"])
     second = second.rename(
-        columns={'Team1_Name': 'Team2_Name', 'Team2_Name': 'Team1_Name'})
-    second = second.rename(columns={'Team2_Scaled': 'Scaled_Score'})
+        columns={'Team1_Text': 'Team2_Text', 'Team2_Text': 'Team1_Text'})
+    second = second.rename(columns={f"Team2_{postfix}": f"{postfix}_Score"})
     second = second.rename(
-        columns={'Team1_Name': 'Source', 'Team2_Name': 'Target'})
+        columns={'Team1_Text': 'Source', 'Team2_Text': 'Target'})
     second.index = map(lambda i: 2 * i + 1, second.index.to_list())
     other = pd.concat([first, second], axis=0).sort_index()
     return filter_map(filter_team(other, team), map_name)
@@ -74,8 +74,31 @@ def split_by_date_intervals(df: pd.DataFrame, dates: list[str]) -> list[pd.DataF
 def save_dataframes(dfs: list[pd.DataFrame], prefix: str, target_dir: str) -> None:
     os.mkdir(target_dir)
     for df in dfs:
-        file = os.path.join(target_dir, f"{prefix}_{df['Date'].max()}")
+        file = os.path.join(target_dir, f"{prefix}_{df['Date'].max()}.csv")
         df.to_csv(file, index=False)
+
+
+def read_data(input_path: str) -> pd.DataFrame:
+    df = pd.read_csv(input_path, sep=',')
+    df['Date'] = pd.to_datetime(df['Date'])
+    df = df[["Date", "Team1_Text", "Team1_Score",
+             "Team2_Text", "Team2_Score", "Map_Name"]]
+    return df
+
+
+def max_score_scaling(df: pd.DataFrame) -> pd.DataFrame:
+    df["Team1_Scaled"] = (
+        df["Team1_Score"] / df[["Team1_Score", "Team2_Score"]].max(axis=1))
+    df["Team2_Scaled"] = (
+        df["Team2_Score"] / df[["Team1_Score", "Team2_Score"]].max(axis=1))
+    df = df.drop(columns=["Team1_Score", "Team2_Score"])
+    return df
+
+
+def binary_weight(df: pd.DataFrame) -> pd.DataFrame:
+    df["Team1_Scaled"] = df["Team1_Score"] >= df["Team2_Score"]
+    df["Team2_Scaled"] = df["Team2_Score"] > df["Team1_Score"]
+    return df
 
 
 def main():
@@ -94,16 +117,9 @@ def main():
                         help="filter map", type=str)
     args = parser.parse_args()
 
-    df = pd.read_csv(args.input, sep=',')
-    df['Date'] = pd.to_datetime(df['Date'])
-    df = df[["Date", "Team1_Name", "Team1_Score",
-             "Team2_Name", "Team2_Score", "Map_Name"]]
-    df_rel = df.copy()
-    df_rel["Team1_Scaled"] = (
-        df_rel["Team1_Score"] / df_rel[["Team1_Score", "Team2_Score"]].max(axis=1))
-    df_rel["Team2_Scaled"] = (
-        df_rel["Team2_Score"] / df_rel[["Team1_Score", "Team2_Score"]].max(axis=1))
-    df_rel = df_rel.drop(columns=["Team1_Score", "Team2_Score"])
+    df_rel = read_data(args.input)
+    df_rel = max_score_scaling(df_rel)
+
     if not args.out_single is None:
         if not args.dates is None:
             save_dataframes(split_by_date_intervals(
@@ -120,4 +136,5 @@ def main():
                 args.out_double, index=False)
 
 
-main()
+if __name__ == "__main__":
+    main()

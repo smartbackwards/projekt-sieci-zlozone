@@ -1,0 +1,403 @@
+Source,Target,Weight
+Virtus.pro,Apeks,2.0
+Virtus.pro,Monte,10.0
+Virtus.pro,The MongolZ,2.0
+Virtus.pro,FaZe,5.0
+Virtus.pro,M80,1.0
+Virtus.pro,GamerLegion,2.0
+Virtus.pro,G2,6.0
+Virtus.pro,Cloud9,3.0
+Virtus.pro,HEROIC,2.0
+Virtus.pro,Spirit,10.0
+Virtus.pro,MIBR,1.0
+Virtus.pro,BetBoom,2.0
+Virtus.pro,FURIA,3.0
+Virtus.pro,Astralis,3.0
+Virtus.pro,fnatic,3.0
+Virtus.pro,Eternal Fire,2.0
+Virtus.pro,3DMAX,1.0
+Virtus.pro,Ninjas in Pyjamas,3.0
+Virtus.pro,OG,2.0
+Virtus.pro,Movistar Riders,2.0
+Virtus.pro,9z,3.0
+Virtus.pro,Liquid,6.0
+Apeks,Monte,3.0
+Apeks,The MongolZ,1.0
+Apeks,Vitality,2.0
+Apeks,M80,2.0
+Apeks,Natus Vincere,3.0
+Apeks,MOUZ,1.0
+Apeks,GamerLegion,7.0
+Apeks,G2,2.0
+Apeks,HEROIC,1.0
+Apeks,ENCE,2.0
+Apeks,FURIA,8.0
+Apeks,Astralis,6.0
+Apeks,fnatic,3.0
+Apeks,Ninjas in Pyjamas,2.0
+Apeks,BIG,3.0
+Apeks,OG,2.0
+Apeks,9INE,2.0
+Apeks,9z,2.0
+Apeks,Grayhound,1.0
+Apeks,VERTEX,2.0
+Apeks,Liquid,3.0
+Apeks,Imperial,2.0
+Apeks,Into the Breach,1.0
+Apeks,Bad News Eagles,1.0
+Apeks,paiN,3.0
+Monte,The MongolZ,2.0
+Monte,Vitality,4.0
+Monte,FaZe,3.0
+Monte,BESTIA,3.0
+Monte,Complexity,6.0
+Monte,Natus Vincere,4.0
+Monte,GamerLegion,4.0
+Monte,Cloud9,2.0
+Monte,HEROIC,5.0
+Monte,Spirit,2.0
+Monte,MIBR,5.0
+Monte,FURIA,4.0
+Monte,fnatic,7.0
+Monte,Eternal Fire,2.0
+Monte,Nouns,1.0
+Monte,TYLOO,1.0
+Monte,Ninjas in Pyjamas,2.0
+Monte,BIG,3.0
+Monte,Aurora,3.0
+Monte,OG,2.0
+Monte,Movistar Riders,2.0
+Monte,SAW,2.0
+Monte,Wildcard,2.0
+Monte,Grayhound,2.0
+Monte,Imperial,1.0
+Monte,Rooster,3.0
+Monte,paiN,3.0
+Monte,FORZE,1.0
+Monte,Fluxo,1.0
+The MongolZ,Complexity,3.0
+The MongolZ,Natus Vincere,1.0
+The MongolZ,MOUZ,1.0
+The MongolZ,GamerLegion,4.0
+The MongolZ,G2,1.0
+The MongolZ,HEROIC,6.0
+The MongolZ,FURIA,2.0
+The MongolZ,Grayhound,1.0
+The MongolZ,Imperial,3.0
+The MongolZ,Into the Breach,2.0
+Vitality,FaZe,13.0
+Vitality,Complexity,5.0
+Vitality,Natus Vincere,6.0
+Vitality,MOUZ,2.0
+Vitality,GamerLegion,2.0
+Vitality,G2,10.0
+Vitality,Cloud9,12.0
+Vitality,HEROIC,12.0
+Vitality,ENCE,10.0
+Vitality,MIBR,4.0
+Vitality,BetBoom,1.0
+Vitality,Astralis,2.0
+Vitality,fnatic,3.0
+Vitality,Ninjas in Pyjamas,6.0
+Vitality,BIG,4.0
+Vitality,OG,8.0
+Vitality,Movistar Riders,2.0
+Vitality,Grayhound,2.0
+Vitality,Liquid,3.0
+Vitality,Imperial,2.0
+Vitality,Evil Geniuses,4.0
+Vitality,ORKS,2.0
+Vitality,Into the Breach,2.0
+FaZe,Complexity,8.0
+FaZe,Natus Vincere,13.0
+FaZe,MOUZ,14.0
+FaZe,GamerLegion,4.0
+FaZe,G2,12.0
+FaZe,Cloud9,13.0
+FaZe,HEROIC,8.0
+FaZe,ENCE,13.0
+FaZe,Spirit,2.0
+FaZe,FURIA,4.0
+FaZe,Astralis,2.0
+FaZe,fnatic,3.0
+FaZe,Ninjas in Pyjamas,8.0
+FaZe,OG,7.0
+FaZe,SAW,2.0
+FaZe,9INE,2.0
+FaZe,9z,3.0
+FaZe,Liquid,10.0
+FaZe,Evil Geniuses,1.0
+FaZe,Rooster,2.0
+FaZe,Into the Breach,1.0
+FaZe,Bad News Eagles,3.0
+FaZe,paiN,1.0
+FaZe,FORZE,5.0
+FaZe,IHC,2.0
+BESTIA,M80,2.0
+Complexity,M80,2.0
+Complexity,Natus Vincere,6.0
+Complexity,MOUZ,9.0
+Complexity,GamerLegion,4.0
+Complexity,G2,8.0
+Complexity,Cloud9,8.0
+Complexity,HEROIC,5.0
+Complexity,ENCE,4.0
+Complexity,Spirit,2.0
+Complexity,BetBoom,2.0
+Complexity,FURIA,1.0
+Complexity,Astralis,7.0
+Complexity,fnatic,4.0
+Complexity,Ninjas in Pyjamas,6.0
+Complexity,BIG,7.0
+Complexity,OG,2.0
+Complexity,Movistar Riders,2.0
+Complexity,9INE,3.0
+Complexity,Liquid,4.0
+Complexity,Imperial,5.0
+Complexity,Evil Geniuses,5.0
+Complexity,paiN,1.0
+Complexity,Outsiders,3.0
+Complexity,Permitta,2.0
+M80,MOUZ,2.0
+M80,9z,2.0
+M80,5yclone,2.0
+Natus Vincere,MOUZ,8.0
+Natus Vincere,GamerLegion,1.0
+Natus Vincere,G2,11.0
+Natus Vincere,Cloud9,5.0
+Natus Vincere,HEROIC,11.0
+Natus Vincere,ENCE,3.0
+Natus Vincere,Spirit,2.0
+Natus Vincere,FURIA,3.0
+Natus Vincere,Astralis,9.0
+Natus Vincere,Eternal Fire,2.0
+Natus Vincere,Ninjas in Pyjamas,11.0
+Natus Vincere,BIG,4.0
+Natus Vincere,OG,3.0
+Natus Vincere,Liquid,3.0
+Natus Vincere,5yclone,2.0
+Natus Vincere,FORZE,3.0
+Natus Vincere,Outsiders,4.0
+Natus Vincere,00NATION,3.0
+Natus Vincere,Rare Atom,3.0
+MOUZ,GamerLegion,2.0
+MOUZ,G2,5.0
+MOUZ,Cloud9,5.0
+MOUZ,HEROIC,11.0
+MOUZ,ENCE,5.0
+MOUZ,Spirit,2.0
+MOUZ,MIBR,5.0
+MOUZ,BetBoom,3.0
+MOUZ,FURIA,8.0
+MOUZ,Astralis,7.0
+MOUZ,fnatic,1.0
+MOUZ,Ninjas in Pyjamas,3.0
+MOUZ,Lynn Vision,2.0
+MOUZ,Wings Up,1.0
+MOUZ,BIG,1.0
+MOUZ,OG,6.0
+MOUZ,SAW,2.0
+MOUZ,9INE,3.0
+MOUZ,VERTEX,1.0
+MOUZ,Evil Geniuses,2.0
+MOUZ,paiN,3.0
+GamerLegion,Cloud9,5.0
+GamerLegion,HEROIC,6.0
+GamerLegion,ENCE,3.0
+GamerLegion,MIBR,1.0
+GamerLegion,BetBoom,4.0
+GamerLegion,FURIA,2.0
+GamerLegion,Astralis,2.0
+GamerLegion,HAVU,3.0
+GamerLegion,fnatic,5.0
+GamerLegion,3DMAX,3.0
+GamerLegion,Ninjas in Pyjamas,3.0
+GamerLegion,OG,3.0
+GamerLegion,Movistar Riders,2.0
+GamerLegion,9INE,1.0
+GamerLegion,Grayhound,2.0
+GamerLegion,FORZE,2.0
+G2,Cloud9,4.0
+G2,HEROIC,6.0
+G2,ENCE,8.0
+G2,MIBR,2.0
+G2,FURIA,2.0
+G2,Astralis,5.0
+G2,fnatic,6.0
+G2,Eternal Fire,2.0
+G2,Nouns,1.0
+G2,Lynn Vision,2.0
+G2,BIG,4.0
+G2,OG,4.0
+G2,Movistar Riders,2.0
+G2,9INE,3.0
+G2,Grayhound,1.0
+G2,Liquid,5.0
+G2,Imperial,3.0
+G2,Evil Geniuses,3.0
+G2,Bad News Eagles,1.0
+Cloud9,HEROIC,2.0
+Cloud9,ENCE,10.0
+Cloud9,MIBR,4.0
+Cloud9,BetBoom,2.0
+Cloud9,FURIA,3.0
+Cloud9,Astralis,2.0
+Cloud9,fnatic,9.0
+Cloud9,Eternal Fire,4.0
+Cloud9,Lynn Vision,2.0
+Cloud9,BIG,2.0
+Cloud9,OG,2.0
+Cloud9,9INE,3.0
+Cloud9,Grayhound,1.0
+Cloud9,Liquid,3.0
+Cloud9,Evil Geniuses,2.0
+Cloud9,Outsiders,3.0
+Cloud9,IHC,3.0
+HEROIC,ENCE,5.0
+HEROIC,FURIA,6.0
+HEROIC,Astralis,7.0
+HEROIC,Nouns,3.0
+HEROIC,Ninjas in Pyjamas,2.0
+HEROIC,BIG,16.0
+HEROIC,Aurora,6.0
+HEROIC,OG,2.0
+HEROIC,Movistar Riders,2.0
+HEROIC,9INE,1.0
+HEROIC,9z,1.0
+HEROIC,Liquid,3.0
+HEROIC,Imperial,3.0
+HEROIC,Evil Geniuses,6.0
+HEROIC,Rooster,2.0
+HEROIC,Falcons,2.0
+ENCE,MIBR,3.0
+ENCE,Astralis,6.0
+ENCE,HAVU,1.0
+ENCE,fnatic,8.0
+ENCE,TYLOO,1.0
+ENCE,Ninjas in Pyjamas,6.0
+ENCE,Lynn Vision,1.0
+ENCE,BIG,3.0
+ENCE,OG,1.0
+ENCE,Movistar Riders,2.0
+ENCE,9INE,3.0
+ENCE,Liquid,2.0
+ENCE,Evil Geniuses,2.0
+ENCE,Into the Breach,1.0
+ENCE,Bad News Eagles,1.0
+ENCE,paiN,1.0
+ENCE,FORZE,2.0
+ENCE,Rare Atom,2.0
+ENCE,ATK,3.0
+Spirit,MIBR,2.0
+Spirit,FURIA,4.0
+Spirit,Astralis,5.0
+Spirit,Ninjas in Pyjamas,2.0
+Spirit,BIG,3.0
+Spirit,9z,3.0
+Spirit,Grayhound,1.0
+Spirit,Liquid,5.0
+Spirit,FORZE,3.0
+Spirit,Sprout,3.0
+MIBR,BetBoom,2.0
+MIBR,fnatic,4.0
+MIBR,Eternal Fire,5.0
+MIBR,Ninjas in Pyjamas,1.0
+MIBR,Grayhound,3.0
+MIBR,Evil Geniuses,3.0
+MIBR,IHC,2.0
+FURIA,Astralis,4.0
+FURIA,HAVU,2.0
+FURIA,fnatic,3.0
+FURIA,Eternal Fire,3.0
+FURIA,Nouns,4.0
+FURIA,Ninjas in Pyjamas,3.0
+FURIA,BIG,11.0
+FURIA,OG,1.0
+FURIA,Movistar Riders,5.0
+FURIA,Grayhound,5.0
+FURIA,Imperial,2.0
+FURIA,IHC,3.0
+FURIA,Permitta,1.0
+Astralis,Eternal Fire,2.0
+Astralis,Ninjas in Pyjamas,7.0
+Astralis,Lynn Vision,1.0
+Astralis,BIG,3.0
+Astralis,OG,3.0
+Astralis,9INE,2.0
+Astralis,Liquid,6.0
+Astralis,ORKS,2.0
+Astralis,ATK,3.0
+fnatic,Eternal Fire,6.0
+fnatic,Ninjas in Pyjamas,6.0
+fnatic,OG,8.0
+fnatic,9INE,2.0
+fnatic,9z,6.0
+fnatic,5yclone,2.0
+fnatic,Imperial,3.0
+fnatic,Evil Geniuses,1.0
+fnatic,Into the Breach,3.0
+fnatic,Outsiders,5.0
+fnatic,IHC,3.0
+Eternal Fire,Nouns,3.0
+Eternal Fire,TYLOO,2.0
+Eternal Fire,BIG,2.0
+Eternal Fire,Aurora,3.0
+Eternal Fire,9INE,2.0
+Eternal Fire,Liquid,2.0
+Eternal Fire,Evil Geniuses,2.0
+TYLOO,Lynn Vision,3.0
+Ninjas in Pyjamas,Wings Up,2.0
+Ninjas in Pyjamas,BIG,2.0
+Ninjas in Pyjamas,OG,6.0
+Ninjas in Pyjamas,9INE,3.0
+Ninjas in Pyjamas,Grayhound,5.0
+Ninjas in Pyjamas,Imperial,4.0
+Ninjas in Pyjamas,Evil Geniuses,2.0
+Ninjas in Pyjamas,Into the Breach,1.0
+Ninjas in Pyjamas,paiN,2.0
+Ninjas in Pyjamas,Outsiders,3.0
+Ninjas in Pyjamas,00NATION,3.0
+Lynn Vision,9INE,3.0
+Lynn Vision,Liquid,4.0
+BIG,Aurora,2.0
+BIG,OG,3.0
+BIG,Movistar Riders,3.0
+BIG,SAW,2.0
+BIG,9INE,3.0
+BIG,Liquid,5.0
+OG,9INE,1.0
+OG,9z,2.0
+OG,Liquid,5.0
+OG,paiN,3.0
+OG,Outsiders,2.0
+OG,00NATION,2.0
+OG,Sprout,1.0
+Movistar Riders,SAW,2.0
+Movistar Riders,9z,9.0
+SAW,Wildcard,3.0
+SAW,Imperial,3.0
+9INE,Liquid,4.0
+9z,5yclone,3.0
+9z,Imperial,2.0
+Grayhound,Liquid,4.0
+Grayhound,Imperial,3.0
+Grayhound,ORKS,3.0
+Grayhound,paiN,3.0
+Grayhound,FORZE,1.0
+Grayhound,00NATION,6.0
+Liquid,Into the Breach,2.0
+Liquid,paiN,2.0
+Liquid,FORZE,1.0
+Liquid,Fluxo,3.0
+Liquid,Rare Atom,4.0
+Liquid,ATK,2.0
+Liquid,IHC,2.0
+5yclone,Imperial,3.0
+Evil Geniuses,Rooster,2.0
+Evil Geniuses,IHC,3.0
+Evil Geniuses,Sprout,2.0
+Rooster,paiN,2.0
+Rooster,00NATION,3.0
+paiN,Fluxo,1.0
+paiN,IHC,2.0
+Outsiders,IHC,2.0

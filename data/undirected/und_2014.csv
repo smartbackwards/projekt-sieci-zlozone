@@ -1,0 +1,262 @@
+Source,Target,Weight
+fnatic,Virtus.pro,15.0
+fnatic,iBUYPOWER,11.0
+fnatic,Cloud9,1.0
+fnatic,Titan,11.0
+fnatic,MOUZ,3.0
+fnatic,Elevate,2.0
+fnatic,LDLC,10.0
+fnatic,Ninjas in Pyjamas,7.0
+fnatic,Natus Vincere,10.0
+fnatic,Dignitas,12.0
+fnatic,HellRaisers,4.0
+fnatic,myXMG,2.0
+fnatic,Bravado,1.0
+fnatic,3DMAX,1.0
+fnatic,k1ck,1.0
+fnatic,pow,1.0
+fnatic,London Conspiracy,3.0
+fnatic,Energy,1.0
+fnatic,Epsilon,3.0
+fnatic,Infused,1.0
+fnatic,SK,2.0
+fnatic,Reason,2.0
+fnatic,Publiclir.se,2.0
+fnatic,LGB,3.0
+fnatic,Tricked,2.0
+Virtus.pro,iBUYPOWER,7.0
+Virtus.pro,Cloud9,6.0
+Virtus.pro,Titan,8.0
+Virtus.pro,MOUZ,1.0
+Virtus.pro,LDLC,15.0
+Virtus.pro,Ninjas in Pyjamas,16.0
+Virtus.pro,Natus Vincere,12.0
+Virtus.pro,Dignitas,9.0
+Virtus.pro,PENTA,2.0
+Virtus.pro,HellRaisers,6.0
+Virtus.pro,ESC,2.0
+Virtus.pro,myXMG,3.0
+Virtus.pro,Planetkey,1.0
+Virtus.pro,AlienTech,1.0
+Virtus.pro,Virtual Impact,1.0
+Virtus.pro,London Conspiracy,4.0
+Virtus.pro,Epsilon,2.0
+Virtus.pro,NetcodeGuides.com,2.0
+Virtus.pro,dAT,1.0
+Virtus.pro,FMESPORTS,1.0
+Virtus.pro,ESG!,1.0
+Virtus.pro,Complexity,3.0
+Virtus.pro,SK,1.0
+Virtus.pro,LGB,5.0
+Virtus.pro,TEAMGOK,2.0
+iBUYPOWER,Denial,2.0
+iBUYPOWER,Cloud9,1.0
+iBUYPOWER,Titan,13.0
+iBUYPOWER,MOUZ,3.0
+iBUYPOWER,LDLC,2.0
+iBUYPOWER,Ninjas in Pyjamas,1.0
+iBUYPOWER,Natus Vincere,2.0
+iBUYPOWER,Dignitas,5.0
+iBUYPOWER,PENTA,1.0
+iBUYPOWER,CPH Wolves,1.0
+iBUYPOWER,Cipangu.GO,1.0
+iBUYPOWER,GPlay,1.0
+iBUYPOWER,3DMAX,1.0
+iBUYPOWER,London Conspiracy,1.0
+iBUYPOWER,Epsilon,1.0
+iBUYPOWER,LunatiK,1.0
+iBUYPOWER,NetcodeGuides.com,1.0
+iBUYPOWER,Mobility,1.0
+iBUYPOWER,savage,1.0
+iBUYPOWER,dAT,1.0
+iBUYPOWER,Infused,1.0
+iBUYPOWER,OverGaming,2.0
+iBUYPOWER,Complexity,7.0
+iBUYPOWER,United5,4.0
+iBUYPOWER,mouseSpaz,2.0
+Denial,Cloud9,2.0
+Denial,Titan,2.0
+Denial,Elevate,3.0
+Cloud9,Titan,1.0
+Cloud9,MOUZ,3.0
+Cloud9,LDLC,3.0
+Cloud9,Ninjas in Pyjamas,3.0
+Cloud9,Dignitas,1.0
+Cloud9,HellRaisers,1.0
+Cloud9,Planetkey,1.0
+Cloud9,Bravado,1.0
+Cloud9,AlienTech,1.0
+Cloud9,Virtual Impact,1.0
+Cloud9,LunatiK,1.0
+Cloud9,NetcodeGuides.com,1.0
+Cloud9,Mobility,1.0
+Cloud9,savage,1.0
+Titan,MOUZ,2.0
+Titan,LDLC,11.0
+Titan,Ninjas in Pyjamas,12.0
+Titan,Natus Vincere,4.0
+Titan,Dignitas,4.0
+Titan,HellRaisers,5.0
+Titan,CPH Wolves,1.0
+Titan,Platinium,1.0
+Titan,KaBuM,1.0
+Titan,Epsilon,4.0
+Titan,ALTERNATE aTTaX,3.0
+Titan,Vox Eminor,1.0
+Titan,FMESPORTS,1.0
+Titan,ESG!,1.0
+Titan,Complexity,3.0
+Titan,Reason,1.0
+Titan,o4o,1.0
+MOUZ,LDLC,2.0
+MOUZ,Dignitas,2.0
+MOUZ,HellRaisers,1.0
+MOUZ,Cipangu.GO,1.0
+MOUZ,GPlay,1.0
+MOUZ,3DMAX,1.0
+MOUZ,FMESPORTS,1.0
+MOUZ,ESG!,1.0
+MOUZ,Avenue,2.0
+LDLC,Ninjas in Pyjamas,11.0
+LDLC,Natus Vincere,11.0
+LDLC,Dignitas,2.0
+LDLC,HellRaisers,2.0
+LDLC,ESC,1.0
+LDLC,Planetkey,4.0
+LDLC,3DMAX,3.0
+LDLC,AlienTech,1.0
+LDLC,Virtual Impact,1.0
+LDLC,k1ck,3.0
+LDLC,London Conspiracy,1.0
+LDLC,Epsilon,5.0
+LDLC,Vox Eminor,1.0
+LDLC,webSPELL,1.0
+LDLC,Geduld,1.0
+LDLC,Karnage,2.0
+Ninjas in Pyjamas,Natus Vincere,6.0
+Ninjas in Pyjamas,Dignitas,9.0
+Ninjas in Pyjamas,HellRaisers,9.0
+Ninjas in Pyjamas,ESC,1.0
+Ninjas in Pyjamas,Planetkey,1.0
+Ninjas in Pyjamas,CPH Wolves,1.0
+Ninjas in Pyjamas,3DMAX,1.0
+Ninjas in Pyjamas,Platinium,1.0
+Ninjas in Pyjamas,KaBuM,1.0
+Ninjas in Pyjamas,London Conspiracy,1.0
+Ninjas in Pyjamas,Epsilon,5.0
+Ninjas in Pyjamas,ALTERNATE aTTaX,1.0
+Ninjas in Pyjamas,Wolves,1.0
+Ninjas in Pyjamas,Infused,1.0
+Ninjas in Pyjamas,Complexity,6.0
+Ninjas in Pyjamas,Manajuma,2.0
+Ninjas in Pyjamas,Reason,2.0
+Ninjas in Pyjamas,Berzerk,1.0
+Ninjas in Pyjamas,ENCE,2.0
+Natus Vincere,Dignitas,2.0
+Natus Vincere,HellRaisers,11.0
+Natus Vincere,FlipSid3,4.0
+Natus Vincere,CPH Wolves,2.0
+Natus Vincere,k1ck,1.0
+Natus Vincere,pow,1.0
+Natus Vincere,London Conspiracy,1.0
+Natus Vincere,Energy,1.0
+Natus Vincere,Epsilon,4.0
+Natus Vincere,NetcodeGuides.com,2.0
+Natus Vincere,Complexity,2.0
+Natus Vincere,Manajuma,2.0
+Natus Vincere,Expert,1.0
+Natus Vincere,LGB,1.0
+Natus Vincere,Clan-Mystik,1.0
+Dignitas,PENTA,1.0
+Dignitas,HellRaisers,4.0
+Dignitas,CPH Wolves,1.0
+Dignitas,Cipangu.GO,1.0
+Dignitas,GPlay,1.0
+Dignitas,3DMAX,2.0
+Dignitas,Epsilon,4.0
+Dignitas,Vox Eminor,1.0
+Dignitas,FMESPORTS,2.0
+Dignitas,ESG!,1.0
+Dignitas,Reason,1.0
+Dignitas,H2k,2.0
+PENTA,CPH Wolves,1.0
+HellRaisers,myXMG,5.0
+HellRaisers,Planetkey,1.0
+HellRaisers,CPH Wolves,1.0
+HellRaisers,Platinium,1.0
+HellRaisers,KaBuM,1.0
+HellRaisers,k1ck,3.0
+HellRaisers,Epsilon,6.0
+HellRaisers,Wolves,1.0
+HellRaisers,Outbreak,3.0
+HellRaisers,Anima,1.0
+HellRaisers,SK,2.0
+HellRaisers,Reason,1.0
+FlipSid3,myXMG,1.0
+FlipSid3,Lemondogs,1.0
+ESC,Planetkey,1.0
+ESC,NecroRaisers,3.0
+Planetkey,AlienTech,1.0
+Planetkey,Virtual Impact,1.0
+Planetkey,Hybrid,2.0
+CPH Wolves,3DMAX,1.0
+CPH Wolves,Platinium,1.0
+CPH Wolves,KaBuM,1.0
+CPH Wolves,London Conspiracy,1.0
+Cipangu.GO,GPlay,1.0
+Cipangu.GO,3DMAX,1.0
+GPlay,3DMAX,1.0
+3DMAX,Vox Eminor,1.0
+3DMAX,Reason,3.0
+3DMAX,Wild Fire,2.0
+Platinium,KaBuM,1.0
+Platinium,k1ck,3.0
+Platinium,Epsilon,1.0
+Platinium,gBots,2.0
+AlienTech,Virtual Impact,1.0
+k1ck,pow,1.0
+k1ck,London Conspiracy,1.0
+k1ck,Energy,1.0
+k1ck,OverGaming,1.0
+k1ck,INSHOCK,1.0
+pow,London Conspiracy,1.0
+pow,Energy,1.0
+London Conspiracy,Energy,1.0
+London Conspiracy,Epsilon,1.0
+London Conspiracy,Infused,1.0
+Epsilon,Infused,1.0
+Epsilon,OverGaming,2.0
+Epsilon,FTW.PRO,1.0
+Epsilon,Lemondogs,2.0
+Epsilon,Berzerk,1.0
+Epsilon,Publiclir.se,1.0
+LunatiK,NetcodeGuides.com,1.0
+LunatiK,Mobility,1.0
+LunatiK,savage,1.0
+NetcodeGuides.com,savage,1.0
+NetcodeGuides.com,OverGaming,2.0
+Mobility,savage,1.0
+ALTERNATE aTTaX,naptoR.Factory,2.0
+FMESPORTS,ESG!,1.0
+Outbreak,webSPELL,2.0
+Outbreak,Geduld,1.0
+OverGaming,INSHOCK,1.0
+OverGaming,Legacy,1.0
+gBots,FTW.PRO,1.0
+INSHOCK,Legacy,1.0
+Hybrid,Anima,1.0
+Complexity,LGB,1.0
+Complexity,Clan-Mystik,2.0
+Complexity,Homeless,2.0
+Lemondogs,Expert,1.0
+Lemondogs,Property,2.0
+Reason,o4o,1.0
+Reason,Bango-I-Karise,2.0
+Berzerk,Publiclir.se,1.0
+Publiclir.se,Menace,3.0
+LGB,Property,2.0
+LGB,oXzone,2.0
+H2k,FLÆKKETID,2.0
+ENCE,AESTHETIC,2.0
+United5,Homeless,3.0
+mouseSpaz,Homeless,3.0

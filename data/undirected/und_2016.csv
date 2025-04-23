@@ -1,0 +1,453 @@
+Source,Target,Weight
+HellRaisers,Cloud9,1.0
+HellRaisers,G2,3.0
+HellRaisers,Envy,2.0
+HellRaisers,MOUZ,4.0
+HellRaisers,Ninjas in Pyjamas,4.0
+HellRaisers,Dignitas,4.0
+HellRaisers,OpTic,5.0
+HellRaisers,FaZe,2.0
+HellRaisers,GODSENT,2.0
+HellRaisers,Astralis,2.0
+HellRaisers,SK,7.0
+HellRaisers,Virtus.pro,8.0
+HellRaisers,fnatic,4.0
+HellRaisers,FlipSid3,3.0
+HellRaisers,Liquid,4.0
+HellRaisers,Natus Vincere,4.0
+HellRaisers,Splyce,1.0
+HellRaisers,PENTA,2.0
+HellRaisers,X,2.0
+HellRaisers,Epsilon,2.0
+Cloud9,G2,7.0
+Cloud9,Immortals,4.0
+Cloud9,Envy,7.0
+Cloud9,MOUZ,5.0
+Cloud9,CLG,14.0
+Cloud9,Ninjas in Pyjamas,4.0
+Cloud9,TYLOO,2.0
+Cloud9,Dignitas,2.0
+Cloud9,OpTic,16.0
+Cloud9,FaZe,9.0
+Cloud9,Renegades,12.0
+Cloud9,Astralis,2.0
+Cloud9,SK,7.0
+Cloud9,Virtus.pro,2.0
+Cloud9,Gambit,4.0
+Cloud9,fnatic,2.0
+Cloud9,FlipSid3,4.0
+Cloud9,NRG,10.0
+Cloud9,Luminosity,12.0
+Cloud9,TSM,7.0
+Cloud9,HEROIC,1.0
+Cloud9,Liquid,12.0
+Cloud9,Natus Vincere,4.0
+Cloud9,Complexity,9.0
+Cloud9,Echo Fox,5.0
+Cloud9,eUnited,2.0
+Cloud9,Selfless,4.0
+Cloud9,Splyce,4.0
+Cloud9,Winterfox,4.0
+Cloud9,VG.CyberZen,1.0
+Cloud9,Empire,1.0
+Cloud9,Tempo Storm,3.0
+Cloud9,Without a Roof,2.0
+Cloud9,KKona,2.0
+Cloud9,Method,2.0
+G2,Immortals,2.0
+G2,Envy,12.0
+G2,Vega Squadron,1.0
+G2,MOUZ,13.0
+G2,CLG,4.0
+G2,Ninjas in Pyjamas,21.0
+G2,TYLOO,2.0
+G2,Dignitas,13.0
+G2,OpTic,4.0
+G2,FaZe,10.0
+G2,GODSENT,4.0
+G2,Astralis,15.0
+G2,SK,9.0
+G2,Virtus.pro,12.0
+G2,Gambit,1.0
+G2,fnatic,18.0
+G2,FlipSid3,5.0
+G2,Luminosity,10.0
+G2,HEROIC,2.0
+G2,Liquid,6.0
+G2,Natus Vincere,9.0
+G2,Echo Fox,2.0
+G2,Selfless,4.0
+G2,PENTA,2.0
+G2,MVP Project,1.0
+G2,Tempo Storm,1.0
+G2,Vexed,1.0
+G2,x6tence,1.0
+G2,CyberZen,3.0
+Immortals,Envy,4.0
+Immortals,Vega Squadron,1.0
+Immortals,MOUZ,3.0
+Immortals,CLG,4.0
+Immortals,Ninjas in Pyjamas,4.0
+Immortals,TYLOO,2.0
+Immortals,OpTic,5.0
+Immortals,FaZe,4.0
+Immortals,Renegades,2.0
+Immortals,GODSENT,3.0
+Immortals,Astralis,1.0
+Immortals,SK,10.0
+Immortals,FlipSid3,1.0
+Immortals,NRG,4.0
+Immortals,Luminosity,2.0
+Immortals,TSM,2.0
+Immortals,Liquid,6.0
+Immortals,Natus Vincere,1.0
+Immortals,Complexity,4.0
+Immortals,Echo Fox,2.0
+Immortals,eUnited,2.0
+Immortals,Selfless,2.0
+Immortals,Splyce,2.0
+Immortals,Winterfox,2.0
+Immortals,ENCE,2.0
+Immortals,Empire,1.0
+Envy,Vega Squadron,1.0
+Envy,MOUZ,11.0
+Envy,CLG,7.0
+Envy,Ninjas in Pyjamas,10.0
+Envy,TYLOO,1.0
+Envy,Dignitas,18.0
+Envy,OpTic,6.0
+Envy,FaZe,10.0
+Envy,Spirit,1.0
+Envy,GODSENT,2.0
+Envy,Astralis,13.0
+Envy,SK,2.0
+Envy,Virtus.pro,14.0
+Envy,Gambit,6.0
+Envy,fnatic,15.0
+Envy,FlipSid3,4.0
+Envy,NRG,3.0
+Envy,HEROIC,6.0
+Envy,Liquid,2.0
+Envy,Natus Vincere,8.0
+Envy,Complexity,4.0
+Envy,Splyce,1.0
+Envy,PENTA,2.0
+Envy,VG.CyberZen,2.0
+Envy,Tempo Storm,4.0
+Envy,E-frag.net,1.0
+Envy,gBots,1.0
+Envy,?,2.0
+Vega Squadron,CLG,1.0
+Vega Squadron,Ninjas in Pyjamas,1.0
+MOUZ,Ninjas in Pyjamas,15.0
+MOUZ,TYLOO,1.0
+MOUZ,Dignitas,11.0
+MOUZ,OpTic,3.0
+MOUZ,FaZe,15.0
+MOUZ,Spirit,1.0
+MOUZ,GODSENT,5.0
+MOUZ,Astralis,12.0
+MOUZ,SK,3.0
+MOUZ,Virtus.pro,12.0
+MOUZ,fnatic,11.0
+MOUZ,FlipSid3,9.0
+MOUZ,Luminosity,3.0
+MOUZ,HEROIC,3.0
+MOUZ,Liquid,4.0
+MOUZ,Natus Vincere,7.0
+MOUZ,Echo Fox,2.0
+MOUZ,PENTA,2.0
+MOUZ,FLuffy Gangsters,1.0
+MOUZ,The MongolZ,1.0
+MOUZ,YP,1.0
+CLG,Dignitas,4.0
+CLG,OpTic,9.0
+CLG,FaZe,3.0
+CLG,Renegades,5.0
+CLG,GODSENT,2.0
+CLG,Astralis,8.0
+CLG,SK,10.0
+CLG,Gambit,4.0
+CLG,FlipSid3,2.0
+CLG,NRG,8.0
+CLG,Luminosity,6.0
+CLG,TSM,9.0
+CLG,Liquid,12.0
+CLG,Natus Vincere,1.0
+CLG,Complexity,8.0
+CLG,Echo Fox,5.0
+CLG,eUnited,2.0
+CLG,Selfless,4.0
+CLG,Splyce,7.0
+CLG,Winterfox,4.0
+CLG,Without a Roof,2.0
+CLG,KKona,2.0
+CLG,Vexed,3.0
+Ninjas in Pyjamas,Dignitas,12.0
+Ninjas in Pyjamas,OpTic,7.0
+Ninjas in Pyjamas,FaZe,17.0
+Ninjas in Pyjamas,Renegades,1.0
+Ninjas in Pyjamas,GODSENT,7.0
+Ninjas in Pyjamas,Astralis,20.0
+Ninjas in Pyjamas,SK,10.0
+Ninjas in Pyjamas,Virtus.pro,13.0
+Ninjas in Pyjamas,fnatic,12.0
+Ninjas in Pyjamas,FlipSid3,8.0
+Ninjas in Pyjamas,NRG,1.0
+Ninjas in Pyjamas,Luminosity,6.0
+Ninjas in Pyjamas,HEROIC,1.0
+Ninjas in Pyjamas,Liquid,1.0
+Ninjas in Pyjamas,Natus Vincere,12.0
+Ninjas in Pyjamas,Selfless,2.0
+Ninjas in Pyjamas,PENTA,2.0
+Ninjas in Pyjamas,X,2.0
+Ninjas in Pyjamas,Epsilon,3.0
+Ninjas in Pyjamas,CSGL,1.0
+Ninjas in Pyjamas,The MongolZ,1.0
+TYLOO,Dignitas,1.0
+TYLOO,OpTic,1.0
+TYLOO,Astralis,4.0
+TYLOO,Luminosity,4.0
+TYLOO,HEROIC,1.0
+TYLOO,Liquid,2.0
+TYLOO,Natus Vincere,4.0
+TYLOO,Splyce,1.0
+Dignitas,FaZe,19.0
+Dignitas,Spirit,1.0
+Dignitas,Renegades,2.0
+Dignitas,GODSENT,6.0
+Dignitas,Astralis,16.0
+Dignitas,SK,12.0
+Dignitas,Virtus.pro,20.0
+Dignitas,Kinguin,1.0
+Dignitas,fnatic,16.0
+Dignitas,FlipSid3,12.0
+Dignitas,NRG,1.0
+Dignitas,TSM,2.0
+Dignitas,HEROIC,5.0
+Dignitas,Natus Vincere,11.0
+Dignitas,Selfless,2.0
+Dignitas,PENTA,2.0
+Dignitas,Empire,1.0
+Dignitas,Tempo Storm,3.0
+Dignitas,Vexed,2.0
+Dignitas,gBots,1.0
+OpTic,FaZe,6.0
+OpTic,Renegades,4.0
+OpTic,Astralis,8.0
+OpTic,SK,5.0
+OpTic,Virtus.pro,3.0
+OpTic,Gambit,2.0
+OpTic,fnatic,4.0
+OpTic,FlipSid3,2.0
+OpTic,NRG,8.0
+OpTic,Luminosity,6.0
+OpTic,TSM,7.0
+OpTic,Liquid,12.0
+OpTic,Complexity,9.0
+OpTic,Echo Fox,4.0
+OpTic,eUnited,2.0
+OpTic,Selfless,6.0
+OpTic,Splyce,7.0
+OpTic,Winterfox,4.0
+OpTic,FLuffy Gangsters,1.0
+OpTic,Without a Roof,2.0
+OpTic,AGG,2.0
+FaZe,GODSENT,2.0
+FaZe,Astralis,10.0
+FaZe,SK,5.0
+FaZe,Virtus.pro,14.0
+FaZe,Gambit,1.0
+FaZe,fnatic,18.0
+FaZe,FlipSid3,9.0
+FaZe,NRG,1.0
+FaZe,Luminosity,3.0
+FaZe,TSM,2.0
+FaZe,HEROIC,1.0
+FaZe,Liquid,1.0
+FaZe,Natus Vincere,5.0
+FaZe,Splyce,1.0
+FaZe,PENTA,2.0
+FaZe,X,2.0
+FaZe,Tempo Storm,1.0
+FaZe,E-frag.net,1.0
+Renegades,SK,2.0
+Renegades,Virtus.pro,2.0
+Renegades,Gambit,4.0
+Renegades,Kinguin,3.0
+Renegades,FlipSid3,3.0
+Renegades,NRG,4.0
+Renegades,Luminosity,4.0
+Renegades,Liquid,6.0
+Renegades,Complexity,4.0
+Renegades,Echo Fox,2.0
+Renegades,eUnited,2.0
+Renegades,Selfless,2.0
+Renegades,Splyce,5.0
+Renegades,Winterfox,4.0
+Renegades,FLuffy Gangsters,1.0
+Renegades,AGG,2.0
+Renegades,Enemy,2.0
+GODSENT,Astralis,2.0
+GODSENT,Virtus.pro,2.0
+GODSENT,Gambit,3.0
+GODSENT,Kinguin,1.0
+GODSENT,fnatic,2.0
+GODSENT,FlipSid3,3.0
+GODSENT,Natus Vincere,3.0
+GODSENT,Dobry&Gaming,2.0
+GODSENT,Worst Players,3.0
+Astralis,SK,13.0
+Astralis,Virtus.pro,11.0
+Astralis,Gambit,2.0
+Astralis,fnatic,16.0
+Astralis,FlipSid3,4.0
+Astralis,NRG,6.0
+Astralis,Luminosity,5.0
+Astralis,TSM,1.0
+Astralis,HEROIC,1.0
+Astralis,Liquid,1.0
+Astralis,Natus Vincere,11.0
+Astralis,ALTERNATE aTTaX,1.0
+Astralis,PENTA,2.0
+Astralis,X,2.0
+Astralis,ENCE,1.0
+Astralis,Tempo Storm,1.0
+Astralis,CSGL,1.0
+Astralis,Torpedo,2.0
+Astralis,E-frag.net,1.0
+Astralis,x6tence,1.0
+Astralis,Method,2.0
+SK,Virtus.pro,14.0
+SK,fnatic,4.0
+SK,FlipSid3,4.0
+SK,NRG,7.0
+SK,Luminosity,5.0
+SK,TSM,2.0
+SK,HEROIC,1.0
+SK,Liquid,6.0
+SK,Natus Vincere,7.0
+SK,Complexity,4.0
+SK,Echo Fox,2.0
+SK,eUnited,2.0
+SK,Selfless,4.0
+SK,Splyce,2.0
+SK,Worst Players,2.0
+SK,Tempo Storm,6.0
+SK,Vexed,1.0
+Virtus.pro,Gambit,7.0
+Virtus.pro,fnatic,16.0
+Virtus.pro,FlipSid3,4.0
+Virtus.pro,Luminosity,3.0
+Virtus.pro,HEROIC,1.0
+Virtus.pro,Liquid,2.0
+Virtus.pro,Natus Vincere,14.0
+Virtus.pro,Complexity,2.0
+Virtus.pro,Echo Fox,1.0
+Virtus.pro,Splyce,3.0
+Virtus.pro,PENTA,2.0
+Virtus.pro,VG.CyberZen,1.0
+Virtus.pro,X,2.0
+Virtus.pro,Dobry&Gaming,2.0
+Virtus.pro,Worst Players,3.0
+Virtus.pro,Tempo Storm,7.0
+Virtus.pro,Immunity,2.0
+Virtus.pro,E-frag.net,1.0
+Gambit,fnatic,2.0
+Gambit,Complexity,2.0
+Kinguin,FlipSid3,3.0
+fnatic,FlipSid3,4.0
+fnatic,Luminosity,7.0
+fnatic,TSM,6.0
+fnatic,HEROIC,2.0
+fnatic,Liquid,7.0
+fnatic,Natus Vincere,9.0
+fnatic,Splyce,1.0
+fnatic,PENTA,2.0
+fnatic,The MongolZ,1.0
+fnatic,gBots,1.0
+fnatic,?,3.0
+fnatic,ex-Titan,3.0
+FlipSid3,HEROIC,2.0
+FlipSid3,Natus Vincere,15.0
+FlipSid3,Echo Fox,2.0
+FlipSid3,Selfless,1.0
+FlipSid3,PENTA,2.0
+FlipSid3,MVP Project,1.0
+FlipSid3,Tempo Storm,2.0
+NRG,Luminosity,6.0
+NRG,TSM,5.0
+NRG,Liquid,8.0
+NRG,Complexity,8.0
+NRG,Echo Fox,4.0
+NRG,eUnited,2.0
+NRG,Selfless,5.0
+NRG,Splyce,4.0
+NRG,Winterfox,4.0
+NRG,Tempo Storm,1.0
+NRG,AGG,2.0
+NRG,Enemy,2.0
+Luminosity,TSM,7.0
+Luminosity,Liquid,15.0
+Luminosity,Natus Vincere,9.0
+Luminosity,Complexity,6.0
+Luminosity,Echo Fox,2.0
+Luminosity,Selfless,2.0
+Luminosity,Splyce,3.0
+Luminosity,Winterfox,2.0
+Luminosity,Tempo Storm,2.0
+Luminosity,Without a Roof,2.0
+Luminosity,KKona,2.0
+Luminosity,The MongolZ,1.0
+TSM,Liquid,5.0
+TSM,Complexity,4.0
+TSM,Echo Fox,3.0
+TSM,Kaliber,2.0
+HEROIC,Natus Vincere,2.0
+HEROIC,PENTA,2.0
+Liquid,Natus Vincere,8.0
+Liquid,Complexity,8.0
+Liquid,Echo Fox,5.0
+Liquid,eUnited,2.0
+Liquid,Selfless,7.0
+Liquid,Splyce,4.0
+Liquid,Winterfox,4.0
+Liquid,Kaliber,2.0
+Liquid,Tempo Storm,1.0
+Liquid,KKona,2.0
+Liquid,YP,1.0
+Natus Vincere,ALTERNATE aTTaX,2.0
+Natus Vincere,Echo Fox,4.0
+Natus Vincere,PENTA,2.0
+Natus Vincere,Dobry&Gaming,5.0
+Natus Vincere,Tempo Storm,3.0
+Natus Vincere,The MongolZ,1.0
+Natus Vincere,?,3.0
+Natus Vincere,CyberZen,2.0
+Complexity,Echo Fox,5.0
+Complexity,eUnited,2.0
+Complexity,Selfless,2.0
+Complexity,Splyce,4.0
+Complexity,Winterfox,4.0
+Complexity,Without a Roof,2.0
+Complexity,KKona,2.0
+Complexity,Enemy,2.0
+Echo Fox,eUnited,2.0
+Echo Fox,Selfless,2.0
+Echo Fox,Splyce,2.0
+Echo Fox,Winterfox,2.0
+Echo Fox,Without a Roof,2.0
+eUnited,Selfless,2.0
+eUnited,Splyce,2.0
+eUnited,Winterfox,2.0
+Selfless,Splyce,4.0
+Selfless,Winterfox,4.0
+Selfless,Tempo Storm,1.0
+Selfless,AGG,2.0
+Splyce,Winterfox,4.0
+Splyce,AGG,2.0
+Splyce,Vexed,1.0
+Winterfox,KKona,2.0
+Tempo Storm,E-frag.net,1.0
+Vexed,x6tence,1.0
+?,ex-Titan,2.0

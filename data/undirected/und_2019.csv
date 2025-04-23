@@ -1,0 +1,494 @@
+Source,Target,Weight
+Vitality,MOUZ,8.0
+Vitality,HEROIC,12.0
+Vitality,Natus Vincere,7.0
+Vitality,EHOME,2.0
+Vitality,FURIA,6.0
+Vitality,Astralis,5.0
+Vitality,Liquid,10.0
+Vitality,Ninjas in Pyjamas,8.0
+Vitality,FaZe,6.0
+Vitality,fnatic,12.0
+Vitality,100 Thieves,3.0
+Vitality,Renegades,9.0
+Vitality,North,10.0
+Vitality,TYLOO,4.0
+Vitality,AVANGAR,3.0
+Vitality,ENCE,16.0
+Vitality,ViCi,2.0
+Vitality,HellRaisers,4.0
+Vitality,BIG,3.0
+Vitality,Cloud9,1.0
+Vitality,Invictus,2.0
+Vitality,Complexity,3.0
+Vitality,Sprout,3.0
+Vitality,Grayhound,4.0
+Vitality,NRG,8.0
+Vitality,DreamEaters,1.0
+Vitality,Syman,1.0
+Vitality,INTZ,1.0
+Vitality,Lucid Dream,2.0
+Vitality,Ghost,2.0
+Vitality,Spirit,3.0
+Vitality,Vega Squadron,1.0
+MOUZ,Evil Geniuses,11.0
+MOUZ,Natus Vincere,5.0
+MOUZ,FORZE,1.0
+MOUZ,Virtus.pro,7.0
+MOUZ,G2,8.0
+MOUZ,OG,5.0
+MOUZ,FURIA,2.0
+MOUZ,MIBR,5.0
+MOUZ,Astralis,3.0
+MOUZ,Liquid,7.0
+MOUZ,Ninjas in Pyjamas,1.0
+MOUZ,FaZe,7.0
+MOUZ,fnatic,5.0
+MOUZ,ATK,3.0
+MOUZ,Renegades,5.0
+MOUZ,North,6.0
+MOUZ,TYLOO,3.0
+MOUZ,AVANGAR,3.0
+MOUZ,ENCE,5.0
+MOUZ,HellRaisers,2.0
+MOUZ,BIG,6.0
+MOUZ,Invictus,2.0
+MOUZ,OpTic,7.0
+MOUZ,Grayhound,3.0
+MOUZ,Tricked,3.0
+MOUZ,E-RIVALS,2.0
+MOUZ,MVP PK,2.0
+MOUZ,BOOT-d[S],2.0
+MOUZ,ex-Space Soldiers,2.0
+Evil Geniuses,HEROIC,3.0
+Evil Geniuses,Natus Vincere,5.0
+Evil Geniuses,FORZE,5.0
+Evil Geniuses,G2,5.0
+Evil Geniuses,FURIA,2.0
+Evil Geniuses,MIBR,2.0
+Evil Geniuses,Astralis,9.0
+Evil Geniuses,Liquid,2.0
+Evil Geniuses,Ninjas in Pyjamas,8.0
+Evil Geniuses,FaZe,7.0
+Evil Geniuses,fnatic,6.0
+Evil Geniuses,100 Thieves,2.0
+Evil Geniuses,Renegades,2.0
+Evil Geniuses,TYLOO,2.0
+Evil Geniuses,AVANGAR,1.0
+Evil Geniuses,eUnited,3.0
+Evil Geniuses,Cloud9,2.0
+Evil Geniuses,5POWER,2.0
+Evil Geniuses,Complexity,3.0
+Evil Geniuses,Grayhound,1.0
+HEROIC,Natus Vincere,10.0
+HEROIC,FORZE,2.0
+HEROIC,EHOME,2.0
+HEROIC,G2,2.0
+HEROIC,Astralis,2.0
+HEROIC,Ninjas in Pyjamas,7.0
+HEROIC,FaZe,3.0
+HEROIC,fnatic,7.0
+HEROIC,100 Thieves,1.0
+HEROIC,North,2.0
+HEROIC,AVANGAR,2.0
+HEROIC,ENCE,3.0
+HEROIC,DETONA,1.0
+HEROIC,BIG,4.0
+HEROIC,Sprout,3.0
+HEROIC,Grayhound,3.0
+HEROIC,devils.one,3.0
+Natus Vincere,FORZE,1.0
+Natus Vincere,G2,11.0
+Natus Vincere,FURIA,2.0
+Natus Vincere,MIBR,6.0
+Natus Vincere,Astralis,3.0
+Natus Vincere,Liquid,9.0
+Natus Vincere,Ninjas in Pyjamas,10.0
+Natus Vincere,FaZe,4.0
+Natus Vincere,fnatic,9.0
+Natus Vincere,Renegades,3.0
+Natus Vincere,North,4.0
+Natus Vincere,TYLOO,1.0
+Natus Vincere,AVANGAR,3.0
+Natus Vincere,ENCE,8.0
+Natus Vincere,ViCi,3.0
+Natus Vincere,HellRaisers,2.0
+Natus Vincere,BIG,4.0
+Natus Vincere,Cloud9,3.0
+Natus Vincere,Windigo,5.0
+Natus Vincere,OpTic,2.0
+Natus Vincere,NRG,4.0
+Natus Vincere,CR4ZY,3.0
+Natus Vincere,DreamEaters,1.0
+Natus Vincere,Giants,1.0
+FORZE,Virtus.pro,3.0
+FORZE,G2,2.0
+FORZE,FURIA,1.0
+FORZE,MIBR,1.0
+FORZE,Ninjas in Pyjamas,1.0
+FORZE,AVANGAR,4.0
+FORZE,ENCE,1.0
+FORZE,Grayhound,1.0
+FORZE,DreamEaters,2.0
+Virtus.pro,G2,5.0
+Virtus.pro,OG,2.0
+Virtus.pro,FURIA,2.0
+Virtus.pro,MIBR,2.0
+Virtus.pro,Ninjas in Pyjamas,2.0
+Virtus.pro,Tricked,5.0
+Virtus.pro,E-RIVALS,2.0
+G2,OG,2.0
+G2,FURIA,5.0
+G2,MIBR,9.0
+G2,Astralis,6.0
+G2,Liquid,10.0
+G2,Ninjas in Pyjamas,5.0
+G2,FaZe,4.0
+G2,fnatic,12.0
+G2,ATK,3.0
+G2,Renegades,7.0
+G2,Sharks,1.0
+G2,North,2.0
+G2,TYLOO,6.0
+G2,AVANGAR,6.0
+G2,ENCE,11.0
+G2,HellRaisers,2.0
+G2,Singularity,2.0
+G2,BIG,3.0
+G2,Cloud9,2.0
+G2,Windigo,7.0
+G2,Grayhound,1.0
+G2,NRG,9.0
+G2,DreamEaters,1.0
+G2,Panda,2.0
+G2,Absolute,2.0
+G2,Revolution,2.0
+G2,Vega Squadron,1.0
+OG,FURIA,2.0
+OG,MIBR,2.0
+FURIA,MIBR,5.0
+FURIA,Astralis,4.0
+FURIA,Liquid,2.0
+FURIA,Ninjas in Pyjamas,3.0
+FURIA,fnatic,7.0
+FURIA,100 Thieves,2.0
+FURIA,Renegades,4.0
+FURIA,North,2.0
+FURIA,AVANGAR,4.0
+FURIA,ENCE,5.0
+FURIA,eUnited,2.0
+FURIA,Isurus,2.0
+FURIA,HellRaisers,1.0
+FURIA,Envy,6.0
+FURIA,Cloud9,3.0
+FURIA,5POWER,2.0
+FURIA,Swole Patrol,2.0
+FURIA,NRG,4.0
+FURIA,CR4ZY,1.0
+FURIA,Syman,2.0
+FURIA,Spirit,2.0
+MIBR,Astralis,4.0
+MIBR,Liquid,7.0
+MIBR,Ninjas in Pyjamas,10.0
+MIBR,FaZe,4.0
+MIBR,fnatic,11.0
+MIBR,Renegades,14.0
+MIBR,Sharks,2.0
+MIBR,North,8.0
+MIBR,TYLOO,2.0
+MIBR,AVANGAR,4.0
+MIBR,ENCE,9.0
+MIBR,Isurus,2.0
+MIBR,Envy,7.0
+MIBR,BIG,3.0
+MIBR,Cloud9,5.0
+MIBR,Imperial,2.0
+MIBR,Windigo,3.0
+MIBR,Complexity,7.0
+MIBR,Swole Patrol,2.0
+MIBR,Grayhound,1.0
+MIBR,Tricked,2.0
+MIBR,GAMERZONE,3.0
+MIBR,NRG,5.0
+MIBR,Luminosity,4.0
+MIBR,Panda,2.0
+MIBR,AGO,2.0
+MIBR,Viva Algeria,2.0
+Astralis,Liquid,27.0
+Astralis,Ninjas in Pyjamas,11.0
+Astralis,FaZe,5.0
+Astralis,fnatic,8.0
+Astralis,100 Thieves,5.0
+Astralis,Renegades,4.0
+Astralis,Sharks,1.0
+Astralis,North,2.0
+Astralis,AVANGAR,2.0
+Astralis,ENCE,6.0
+Astralis,ViCi,2.0
+Astralis,HellRaisers,2.0
+Astralis,Envy,1.0
+Astralis,BIG,4.0
+Astralis,Cloud9,6.0
+Astralis,Aristocracy,2.0
+Astralis,Complexity,2.0
+Astralis,OpTic,4.0
+Astralis,NRG,7.0
+Astralis,CR4ZY,3.0
+Astralis,DreamEaters,1.0
+Astralis,Ghost,2.0
+Astralis,Giants,1.0
+Astralis,ex-3DMAX,2.0
+Liquid,Ninjas in Pyjamas,8.0
+Liquid,FaZe,14.0
+Liquid,fnatic,13.0
+Liquid,ATK,2.0
+Liquid,Renegades,5.0
+Liquid,North,9.0
+Liquid,TYLOO,2.0
+Liquid,AVANGAR,2.0
+Liquid,ENCE,11.0
+Liquid,eUnited,2.0
+Liquid,HellRaisers,3.0
+Liquid,Singularity,3.0
+Liquid,Envy,2.0
+Liquid,BIG,2.0
+Liquid,Cloud9,5.0
+Liquid,Complexity,3.0
+Liquid,OpTic,1.0
+Liquid,Grayhound,2.0
+Liquid,NRG,8.0
+Liquid,CR4ZY,1.0
+Liquid,MVP PK,1.0
+Liquid,Luminosity,1.0
+Liquid,Lucid Dream,1.0
+Liquid,Ghost,5.0
+Liquid,BOOT-d[S],1.0
+Liquid,Lazarus,2.0
+Ninjas in Pyjamas,FaZe,10.0
+Ninjas in Pyjamas,fnatic,9.0
+Ninjas in Pyjamas,Renegades,5.0
+Ninjas in Pyjamas,North,7.0
+Ninjas in Pyjamas,TYLOO,1.0
+Ninjas in Pyjamas,AVANGAR,3.0
+Ninjas in Pyjamas,ENCE,3.0
+Ninjas in Pyjamas,ViCi,5.0
+Ninjas in Pyjamas,eUnited,1.0
+Ninjas in Pyjamas,HellRaisers,1.0
+Ninjas in Pyjamas,BIG,2.0
+Ninjas in Pyjamas,Cloud9,2.0
+Ninjas in Pyjamas,Sprout,3.0
+Ninjas in Pyjamas,Grayhound,2.0
+Ninjas in Pyjamas,adwokacik,2.0
+Ninjas in Pyjamas,NRG,2.0
+Ninjas in Pyjamas,CR4ZY,1.0
+Ninjas in Pyjamas,Giants,1.0
+Ninjas in Pyjamas,devils.one,3.0
+Ninjas in Pyjamas,Spirit,3.0
+Ninjas in Pyjamas,Winstrike,1.0
+Ninjas in Pyjamas,Vega Squadron,3.0
+FaZe,fnatic,3.0
+FaZe,100 Thieves,3.0
+FaZe,Renegades,9.0
+FaZe,North,5.0
+FaZe,TYLOO,4.0
+FaZe,AVANGAR,1.0
+FaZe,ENCE,6.0
+FaZe,ViCi,2.0
+FaZe,HellRaisers,3.0
+FaZe,BIG,6.0
+FaZe,Cloud9,10.0
+FaZe,Windigo,1.0
+FaZe,Complexity,5.0
+FaZe,OpTic,4.0
+FaZe,Grayhound,3.0
+FaZe,NRG,7.0
+FaZe,CR4ZY,1.0
+FaZe,Luminosity,1.0
+FaZe,Ghost,2.0
+FaZe,Chiefs,1.0
+FaZe,devils.one,2.0
+FaZe,paiN,2.0
+fnatic,100 Thieves,2.0
+fnatic,Renegades,5.0
+fnatic,North,5.0
+fnatic,TYLOO,3.0
+fnatic,ENCE,1.0
+fnatic,ViCi,1.0
+fnatic,HellRaisers,6.0
+fnatic,Cloud9,3.0
+fnatic,Imperial,2.0
+fnatic,Windigo,5.0
+fnatic,Aristocracy,5.0
+fnatic,Complexity,1.0
+fnatic,OpTic,5.0
+fnatic,Grayhound,7.0
+fnatic,NRG,8.0
+fnatic,Chiefs,3.0
+fnatic,AGO,3.0
+fnatic,Russia,2.0
+fnatic,Movistar Riders,2.0
+fnatic,Winstrike,1.0
+ATK,Renegades,2.0
+ATK,North,2.0
+ATK,DETONA,3.0
+ATK,Singularity,5.0
+ATK,Envy,2.0
+100 Thieves,ENCE,4.0
+100 Thieves,eUnited,2.0
+100 Thieves,Isurus,2.0
+Renegades,Sharks,3.0
+Renegades,TYLOO,2.0
+Renegades,AVANGAR,4.0
+Renegades,ENCE,9.0
+Renegades,eUnited,2.0
+Renegades,Isurus,5.0
+Renegades,Singularity,2.0
+Renegades,Cloud9,1.0
+Renegades,Complexity,3.0
+Renegades,NRG,7.0
+Renegades,DreamEaters,2.0
+Renegades,INTZ,2.0
+Renegades,MVP PK,1.0
+Renegades,Ghost,2.0
+Sharks,Isurus,2.0
+Sharks,DETONA,2.0
+Sharks,Infinity,2.0
+North,BIG,5.0
+North,Windigo,2.0
+North,Aristocracy,3.0
+North,OpTic,3.0
+North,NRG,3.0
+North,CR4ZY,3.0
+North,Syman,1.0
+North,INTZ,1.0
+North,ex-Space Soldiers,2.0
+North,Panda,2.0
+TYLOO,AVANGAR,2.0
+TYLOO,BIG,3.0
+TYLOO,Cloud9,1.0
+TYLOO,Windigo,2.0
+TYLOO,Complexity,2.0
+TYLOO,NRG,3.0
+TYLOO,Spirit,3.0
+TYLOO,Panda,2.0
+AVANGAR,ENCE,4.0
+AVANGAR,ViCi,3.0
+AVANGAR,HellRaisers,1.0
+AVANGAR,Complexity,1.0
+AVANGAR,NRG,3.0
+AVANGAR,Syman,3.0
+ENCE,ViCi,7.0
+ENCE,eUnited,2.0
+ENCE,Isurus,1.0
+ENCE,HellRaisers,1.0
+ENCE,BIG,3.0
+ENCE,Cloud9,1.0
+ENCE,NRG,2.0
+ENCE,Ghost,2.0
+ENCE,Giants,1.0
+ENCE,Spirit,3.0
+ENCE,Winstrike,3.0
+ViCi,Cloud9,1.0
+ViCi,NRG,2.0
+ViCi,Chiefs,3.0
+eUnited,Isurus,2.0
+eUnited,Cloud9,6.0
+eUnited,Infinity,2.0
+eUnited,Complexity,3.0
+eUnited,NRG,2.0
+eUnited,INTZ,2.0
+eUnited,MVP PK,2.0
+eUnited,Ghost,3.0
+Isurus,DETONA,5.0
+Isurus,Infinity,4.0
+Isurus,Complexity,3.0
+Isurus,Denial,2.0
+HellRaisers,BIG,3.0
+HellRaisers,Cloud9,2.0
+HellRaisers,Windigo,2.0
+HellRaisers,Aristocracy,2.0
+HellRaisers,Complexity,1.0
+HellRaisers,OpTic,2.0
+HellRaisers,Luminosity,1.0
+HellRaisers,ex-3DMAX,2.0
+DETONA,Singularity,3.0
+DETONA,Envy,3.0
+DETONA,Cloud9,2.0
+DETONA,Infinity,4.0
+DETONA,Denial,2.0
+Singularity,Envy,3.0
+Singularity,Valiance,2.0
+Singularity,Revolution,2.0
+Envy,Cloud9,2.0
+Envy,Swole Patrol,2.0
+Envy,Luminosity,3.0
+BIG,Cloud9,2.0
+BIG,Complexity,2.0
+BIG,OpTic,2.0
+BIG,NRG,2.0
+BIG,MVP PK,3.0
+BIG,ex-3DMAX,2.0
+BIG,paiN,2.0
+Cloud9,Infinity,2.0
+Cloud9,Complexity,3.0
+Cloud9,Grayhound,1.0
+Cloud9,NRG,4.0
+Cloud9,Luminosity,3.0
+Cloud9,Ghost,3.0
+Cloud9,Giants,1.0
+Cloud9,Winstrike,2.0
+5POWER,TNC,2.0
+5POWER,Ukraine,2.0
+5POWER,ENZO,2.0
+Imperial,Panda,2.0
+Imperial,Russia,2.0
+Imperial,WARDELL N Friends,2.0
+Infinity,Ghost,2.0
+Infinity,Denial,3.0
+Windigo,AGO,3.0
+Windigo,Furious,2.0
+Windigo,Movistar Riders,2.0
+Aristocracy,OpTic,2.0
+Complexity,Grayhound,2.0
+Complexity,NRG,2.0
+Complexity,Ghost,3.0
+Complexity,Lazarus,2.0
+OpTic,Denial,2.0
+OpTic,ex-Space Soldiers,2.0
+OpTic,Valiance,2.0
+OpTic,Alpha Red,2.0
+OpTic,NASR,2.0
+Grayhound,CR4ZY,1.0
+Grayhound,INTZ,3.0
+Tricked,adwokacik,3.0
+adwokacik,GAMERZONE,2.0
+NRG,DreamEaters,1.0
+NRG,Syman,1.0
+NRG,INTZ,2.0
+NRG,Ghost,2.0
+NRG,Winstrike,1.0
+CR4ZY,DreamEaters,3.0
+Ghost,Lazarus,2.0
+Chiefs,Viva Algeria,2.0
+Chiefs,Alpha Red,2.0
+Chiefs,Altima,2.0
+Denial,Valiance,2.0
+Denial,NASR,2.0
+Spirit,paiN,3.0
+Spirit,Vega Squadron,1.0
+Panda,Russia,2.0
+Panda,WARDELL N Friends,2.0
+AGO,Valiance,3.0
+AGO,Ukraine,2.0
+Absolute,TNC,2.0
+Absolute,Furious,2.0
+Absolute,FrostFire,2.0
+Valiance,NASR,2.0
+Viva Algeria,Alpha Red,2.0
+Viva Algeria,Altima,2.0
+TNC,Ukraine,2.0
+TNC,ENZO,2.0
+Furious,FrostFire,2.0
+Russia,WARDELL N Friends,2.0
+Ukraine,ENZO,2.0
+Alpha Red,Altima,2.0

@@ -1,0 +1,203 @@
+Source,Target,Weight
+Falcons,G2,6.0
+Falcons,FaZe,5.0
+Falcons,Complexity,2.0
+Falcons,Virtus.pro,3.0
+Falcons,3DMAX,3.0
+Falcons,GamerLegion,5.0
+Falcons,The MongolZ,3.0
+Falcons,Astralis,3.0
+Falcons,FURIA,3.0
+Falcons,Rare Atom,2.0
+Falcons,Liquid,3.0
+Falcons,paiN,6.0
+Falcons,MOUZ,11.0
+Falcons,Eternal Fire,10.0
+Falcons,The Huns,2.0
+Falcons,FlyQuest,2.0
+Falcons,ENCE,2.0
+G2,FaZe,3.0
+G2,Complexity,5.0
+G2,Virtus.pro,4.0
+G2,GamerLegion,4.0
+G2,The MongolZ,5.0
+G2,Rare Atom,2.0
+G2,paiN,2.0
+G2,MOUZ,5.0
+G2,Eternal Fire,5.0
+G2,Natus Vincere,2.0
+G2,M80,2.0
+G2,Imperial,2.0
+G2,SAW,2.0
+G2,BIG,3.0
+G2,BetBoom,2.0
+G2,B8,3.0
+FaZe,Complexity,4.0
+FaZe,Virtus.pro,3.0
+FaZe,3DMAX,2.0
+FaZe,Apogee,2.0
+FaZe,Astralis,8.0
+FaZe,Rare Atom,2.0
+FaZe,paiN,4.0
+FaZe,Vitality,3.0
+FaZe,MOUZ,2.0
+FaZe,Spirit,2.0
+FaZe,Eternal Fire,5.0
+FaZe,M80,3.0
+FaZe,SAW,4.0
+FaZe,BIG,3.0
+Complexity,Virtus.pro,4.0
+Complexity,Aurora,3.0
+Complexity,The MongolZ,2.0
+Complexity,FURIA,3.0
+Complexity,Liquid,2.0
+Complexity,Eternal Fire,2.0
+Complexity,SAW,2.0
+Complexity,Imperial Valkyries,2.0
+Virtus.pro,3DMAX,3.0
+Virtus.pro,GamerLegion,2.0
+Virtus.pro,Astralis,2.0
+Virtus.pro,FURIA,2.0
+Virtus.pro,Rare Atom,2.0
+Virtus.pro,Liquid,2.0
+Virtus.pro,paiN,4.0
+Virtus.pro,Vitality,6.0
+Virtus.pro,MOUZ,3.0
+Virtus.pro,Spirit,4.0
+Virtus.pro,Eternal Fire,3.0
+Virtus.pro,SAW,2.0
+Virtus.pro,MIBR,2.0
+Virtus.pro,Wildcard,2.0
+Aurora,3DMAX,3.0
+Aurora,Apogee,2.0
+Aurora,Legacy,2.0
+Aurora,paiN,3.0
+3DMAX,The MongolZ,5.0
+3DMAX,Astralis,3.0
+3DMAX,Liquid,3.0
+3DMAX,Vitality,4.0
+3DMAX,MOUZ,2.0
+3DMAX,Eternal Fire,8.0
+3DMAX,M80,2.0
+3DMAX,SAW,2.0
+3DMAX,MIBR,4.0
+3DMAX,TYLOO,2.0
+3DMAX,FlyQuest,2.0
+3DMAX,HEROIC,5.0
+3DMAX,Mindfreak,2.0
+3DMAX,BIG,2.0
+GamerLegion,The MongolZ,4.0
+GamerLegion,Astralis,2.0
+GamerLegion,Legacy,3.0
+GamerLegion,paiN,8.0
+GamerLegion,MOUZ,2.0
+GamerLegion,Spirit,3.0
+GamerLegion,SAW,5.0
+GamerLegion,MIBR,2.0
+GamerLegion,TYLOO,5.0
+GamerLegion,NRG,3.0
+The MongolZ,Apogee,2.0
+The MongolZ,Astralis,2.0
+The MongolZ,FURIA,2.0
+The MongolZ,Liquid,7.0
+The MongolZ,paiN,3.0
+The MongolZ,Vitality,5.0
+The MongolZ,Spirit,2.0
+The MongolZ,Eternal Fire,2.0
+The MongolZ,Natus Vincere,7.0
+The MongolZ,M80,3.0
+The MongolZ,Wildcard,2.0
+Apogee,Astralis,2.0
+Apogee,FURIA,2.0
+Astralis,FURIA,3.0
+Astralis,Legacy,3.0
+Astralis,paiN,5.0
+Astralis,Vitality,2.0
+Astralis,MOUZ,3.0
+Astralis,Spirit,2.0
+Astralis,Natus Vincere,2.0
+Astralis,SAW,2.0
+Astralis,MIBR,5.0
+Astralis,FlyQuest,3.0
+Astralis,BIG,2.0
+Astralis,Wildcard,2.0
+FURIA,Liquid,2.0
+FURIA,MOUZ,3.0
+FURIA,Natus Vincere,4.0
+FURIA,M80,6.0
+FURIA,SAW,3.0
+FURIA,MIBR,5.0
+FURIA,Nemiga,3.0
+FURIA,NRG,3.0
+FURIA,Lynn Vision,2.0
+FURIA,Wildcard,3.0
+FURIA,Imperial Valkyries,2.0
+FURIA,BetBoom,3.0
+Legacy,Liquid,2.0
+Liquid,Vitality,2.0
+Liquid,MOUZ,4.0
+Liquid,Spirit,2.0
+Liquid,Eternal Fire,4.0
+Liquid,Imperial,3.0
+Liquid,HEROIC,6.0
+Liquid,Wildcard,2.0
+Liquid,9 Pandas,2.0
+paiN,MOUZ,2.0
+paiN,Eternal Fire,2.0
+paiN,Natus Vincere,5.0
+paiN,M80,2.0
+paiN,Nemiga,3.0
+paiN,FlyQuest,3.0
+paiN,Lynn Vision,3.0
+paiN,Housebets,2.0
+Vitality,MOUZ,12.0
+Vitality,Spirit,6.0
+Vitality,Eternal Fire,2.0
+Vitality,MIBR,3.0
+Vitality,Metizport,2.0
+MOUZ,Spirit,6.0
+MOUZ,Eternal Fire,2.0
+MOUZ,BIG,2.0
+MOUZ,BetBoom,3.0
+Spirit,Eternal Fire,7.0
+Spirit,Natus Vincere,9.0
+Spirit,The Huns,2.0
+Spirit,SAW,2.0
+Spirit,TYLOO,2.0
+Spirit,FlyQuest,2.0
+Spirit,HEROIC,2.0
+Spirit,fnatic,2.0
+Eternal Fire,Natus Vincere,2.0
+Eternal Fire,MIBR,2.0
+Eternal Fire,TYLOO,2.0
+Eternal Fire,FlyQuest,2.0
+Eternal Fire,NRG,2.0
+Eternal Fire,HEROIC,2.0
+Eternal Fire,Mindfreak,2.0
+Eternal Fire,BIG,2.0
+Eternal Fire,Imperial Valkyries,2.0
+Eternal Fire,Fluxo,2.0
+Natus Vincere,SAW,3.0
+Natus Vincere,TYLOO,3.0
+Natus Vincere,Imperial Valkyries,2.0
+M80,SAW,3.0
+M80,FlyQuest,2.0
+SAW,FlyQuest,3.0
+SAW,HEROIC,3.0
+SAW,BIG,2.0
+MIBR,TYLOO,2.0
+MIBR,Nemiga,3.0
+MIBR,FlyQuest,2.0
+MIBR,Wildcard,2.0
+MIBR,Imperial Valkyries,2.0
+TYLOO,FlyQuest,3.0
+Nemiga,NRG,2.0
+Nemiga,HEROIC,3.0
+Nemiga,Mindfreak,2.0
+FlyQuest,Lynn Vision,2.0
+FlyQuest,BIG,3.0
+Lynn Vision,Housebets,2.0
+HEROIC,Housebets,2.0
+HEROIC,BIG,2.0
+BIG,Wildcard,5.0
+BIG,Imperial Valkyries,2.0

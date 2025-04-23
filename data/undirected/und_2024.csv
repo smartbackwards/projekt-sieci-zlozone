@@ -1,0 +1,398 @@
+Source,Target,Weight
+Spirit,FaZe,17.0
+Spirit,G2,15.0
+Spirit,MOUZ,9.0
+Spirit,Vitality,7.0
+Spirit,HEROIC,7.0
+Spirit,Liquid,8.0
+Spirit,The MongolZ,7.0
+Spirit,FURIA,5.0
+Spirit,Natus Vincere,15.0
+Spirit,MIBR,5.0
+Spirit,3DMAX,3.0
+Spirit,Wildcard,3.0
+Spirit,FlyQuest,1.0
+Spirit,Complexity,5.0
+Spirit,Virtus.pro,2.0
+Spirit,Cloud9,1.0
+Spirit,Imperial,3.0
+Spirit,Astralis,6.0
+Spirit,Eternal Fire,3.0
+Spirit,Falcons,6.0
+Spirit,OG,2.0
+Spirit,Aurora,2.0
+Spirit,Apeks,1.0
+FaZe,G2,14.0
+FaZe,MOUZ,10.0
+FaZe,Vitality,14.0
+FaZe,HEROIC,2.0
+FaZe,Liquid,14.0
+FaZe,FURIA,5.0
+FaZe,Natus Vincere,16.0
+FaZe,paiN,3.0
+FaZe,GamerLegion,5.0
+FaZe,Wildcard,1.0
+FaZe,FlyQuest,6.0
+FaZe,Complexity,4.0
+FaZe,Virtus.pro,5.0
+FaZe,Cloud9,5.0
+FaZe,Imperial,5.0
+FaZe,Astralis,7.0
+FaZe,Eternal Fire,7.0
+FaZe,Falcons,5.0
+FaZe,M80,1.0
+FaZe,Sangal,5.0
+FaZe,Ninjas in Pyjamas,5.0
+FaZe,SAW,5.0
+FaZe,Monte,3.0
+FaZe,Nemiga,1.0
+FaZe,Rebels,2.0
+G2,MOUZ,13.0
+G2,Vitality,14.0
+G2,HEROIC,11.0
+G2,Liquid,14.0
+G2,The MongolZ,5.0
+G2,FURIA,1.0
+G2,Natus Vincere,21.0
+G2,MIBR,2.0
+G2,paiN,2.0
+G2,3DMAX,7.0
+G2,BIG,3.0
+G2,Virtus.pro,7.0
+G2,Cloud9,1.0
+G2,Astralis,3.0
+G2,Eternal Fire,2.0
+G2,9z,3.0
+G2,Falcons,4.0
+G2,M80,5.0
+G2,ENCE,2.0
+G2,Ninjas in Pyjamas,8.0
+G2,KOI,2.0
+G2,Lynn Vision,2.0
+G2,SAW,2.0
+G2,Monte,3.0
+G2,TYLOO,2.0
+G2,ECSTATIC,3.0
+MOUZ,Vitality,10.0
+MOUZ,HEROIC,2.0
+MOUZ,Liquid,4.0
+MOUZ,The MongolZ,3.0
+MOUZ,FURIA,11.0
+MOUZ,Natus Vincere,9.0
+MOUZ,MIBR,2.0
+MOUZ,paiN,5.0
+MOUZ,GamerLegion,4.0
+MOUZ,3DMAX,2.0
+MOUZ,Complexity,16.0
+MOUZ,Virtus.pro,3.0
+MOUZ,Cloud9,3.0
+MOUZ,Imperial,2.0
+MOUZ,fnatic,2.0
+MOUZ,Astralis,2.0
+MOUZ,Eternal Fire,5.0
+MOUZ,9z,1.0
+MOUZ,Falcons,3.0
+MOUZ,ENCE,2.0
+MOUZ,Rooster,3.0
+MOUZ,Sashi,3.0
+MOUZ,BetBoom,2.0
+MOUZ,Bad News Kangaroos,2.0
+MOUZ,TYLOO,1.0
+MOUZ,ECSTATIC,1.0
+Vitality,HEROIC,7.0
+Vitality,Liquid,8.0
+Vitality,The MongolZ,5.0
+Vitality,FURIA,5.0
+Vitality,Natus Vincere,4.0
+Vitality,MIBR,2.0
+Vitality,GamerLegion,4.0
+Vitality,Complexity,3.0
+Vitality,Virtus.pro,6.0
+Vitality,Cloud9,2.0
+Vitality,Imperial,1.0
+Vitality,Astralis,16.0
+Vitality,Eternal Fire,4.0
+Vitality,9z,3.0
+Vitality,Falcons,3.0
+Vitality,M80,2.0
+Vitality,ATOX,2.0
+Vitality,ENCE,3.0
+Vitality,SAW,2.0
+Vitality,OG,2.0
+Vitality,BetBoom,2.0
+Vitality,Monte,1.0
+Vitality,Sharks,2.0
+HEROIC,Liquid,1.0
+HEROIC,The MongolZ,4.0
+HEROIC,FURIA,6.0
+HEROIC,Natus Vincere,8.0
+HEROIC,MIBR,12.0
+HEROIC,paiN,5.0
+HEROIC,GamerLegion,3.0
+HEROIC,3DMAX,3.0
+HEROIC,BIG,12.0
+HEROIC,FlyQuest,2.0
+HEROIC,Complexity,8.0
+HEROIC,Virtus.pro,4.0
+HEROIC,Cloud9,2.0
+HEROIC,Imperial,1.0
+HEROIC,Astralis,4.0
+HEROIC,Eternal Fire,4.0
+HEROIC,9z,2.0
+HEROIC,M80,2.0
+HEROIC,ENCE,1.0
+HEROIC,Sangal,5.0
+HEROIC,Ninjas in Pyjamas,11.0
+HEROIC,Lynn Vision,4.0
+HEROIC,Sashi,1.0
+Liquid,FURIA,9.0
+Liquid,Natus Vincere,10.0
+Liquid,MIBR,3.0
+Liquid,paiN,2.0
+Liquid,GamerLegion,3.0
+Liquid,Wildcard,1.0
+Liquid,FlyQuest,6.0
+Liquid,Complexity,6.0
+Liquid,Virtus.pro,4.0
+Liquid,Cloud9,1.0
+Liquid,Astralis,2.0
+Liquid,9z,3.0
+Liquid,Falcons,3.0
+Liquid,ENCE,2.0
+Liquid,Monte,2.0
+The MongolZ,FURIA,2.0
+The MongolZ,Natus Vincere,1.0
+The MongolZ,MIBR,2.0
+The MongolZ,paiN,6.0
+The MongolZ,GamerLegion,2.0
+The MongolZ,3DMAX,4.0
+The MongolZ,BIG,3.0
+The MongolZ,FlyQuest,2.0
+The MongolZ,Virtus.pro,6.0
+The MongolZ,Rare Atom,1.0
+The MongolZ,Astralis,4.0
+The MongolZ,Eternal Fire,10.0
+The MongolZ,9z,2.0
+The MongolZ,Falcons,3.0
+The MongolZ,M80,1.0
+The MongolZ,ENCE,4.0
+The MongolZ,Ninjas in Pyjamas,4.0
+The MongolZ,KOI,2.0
+The MongolZ,Lynn Vision,2.0
+The MongolZ,SAW,6.0
+The MongolZ,Sashi,1.0
+The MongolZ,ECSTATIC,1.0
+The MongolZ,Legacy,2.0
+The MongolZ,AMKAL,3.0
+FURIA,Natus Vincere,4.0
+FURIA,paiN,3.0
+FURIA,GamerLegion,1.0
+FURIA,BIG,4.0
+FURIA,Wildcard,1.0
+FURIA,FlyQuest,1.0
+FURIA,Complexity,1.0
+FURIA,Virtus.pro,5.0
+FURIA,Imperial,4.0
+FURIA,fnatic,1.0
+FURIA,Eternal Fire,4.0
+FURIA,Falcons,3.0
+FURIA,RED Canids,5.0
+FURIA,ATOX,2.0
+FURIA,ENCE,4.0
+FURIA,Ninjas in Pyjamas,2.0
+FURIA,KOI,2.0
+FURIA,Lynn Vision,2.0
+FURIA,SAW,2.0
+FURIA,Sashi,1.0
+FURIA,BetBoom,1.0
+FURIA,Monte,3.0
+FURIA,FORZE,2.0
+FURIA,Bad News Kangaroos,2.0
+FURIA,ECSTATIC,3.0
+FURIA,Legacy,1.0
+FURIA,Apeks,3.0
+Natus Vincere,MIBR,1.0
+Natus Vincere,paiN,4.0
+Natus Vincere,GamerLegion,2.0
+Natus Vincere,BIG,8.0
+Natus Vincere,FlyQuest,2.0
+Natus Vincere,Complexity,7.0
+Natus Vincere,Virtus.pro,4.0
+Natus Vincere,Cloud9,3.0
+Natus Vincere,Imperial,1.0
+Natus Vincere,Astralis,6.0
+Natus Vincere,Eternal Fire,12.0
+Natus Vincere,Falcons,4.0
+Natus Vincere,Ninjas in Pyjamas,2.0
+Natus Vincere,Lynn Vision,2.0
+Natus Vincere,SAW,3.0
+Natus Vincere,Apeks,3.0
+MIBR,paiN,3.0
+MIBR,3DMAX,1.0
+MIBR,Passion UA,1.0
+MIBR,FlyQuest,2.0
+MIBR,Virtus.pro,1.0
+MIBR,Rare Atom,3.0
+MIBR,Eternal Fire,2.0
+MIBR,9z,4.0
+MIBR,M80,2.0
+MIBR,Aurora,2.0
+paiN,GamerLegion,1.0
+paiN,3DMAX,1.0
+paiN,BIG,3.0
+paiN,FlyQuest,2.0
+paiN,Complexity,1.0
+paiN,Virtus.pro,4.0
+paiN,Cloud9,1.0
+paiN,Imperial,4.0
+paiN,Eternal Fire,3.0
+paiN,9z,3.0
+paiN,ENCE,1.0
+paiN,SAW,2.0
+paiN,Apeks,1.0
+GamerLegion,Wildcard,3.0
+GamerLegion,Passion UA,3.0
+GamerLegion,Virtus.pro,5.0
+GamerLegion,Imperial,3.0
+GamerLegion,Eternal Fire,3.0
+GamerLegion,Falcons,2.0
+GamerLegion,M80,1.0
+GamerLegion,ENCE,4.0
+GamerLegion,SAW,1.0
+GamerLegion,Monte,2.0
+GamerLegion,FORZE,3.0
+GamerLegion,Legacy,1.0
+GamerLegion,AMKAL,1.0
+3DMAX,Wildcard,2.0
+3DMAX,fnatic,2.0
+3DMAX,Astralis,2.0
+3DMAX,9z,4.0
+3DMAX,SAW,2.0
+BIG,Passion UA,1.0
+BIG,FlyQuest,6.0
+BIG,Complexity,7.0
+BIG,Virtus.pro,11.0
+BIG,Cloud9,2.0
+BIG,Imperial,3.0
+BIG,fnatic,3.0
+BIG,Astralis,3.0
+BIG,Eternal Fire,1.0
+BIG,Falcons,3.0
+BIG,ENCE,1.0
+BIG,Rooster,2.0
+BIG,SAW,3.0
+BIG,BetBoom,1.0
+BIG,PERA,3.0
+BIG,BOSS,2.0
+BIG,Apeks,3.0
+Wildcard,Passion UA,3.0
+Wildcard,Virtus.pro,4.0
+Wildcard,Cloud9,2.0
+Wildcard,fnatic,1.0
+Wildcard,9z,2.0
+Wildcard,KOI,2.0
+Passion UA,Complexity,1.0
+FlyQuest,Complexity,1.0
+FlyQuest,Virtus.pro,3.0
+FlyQuest,Cloud9,1.0
+FlyQuest,Eternal Fire,2.0
+FlyQuest,Sangal,2.0
+FlyQuest,Ninjas in Pyjamas,2.0
+FlyQuest,Lynn Vision,3.0
+FlyQuest,BetBoom,3.0
+FlyQuest,PERA,3.0
+FlyQuest,BOSS,2.0
+FlyQuest,Nemiga,2.0
+Complexity,Virtus.pro,7.0
+Complexity,Cloud9,2.0
+Complexity,Imperial,5.0
+Complexity,fnatic,1.0
+Complexity,Astralis,5.0
+Complexity,Eternal Fire,3.0
+Complexity,Falcons,3.0
+Complexity,M80,3.0
+Complexity,Ninjas in Pyjamas,2.0
+Complexity,ALTERNATE aTTaX,2.0
+Complexity,OG,3.0
+Complexity,BetBoom,1.0
+Complexity,PERA,2.0
+Complexity,Apeks,2.0
+Virtus.pro,Cloud9,6.0
+Virtus.pro,Rare Atom,1.0
+Virtus.pro,Imperial,1.0
+Virtus.pro,fnatic,5.0
+Virtus.pro,Astralis,6.0
+Virtus.pro,Eternal Fire,3.0
+Virtus.pro,9z,3.0
+Virtus.pro,Falcons,14.0
+Virtus.pro,RED Canids,2.0
+Virtus.pro,Rooster,1.0
+Virtus.pro,SAW,4.0
+Cloud9,fnatic,1.0
+Cloud9,Ninjas in Pyjamas,3.0
+Cloud9,SAW,2.0
+Cloud9,BetBoom,3.0
+Cloud9,Monte,2.0
+Cloud9,ECSTATIC,2.0
+Cloud9,Legacy,1.0
+Cloud9,Rebels,1.0
+Rare Atom,fnatic,3.0
+Imperial,Eternal Fire,3.0
+Imperial,M80,2.0
+Imperial,ENCE,1.0
+Imperial,SAW,2.0
+Imperial,ECSTATIC,3.0
+Imperial,Apeks,1.0
+fnatic,Astralis,3.0
+fnatic,Eternal Fire,4.0
+fnatic,M80,2.0
+fnatic,Ninjas in Pyjamas,2.0
+fnatic,BetBoom,1.0
+Astralis,Eternal Fire,3.0
+Astralis,9z,2.0
+Astralis,Falcons,7.0
+Astralis,ENCE,3.0
+Astralis,Rooster,2.0
+Astralis,Ninjas in Pyjamas,3.0
+Astralis,SAW,2.0
+Astralis,Sashi,1.0
+Astralis,BetBoom,3.0
+Astralis,Steel Helmet,1.0
+Eternal Fire,Falcons,5.0
+Eternal Fire,Sangal,2.0
+Eternal Fire,SAW,2.0
+Eternal Fire,BetBoom,2.0
+Eternal Fire,Rebels,2.0
+Falcons,RED Canids,2.0
+Falcons,ATOX,2.0
+Falcons,ENCE,3.0
+Falcons,ALTERNATE aTTaX,2.0
+Falcons,OG,2.0
+Falcons,BetBoom,5.0
+Falcons,Monte,2.0
+Falcons,TYLOO,3.0
+Falcons,Rebels,3.0
+M80,Rooster,2.0
+M80,BetBoom,6.0
+M80,TYLOO,3.0
+M80,Sharks,3.0
+M80,Rebels,2.0
+RED Canids,ENCE,3.0
+ATOX,ENCE,2.0
+ENCE,Ninjas in Pyjamas,1.0
+ENCE,KOI,1.0
+ENCE,Sashi,1.0
+ENCE,Monte,2.0
+ENCE,Bad News Kangaroos,3.0
+Ninjas in Pyjamas,Sashi,1.0
+Ninjas in Pyjamas,PERA,3.0
+Ninjas in Pyjamas,BOSS,3.0
+KOI,SAW,1.0
+Lynn Vision,TYLOO,2.0
+Lynn Vision,ECSTATIC,1.0
+Sashi,JiJieHao,1.0
+Monte,FORZE,5.0
+TYLOO,Sharks,2.0
+Nemiga,Steel Helmet,2.0
+Legacy,Apeks,2.0
+Apeks,AMKAL,1.0
