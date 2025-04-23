@@ -1,0 +1,1481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1598.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-801.000000 -791.000000 1598.000000 1590.000000" height="1590.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none" class="id_Spirit id_FaZe"
+              d="M -324.394470,139.974564 A 606.448391,606.448391 0,0 1,334.551178,191.495026"
+              stroke="#ff743e" stroke-width="17.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Spirit id_G2"
+              d="M -322.290802,144.094818 A 309.000512,309.000512 0,0 1,-25.096611,191.808380"
+              stroke="#ff743e" stroke-width="15.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Spirit id_MOUZ"
+              d="M -334.902405,128.272156 A 342.197583,342.197583 0,0 1,-15.688707,10.149360"
+              stroke="#ff743e" stroke-width="9.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Spirit id_Vitality"
+              d="M -378.764984,126.192917 A 171.421782,171.421782 0,0 1,-382.202881,-8.128266"
+              stroke="#ff743e" stroke-width="7.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Spirit id_HEROIC"
+              d="M -347.884460,121.937790 A 454.495119,454.495119 0,0 1,14.820322,-187.226120"
+              stroke="#e87886" stroke-width="7.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Spirit id_Liquid"
+              d="M -319.821594,151.784668 A 460.267672,460.267672 0,0 1,131.419220,339.668365"
+              stroke="#ff743e" stroke-width="8.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Spirit id_The_MongolZ"
+              d="M -337.103333,126.752464 A 510.154450,510.154450 0,0 1,162.751099,-85.027908"
+              stroke="#e87886" stroke-width="7.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Spirit id_FURIA"
+              d="M -338.529022,125.880013 A 178.720289,178.720289 0,0 1,-221.191345,55.595024"
+              stroke="#b3903a" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Spirit id_Natus_Vincere"
+              d="M -351.569580,121.107124 A 603.268866,603.268866 0,0 1,112.560356,-345.133698"
+              stroke="#ff743e" stroke-width="15.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Spirit id_MIBR"
+              d="M -378.217377,125.868050 A 492.908662,492.908662 0,0 1,-335.500793,-402.726990"
+              stroke="#e87886" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Spirit id_3DMAX"
+              d="M -389.082855,135.210342 A 368.432119,368.432119 0,0 1,-499.082397,-233.677414"
+              stroke="#e87886" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Spirit id_Wildcard"
+              d="M -337.640137,193.436615 A 344.979158,344.979158 0,0 1,-354.099152,549.728271"
+              stroke="#b3903a" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Spirit id_FlyQuest"
+              d="M -347.930725,121.925034 A 777.654388,777.654388 0,0 1,327.192352,-427.461456"
+              stroke="#e87886" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Spirit id_Complexity"
+              d="M -330.877045,131.699783 A 614.245581,614.245581 0,0 1,327.513672,5.730754"
+              stroke="#ff743e" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Spirit id_Virtus.pro"
+              d="M -355.011963,120.658104 A 300.104613,300.104613 0,0 1,-177.966446,-109.321915"
+              stroke="#7f958c" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Spirit id_Cloud9"
+              d="M -319.086212,156.922897 A 166.713873,166.713873 0,0 1,-199.710876,214.798477"
+              stroke="#7f958c" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Spirit id_Imperial"
+              d="M -356.458740,120.560661 A 753.958202,753.958202 0,0 1,167.171692,-541.540710"
+              stroke="#b3903a" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Spirit id_Astralis"
+              d="M -319.214020,164.289230 A 352.886898,352.886898 0,0 1,-45.474941,393.609833"
+              stroke="#ff743e" stroke-width="6.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Spirit id_Eternal_Fire"
+              d="M -340.079346,125.022011 A 802.225666,802.225666 0,0 1,460.551666,-281.085632"
+              stroke="#e87886" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Spirit id_Falcons"
+              d="M -325.988342,137.478943 A 453.075696,453.075696 0,0 1,151.884735,134.170517"
+              stroke="#7f958c" stroke-width="6.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Spirit id_OG"
+              d="M -319.655365,167.234436 A 679.651920,679.651920 0,0 1,206.006210,723.160522"
+              stroke="#ff743e" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Spirit id_Aurora"
+              d="M -392.993256,141.072067 A 553.811166,553.811166 0,0 1,-659.190735,-413.742004"
+              stroke="#e87886" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Spirit id_Apeks"
+              d="M -396.253754,149.010864 A 440.374179,440.374179 0,0 1,-693.226379,-220.174133"
+              stroke="#b3903a" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FaZe id_G2"
+              d="M 331.877441,241.350571 A 299.774285,299.774285 0,0 1,44.387577,244.665451"
+              stroke="#ff743e" stroke-width="14.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FaZe id_MOUZ"
+              d="M 325.011108,220.387268 A 327.221768,327.221768 0,0 1,47.977966,60.310844"
+              stroke="#ff743e" stroke-width="10.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FaZe id_Vitality"
+              d="M 326.405365,229.181396 A 645.737279,645.737279 0,0 1,-336.812317,-10.631878"
+              stroke="#ff743e" stroke-width="14.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FaZe id_HEROIC"
+              d="M 327.243805,204.553131 A 427.699924,427.699924 0,0 1,60.715855,-148.089462"
+              stroke="#e87886" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FaZe id_Liquid"
+              d="M 350.453125,256.896271 A 219.979138,219.979138 0,0 1,189.489639,368.974152"
+              stroke="#ff743e" stroke-width="14.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FaZe id_FURIA"
+              d="M 326.891876,230.848618 A 468.617637,468.617637 0,0 1,-139.495453,93.930794"
+              stroke="#b3903a" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_FaZe id_Natus_Vincere"
+              d="M 332.542358,194.140076 A 507.828196,507.828196 0,0 1,143.136261,-312.423187"
+              stroke="#ff743e" stroke-width="16.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FaZe id_paiN"
+              d="M 329.840698,198.562546 A 666.131871,666.131871 0,0 1,-1.988859,-455.535950"
+              stroke="#e87886" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FaZe id_GamerLegion"
+              d="M 324.957428,218.576370 A 673.963444,673.963444 0,0 1,-285.288422,-205.043976"
+              stroke="#b3903a" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FaZe id_Wildcard"
+              d="M 346.497833,254.950592 A 683.123549,683.123549 0,0 1,-342.399292,578.808594"
+              stroke="#b3903a" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FaZe id_FlyQuest"
+              d="M 342.988525,183.714813 A 540.119150,540.119150 0,0 1,343.342804,-398.942322"
+              stroke="#e87886" stroke-width="6.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FaZe id_Complexity"
+              d="M 346.126373,181.730515 A 162.722657,162.722657 0,0 1,345.414978,59.717747"
+              stroke="#ff743e" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FaZe id_Virtus.pro"
+              d="M 324.956665,218.463837 A 507.328166,507.328166 0,0 1,-120.600929,-83.013824"
+              stroke="#7f958c" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FaZe id_Cloud9"
+              d="M 333.518829,243.670929 A 454.911939,454.911939 0,0 1,-145.267059,266.824585"
+              stroke="#7f958c" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FaZe id_Imperial"
+              d="M 336.143585,189.671402 A 656.120579,656.120579 0,0 1,187.005936,-519.176086"
+              stroke="#b3903a" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FaZe id_Astralis"
+              d="M 347.121521,255.292236 A 378.882126,378.882126 0,0 1,5.978582,436.297913"
+              stroke="#ff743e" stroke-width="7.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FaZe id_Eternal_Fire"
+              d="M 353.384460,178.446609 A 425.860401,425.860401 0,0 1,469.853424,-248.801254"
+              stroke="#e87886" stroke-width="7.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FaZe id_Falcons"
+              d="M 325.673950,225.973343 A 159.880149,159.880149 0,0 1,212.081146,186.795547"
+              stroke="#7f958c" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FaZe id_M80"
+              d="M 364.441101,176.255524 A 286.314737,286.314737 0,0 1,505.597656,-67.030540"
+              stroke="#7f958c" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FaZe id_Sangal"
+              d="M 394.247742,186.183777 A 353.659272,353.659272 0,0 1,753.151306,92.616837"
+              stroke="#e87886" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_FaZe id_Ninjas_in_Pyjamas"
+              d="M 391.006897,183.690964 A 191.689000,191.689000 0,0 1,543.999207,118.149773"
+              stroke="#e87886" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FaZe id_SAW"
+              d="M 340.749084,185.386566 A 369.501582,369.501582 0,0 1,311.833160,-194.456665"
+              stroke="#e87886" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FaZe id_Monte"
+              d="M 327.209686,231.818344 A 821.328754,821.328754 0,0 1,-560.665833,-40.546970"
+              stroke="#b3903a" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FaZe id_Nemiga"
+              d="M 392.193329,251.925125 A 363.053091,363.053091 0,0 1,403.026367,634.737854"
+              stroke="#e87886" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FaZe id_Rebels"
+              d="M 366.251587,176.183624 A 518.232452,518.232452 0,0 1,688.315125,-291.910248"
+              stroke="#7f958c" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_G2 id_MOUZ"
+              d="M -10.214866,181.149857 A 168.301894,168.301894 0,0 1,2.137436,56.994255"
+              stroke="#ff743e" stroke-width="13.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_G2 id_Vitality"
+              d="M -36.487686,219.524017 A 379.467784,379.467784 0,0 1,-346.501526,-5.525483"
+              stroke="#ff743e" stroke-width="14.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_G2 id_HEROIC"
+              d="M -12.048294,182.000015 A 346.934343,346.934343 0,0 1,30.054928,-158.428467"
+              stroke="#e87886" stroke-width="11.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_G2 id_Liquid"
+              d="M 49.336090,233.706299 A 173.587856,173.587856 0,0 1,143.236969,334.615479"
+              stroke="#ff743e" stroke-width="14.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_G2 id_The_MongolZ"
+              d="M 8.195303,177.507217 A 298.226993,298.226993 0,0 1,165.562256,-58.068142"
+              stroke="#e87886" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_G2 id_FURIA"
+              d="M -35.525879,212.019180 A 203.160914,203.160914 0,0 1,-156.352951,103.008827"
+              stroke="#b3903a" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_G2 id_Natus_Vincere"
+              d="M -7.736319,180.157974 A 493.278992,493.278992 0,0 1,122.142868,-325.220612"
+              stroke="#ff743e" stroke-width="21.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_G2 id_MIBR"
+              d="M -31.034607,200.083893 A 604.876176,604.876176 0,0 1,-318.851563,-395.280792"
+              stroke="#e87886" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_G2 id_paiN"
+              d="M -17.879984,185.453461 A 595.839057,595.839057 0,0 1,-18.459082,-462.002655"
+              stroke="#e87886" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_G2 id_3DMAX"
+              d="M -35.927113,214.109909 A 578.104937,578.104937 0,0 1,-484.919006,-232.840057"
+              stroke="#e87886" stroke-width="7.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_G2 id_BIG"
+              d="M -23.751345,190.396179 A 465.057100,465.057100 0,0 1,-114.382858,-290.449249"
+              stroke="#7f958c" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_G2 id_Virtus.pro"
+              d="M -28.804943,196.481903 A 311.609332,311.609332 0,0 1,-144.370071,-80.679291"
+              stroke="#7f958c" stroke-width="7.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_G2 id_Cloud9"
+              d="M -27.886396,247.446136 A 155.971737,155.971737 0,0 1,-142.405762,261.138885"
+              stroke="#7f958c" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_G2 id_Astralis"
+              d="M 21.376450,262.822479 A 179.145043,179.145043 0,0 1,-7.403652,402.099670"
+              stroke="#ff743e" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_G2 id_Eternal_Fire"
+              d="M 14.978299,178.176132 A 583.073046,583.073046 0,0 1,460.751678,-267.877533"
+              stroke="#e87886" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_G2 id_9z"
+              d="M -21.788013,254.100372 A 404.549646,404.549646 0,0 1,-434.483948,354.317566"
+              stroke="#e87886" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_G2 id_Falcons"
+              d="M 36.139629,188.325851 A 157.807547,157.807547 0,0 1,145.565506,149.985809"
+              stroke="#7f958c" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_G2 id_M80"
+              d="M 26.305286,181.834091 A 506.692536,506.692536 0,0 1,502.144745,-84.724197"
+              stroke="#7f958c" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_G2 id_ENCE"
+              d="M -8.227682,262.302368 A 270.595743,270.595743 0,0 1,-215.274139,414.253418"
+              stroke="#b3903a" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_G2 id_Ninjas_in_Pyjamas"
+              d="M 38.751286,190.805145 A 481.115958,481.115958 0,0 1,546.778564,108.598633"
+              stroke="#e87886" stroke-width="8.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_G2 id_KOI"
+              d="M 50.977749,217.762772 A 527.691019,527.691019 0,0 1,546.445984,514.135620"
+              stroke="#b3903a" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_G2 id_Lynn_Vision"
+              d="M -32.518219,239.627136 A 469.968650,469.968650 0,0 1,-530.336975,146.607666"
+              stroke="#e87886" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_G2 id_SAW"
+              d="M 8.582133,177.516846 A 456.984082,456.984082 0,0 1,296.729156,-212.405762"
+              stroke="#e87886" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_G2 id_Monte"
+              d="M -36.025494,227.916504 A 541.912413,541.912413 0,0 1,-564.269775,-38.195179"
+              stroke="#b3903a" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_G2 id_TYLOO"
+              d="M -17.146898,184.949860 A 782.162597,782.162597 0,0 1,14.755741,-697.599609"
+              stroke="#7f958c" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_G2 id_ECSTATIC"
+              d="M 48.597267,206.660355 A 435.669487,435.669487 0,0 1,497.205231,332.430267"
+              stroke="#b3903a" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MOUZ id_Vitality"
+              d="M -13.225483,38.110424 A 329.100430,329.100430 0,0 1,-329.993378,-16.595425"
+              stroke="#ff743e" stroke-width="10.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MOUZ id_HEROIC"
+              d="M 11.449083,-21.193584 A 178.706200,178.706200 0,0 1,31.404352,-157.329422"
+              stroke="#e87886" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MOUZ id_Liquid"
+              d="M 63.156269,47.796894 A 310.117913,310.117913 0,0 1,160.963181,334.706879"
+              stroke="#ff743e" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MOUZ id_The_MongolZ"
+              d="M 51.769535,-17.347708 A 169.194507,169.194507 0,0 1,161.829117,-76.700539"
+              stroke="#e87886" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MOUZ id_FURIA"
+              d="M -6.831936,48.645420 A 168.372326,168.372326 0,0 1,-123.747772,71.041489"
+              stroke="#b3903a" stroke-width="11.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_MOUZ id_Natus_Vincere"
+              d="M 16.718746,-22.899307 A 327.722791,327.722791 0,0 1,120.716995,-326.937439"
+              stroke="#ff743e" stroke-width="9.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MOUZ id_MIBR"
+              d="M -14.521794,6.074292 A 470.778841,470.778841 0,0 1,-311.905304,-394.881622"
+              stroke="#e87886" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MOUZ id_paiN"
+              d="M 1.174230,-15.488613 A 428.880191,428.880191 0,0 1,-16.698744,-460.853027"
+              stroke="#e87886" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MOUZ id_GamerLegion"
+              d="M -16.673548,16.103720 A 348.581504,348.581504 0,0 1,-286.921661,-204.485855"
+              stroke="#b3903a" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MOUZ id_3DMAX"
+              d="M -16.662445,24.819765 A 491.762116,491.762116 0,0 1,-477.153412,-235.415527"
+              stroke="#e87886" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MOUZ id_Complexity"
+              d="M 65.785561,-3.208622 A 281.717645,281.717645 0,0 1,330.612457,0.050033"
+              stroke="#ff743e" stroke-width="16.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MOUZ id_Virtus.pro"
+              d="M -15.994783,11.547934 A 182.261561,182.261561 0,0 1,-122.496742,-82.319962"
+              stroke="#7f958c" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MOUZ id_Cloud9"
+              d="M 19.706303,64.367592 A 255.003499,255.003499 0,0 1,-140.946945,236.645538"
+              stroke="#7f958c" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MOUZ id_Imperial"
+              d="M 14.406070,-22.239397 A 497.787659,497.787659 0,0 1,173.305588,-529.657654"
+              stroke="#b3903a" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MOUZ id_fnatic"
+              d="M 69.532593,36.501244 A 430.262383,430.262383 0,0 1,323.881287,411.849060"
+              stroke="#7f958c" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MOUZ id_Astralis"
+              d="M 46.452820,61.045166 A 347.079429,347.079429 0,0 1,-7.102215,402.369232"
+              stroke="#ff743e" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MOUZ id_Eternal_Fire"
+              d="M 45.917019,-20.476376 A 464.456921,464.456921 0,0 1,460.136505,-276.747528"
+              stroke="#e87886" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MOUZ id_9z"
+              d="M 10.854328,61.764645 A 489.527670,489.527670 0,0 1,-432.684845,344.978882"
+              stroke="#e87886" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MOUZ id_Falcons"
+              d="M 71.648026,29.245441 A 173.548806,173.548806 0,0 1,172.231369,118.574570"
+              stroke="#7f958c" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MOUZ id_ENCE"
+              d="M 26.647022,65.095428 A 404.351969,404.351969 0,0 1,-217.516205,403.959442"
+              stroke="#b3903a" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MOUZ id_Rooster"
+              d="M 42.880600,62.499516 A 513.756236,513.756236 0,0 1,-110.484932,601.699585"
+              stroke="#ff743e" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MOUZ id_Sashi"
+              d="M 71.686119,11.755674 A 609.468258,609.468258 0,0 1,684.570801,290.854614"
+              stroke="#ff743e" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MOUZ id_BetBoom"
+              d="M -7.954257,-6.399147 A 509.471466,509.471466 0,0 1,-177.639542,-529.825806"
+              stroke="#7f958c" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_MOUZ id_Bad_News_Kangaroos"
+              d="M 17.505949,63.903740 A 660.935287,660.935287 0,0 1,-542.486328,546.052429"
+              stroke="#b3903a" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MOUZ id_TYLOO"
+              d="M 2.406579,-16.371605 A 614.513831,614.513831 0,0 1,15.257916,-697.226624"
+              stroke="#7f958c" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MOUZ id_ECSTATIC"
+              d="M 72.530800,20.436266 A 489.983806,489.983806 0,0 1,504.801422,327.985535"
+              stroke="#b3903a" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Vitality id_HEROIC"
+              d="M -335.510895,-79.929741 A 370.501415,370.501415 0,0 1,15.932563,-202.672928"
+              stroke="#e87886" stroke-width="7.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Vitality id_Liquid"
+              d="M -318.702087,-42.428043 A 551.198200,551.198200 0,0 1,141.532272,335.061493"
+              stroke="#ff743e" stroke-width="8.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Vitality id_The_MongolZ"
+              d="M -327.363708,-71.789597 A 474.038118,474.038118 0,0 1,168.258057,-99.073685"
+              stroke="#e87886" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Vitality id_FURIA"
+              d="M -318.600189,-47.288460 A 179.557831,179.557831 0,0 1,-198.552383,13.411552"
+              stroke="#b3903a" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Vitality id_Natus_Vincere"
+              d="M -343.497253,-84.735649 A 499.192536,499.192536 0,0 1,112.004890,-355.047668"
+              stroke="#ff743e" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Vitality id_MIBR"
+              d="M -380.277985,-84.381523 A 322.581545,322.581545 0,0 1,-336.297668,-403.396851"
+              stroke="#e87886" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Vitality id_GamerLegion"
+              d="M -370.302246,-87.789207 A 171.121514,171.121514 0,0 1,-327.310303,-215.563248"
+              stroke="#b3903a" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Vitality id_Complexity"
+              d="M -324.122009,-66.870438 A 608.858415,608.858415 0,0 1,333.793854,-4.224966"
+              stroke="#ff743e" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Vitality id_Virtus.pro"
+              d="M -333.795013,-78.553276 A 198.388333,198.388333 0,0 1,-179.567505,-132.464020"
+              stroke="#7f958c" stroke-width="6.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Vitality id_Cloud9"
+              d="M -322.699158,-27.389872 A 287.675999,287.675999 0,0 1,-177.501541,208.196533"
+              stroke="#7f958c" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Vitality id_Imperial"
+              d="M -351.766083,-87.577049 A 630.140864,630.140864 0,0 1,166.004654,-547.284119"
+              stroke="#b3903a" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Vitality id_Astralis"
+              d="M -321.498383,-30.178391 A 482.830130,482.830130 0,0 1,-34.063583,391.974976"
+              stroke="#ff743e" stroke-width="16.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Vitality id_Eternal_Fire"
+              d="M -333.977448,-78.706589 A 743.247295,743.247295 0,0 1,462.633514,-289.140198"
+              stroke="#e87886" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Vitality id_9z"
+              d="M -347.749298,-5.081674 A 335.578676,335.578676 0,0 1,-440.013428,324.549255"
+              stroke="#e87886" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Vitality id_Falcons"
+              d="M -319.852234,-56.160675 A 485.904318,485.904318 0,0 1,162.076569,123.761185"
+              stroke="#7f958c" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Vitality id_M80"
+              d="M -327.459717,-71.915077 A 747.173127,747.173127 0,0 1,507.334351,-99.602463"
+              stroke="#7f958c" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Vitality id_ATOX"
+              d="M -397.091003,-21.710632 A 347.576077,347.576077 0,0 1,-759.857971,-27.715828"
+              stroke="#b3903a" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Vitality id_ENCE"
+              d="M -330.063904,-16.519392 A 396.170791,396.170791 0,0 1,-238.840302,382.500732"
+              stroke="#b3903a" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Vitality id_SAW"
+              d="M -333.481689,-78.285866 A 593.429593,593.429593 0,0 1,297.008606,-235.263626"
+              stroke="#e87886" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Vitality id_OG"
+              d="M -320.874054,-31.888401 A 813.070240,813.070240 0,0 1,209.339066,722.929871"
+              stroke="#ff743e" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Vitality id_BetBoom"
+              d="M -371.619904,-87.492004 A 456.198255,456.198255 0,0 1,-193.755936,-541.526062"
+              stroke="#7f958c" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Vitality id_Monte"
+              d="M -400.251373,-27.226856 A 180.700905,180.700905 0,0 1,-555.353088,-45.918053"
+              stroke="#b3903a" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Vitality id_Sharks"
+              d="M -364.033722,-2.889742 A 416.537968,416.537968 0,0 1,-643.495422,345.477386"
+              stroke="#7f958c" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_HEROIC id_Liquid"
+              d="M 88.653030,-160.146835 A 475.677573,475.677573 0,0 1,167.924759,337.177948"
+              stroke="#e87886" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_HEROIC id_The_MongolZ"
+              d="M 101.658394,-184.842377 A 156.728497,156.728497 0,0 1,188.850906,-117.028450"
+              stroke="#d27cce" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_HEROIC id_FURIA"
+              d="M 50.415878,-148.761444 A 281.090738,281.090738 0,0 1,-122.973282,42.036293"
+              stroke="#9d9482" stroke-width="6.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_HEROIC id_Natus_Vincere"
+              d="M 59.758232,-235.654144 A 155.312710,155.312710 0,0 1,117.510826,-331.657990"
+              stroke="#e87886" stroke-width="8.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_HEROIC id_MIBR"
+              d="M 14.580113,-191.217468 A 367.861059,367.861059 0,0 1,-299.574951,-397.688263"
+              stroke="#d27cce" stroke-width="12.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_HEROIC id_paiN"
+              d="M 28.924839,-224.282745 A 255.649175,255.649175 0,0 1,-11.099211,-458.010986"
+              stroke="#d27cce" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_HEROIC id_GamerLegion"
+              d="M 18.620926,-173.461426 A 300.297840,300.297840 0,0 1,-269.511597,-215.904434"
+              stroke="#9d9482" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_HEROIC id_3DMAX"
+              d="M 19.301542,-172.055588 A 460.975120,460.975120 0,0 1,-468.331940,-242.056824"
+              stroke="#d27cce" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_HEROIC id_BIG"
+              d="M 15.388634,-200.254410 A 172.454051,172.454051 0,0 1,-85.795746,-289.343964"
+              stroke="#6999d4" stroke-width="12.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_HEROIC id_FlyQuest"
+              d="M 72.787926,-233.245682 A 323.313789,323.313789 0,0 1,327.219849,-427.070343"
+              stroke="#d27cce" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_HEROIC id_Complexity"
+              d="M 102.193413,-190.253098 A 312.573738,312.573738 0,0 1,350.088776,-16.011627"
+              stroke="#e87886" stroke-width="8.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_HEROIC id_Virtus.pro"
+              d="M 29.527620,-158.882889 A 172.113208,172.113208 0,0 1,-93.492516,-115.958427"
+              stroke="#6999d4" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_HEROIC id_Cloud9"
+              d="M 62.603771,-148.230347 A 415.242954,415.242954 0,0 1,-143.944214,228.959671"
+              stroke="#6999d4" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_HEROIC id_Imperial"
+              d="M 49.762020,-234.815674 A 322.224185,322.224185 0,0 1,171.970688,-531.463135"
+              stroke="#9d9482" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_HEROIC id_Astralis"
+              d="M 77.644348,-152.480133 A 525.783365,525.783365 0,0 1,-6.578940,402.850403"
+              stroke="#e87886" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_HEROIC id_Eternal_Fire"
+              d="M 89.825790,-222.394485 A 374.804596,374.804596 0,0 1,463.339508,-290.907959"
+              stroke="#d27cce" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_HEROIC id_9z"
+              d="M 51.299095,-148.607132 A 622.748134,622.748134 0,0 1,-433.152374,338.779724"
+              stroke="#d27cce" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_HEROIC id_M80"
+              d="M 99.374855,-207.391495 A 407.099593,407.099593 0,0 1,512.555603,-105.723152"
+              stroke="#6999d4" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_HEROIC id_ENCE"
+              d="M 64.232635,-148.418182 A 569.375944,569.375944 0,0 1,-219.475357,399.609344"
+              stroke="#9d9482" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_HEROIC id_Sangal"
+              d="M 101.141205,-201.526901 A 644.452438,644.452438 0,0 1,762.592773,80.721504"
+              stroke="#d27cce" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_HEROIC id_Ninjas_in_Pyjamas"
+              d="M 102.157219,-194.244308 A 504.626496,504.626496 0,0 1,563.071777,92.685463"
+              stroke="#d27cce" stroke-width="11.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_HEROIC id_Lynn_Vision"
+              d="M 38.137409,-152.993393 A 572.061287,572.061287 0,0 1,-522.981018,131.708832"
+              stroke="#d27cce" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_HEROIC id_Sashi"
+              d="M 102.150566,-189.340408 A 679.184798,679.184798 0,0 1,690.770325,288.179810"
+              stroke="#e87886" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Liquid id_FURIA"
+              d="M 114.877754,364.481262 A 376.611745,376.611745 0,0 1,-160.307266,104.062431"
+              stroke="#b3903a" stroke-width="9.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Liquid id_Natus_Vincere"
+              d="M 130.324722,340.406128 A 603.023149,603.023149 0,0 1,129.472687,-318.650421"
+              stroke="#ff743e" stroke-width="10.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Liquid id_MIBR"
+              d="M 117.621010,355.710236 A 772.018300,772.018300 0,0 1,-316.687714,-395.007141"
+              stroke="#e87886" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Liquid id_paiN"
+              d="M 125.229332,344.690796 A 731.306937,731.306937 0,0 1,-13.180675,-458.934631"
+              stroke="#e87886" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Liquid id_GamerLegion"
+              d="M 116.209351,359.305328 A 633.573736,633.573736 0,0 1,-297.749542,-202.694168"
+              stroke="#b3903a" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Liquid id_Wildcard"
+              d="M 130.697723,402.350677 A 467.787762,467.787762 0,0 1,-342.825867,580.829407"
+              stroke="#b3903a" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Liquid id_FlyQuest"
+              d="M 138.770279,335.970490 A 690.788038,690.788038 0,0 1,335.842010,-405.798767"
+              stroke="#e87886" stroke-width="6.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Liquid id_Complexity"
+              d="M 150.507263,333.628662 A 340.626970,340.626970 0,0 1,327.790802,40.816376"
+              stroke="#ff743e" stroke-width="6.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Liquid id_Virtus.pro"
+              d="M 117.834999,355.246429 A 477.498201,477.498201 0,0 1,-139.668777,-80.093307"
+              stroke="#7f958c" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Liquid id_Cloud9"
+              d="M 115.160545,379.415009 A 293.965392,293.965392 0,0 1,-155.371475,277.806152"
+              stroke="#7f958c" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Liquid id_Astralis"
+              d="M 126.918961,399.404083 A 163.147615,163.147615 0,0 1,5.355247,440.382324"
+              stroke="#ff743e" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Liquid id_9z"
+              d="M 120.066681,391.329742 A 512.407308,512.407308 0,0 1,-438.886261,362.283264"
+              stroke="#e87886" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Liquid id_Falcons"
+              d="M 137.775513,336.357178 A 180.950196,180.950196 0,0 1,159.764328,187.862747"
+              stroke="#7f958c" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Liquid id_ENCE"
+              d="M 123.125351,395.511932 A 338.687222,338.687222 0,0 1,-219.282181,433.721313"
+              stroke="#b3903a" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Liquid id_Monte"
+              d="M 114.385719,374.270081 A 707.418337,707.418337 0,0 1,-566.542297,-37.081196"
+              stroke="#b3903a" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_The_MongolZ id_FURIA"
+              d="M 179.117203,-40.650406 A 333.223152,333.223152 0,0 1,-122.555489,66.856735"
+              stroke="#9d9482" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_The_MongolZ id_Natus_Vincere"
+              d="M 176.416138,-109.009171 A 234.607051,234.607051 0,0 1,138.409363,-313.908600"
+              stroke="#e87886" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_The_MongolZ id_MIBR"
+              d="M 161.823318,-75.822929 A 524.099558,524.099558 0,0 1,-300.950562,-397.132019"
+              stroke="#d27cce" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_The_MongolZ id_paiN"
+              d="M 168.015686,-98.667427 A 387.037465,387.037465 0,0 1,-1.942754,-455.529358"
+              stroke="#d27cce" stroke-width="6.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_The_MongolZ id_GamerLegion"
+              d="M 163.525024,-63.748440 A 442.862684,442.862684 0,0 1,-275.102478,-210.650421"
+              stroke="#9d9482" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_The_MongolZ id_3DMAX"
+              d="M 164.462524,-60.832569 A 601.039100,601.039100 0,0 1,-471.365326,-239.164139"
+              stroke="#d27cce" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_The_MongolZ id_BIG"
+              d="M 162.103210,-80.962990 A 329.098828,329.098828 0,0 1,-87.035545,-288.938263"
+              stroke="#6999d4" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_The_MongolZ id_FlyQuest"
+              d="M 199.677963,-120.144096 A 323.080559,323.080559 0,0 1,332.967590,-409.740906"
+              stroke="#d27cce" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_The_MongolZ id_Virtus.pro"
+              d="M 165.845734,-57.432816 A 288.712783,288.712783 0,0 1,-103.260902,-95.374908"
+              stroke="#6999d4" stroke-width="6.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_The_MongolZ id_Rare_Atom"
+              d="M 213.627289,-120.105034 A 468.379701,468.379701 0,0 1,569.573608,-480.797668"
+              stroke="#6999d4" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_The_MongolZ id_Astralis"
+              d="M 213.367477,-31.786522 A 468.606091,468.606091 0,0 1,0.691290,411.965515"
+              stroke="#e87886" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_The_MongolZ id_Eternal_Fire"
+              d="M 224.243149,-117.012886 A 295.810561,295.810561 0,0 1,460.110321,-274.270508"
+              stroke="#d27cce" stroke-width="10.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_The_MongolZ id_9z"
+              d="M 189.098541,-34.798382 A 658.224054,658.224054 0,0 1,-432.725647,345.888000"
+              stroke="#d27cce" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_The_MongolZ id_Falcons"
+              d="M 225.466934,-35.469742 A 194.686907,194.686907 0,0 1,209.063980,124.152359"
+              stroke="#6999d4" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_The_MongolZ id_M80"
+              d="M 243.936417,-100.446861 A 273.242711,273.242711 0,0 1,507.066925,-99.188896"
+              stroke="#6999d4" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_The_MongolZ id_ENCE"
+              d="M 200.039413,-31.733917 A 560.919320,560.919320 0,0 1,-215.995850,409.158569"
+              stroke="#9d9482" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_The_MongolZ id_Ninjas_in_Pyjamas"
+              d="M 251.065521,-79.853691 A 349.486655,349.486655 0,0 1,561.110718,93.626846"
+              stroke="#d27cce" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_The_MongolZ id_KOI"
+              d="M 246.862976,-56.684574 A 587.760241,587.760241 0,0 1,559.135254,512.045959"
+              stroke="#9d9482" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_The_MongolZ id_Lynn_Vision"
+              d="M 177.808609,-41.706154 A 652.117131,652.117131 0,0 1,-524.414063,137.378235"
+              stroke="#d27cce" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_The_MongolZ id_SAW"
+              d="M 214.822159,-119.896210 A 159.264240,159.264240 0,0 1,296.770325,-212.289658"
+              stroke="#d27cce" stroke-width="6.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_The_MongolZ id_Sashi"
+              d="M 251.127625,-72.871704 A 522.458526,522.458526 0,0 1,690.660339,288.211456"
+              stroke="#e87886" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_The_MongolZ id_ECSTATIC"
+              d="M 248.438202,-60.402439 A 438.737063,438.737063 0,0 1,513.380066,326.413177"
+              stroke="#9d9482" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_The_MongolZ id_Legacy"
+              d="M 161.847275,-74.496033 A 702.843600,702.843600 0,0 1,-491.104523,-515.351563"
+              stroke="#9d9482" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_The_MongolZ id_AMKAL"
+              d="M 166.700180,-96.271042 A 655.040613,655.040613 0,0 1,-166.355377,-747.973267"
+              stroke="#d27cce" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_FURIA id_Natus_Vincere"
+              d="M -166.891266,5.447039 A 434.079267,434.079267 0,0 1,113.790741,-340.101257"
+              stroke="#b3903a" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FURIA id_paiN"
+              d="M -185.170044,7.255159 A 480.048097,480.048097 0,0 1,-26.971857,-470.071442"
+              stroke="#9d9482" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FURIA id_GamerLegion"
+              d="M -212.041687,26.428717 A 268.898559,268.898559 0,0 1,-304.929016,-203.215439"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FURIA id_BIG"
+              d="M -189.671371,8.801714 A 323.900719,323.900719 0,0 1,-126.115120,-298.307861"
+              stroke="#34b288" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FURIA id_Wildcard"
+              d="M -160.255341,104.050819 A 463.195884,463.195884 0,0 1,-346.983063,557.150635"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FURIA id_FlyQuest"
+              d="M -159.642578,6.613976 A 602.443213,602.443213 0,0 1,327.399597,-425.267822"
+              stroke="#9d9482" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FURIA id_Complexity"
+              d="M -131.320740,25.091419 A 448.365512,448.365512 0,0 1,329.727356,1.472965"
+              stroke="#b3903a" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FURIA id_Virtus.pro"
+              d="M -185.368835,7.313486 A 151.983942,151.983942 0,0 1,-164.489258,-90.000259"
+              stroke="#34b288" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FURIA id_Imperial"
+              d="M -173.755508,5.327428 A 592.980018,592.980018 0,0 1,168.622635,-537.509949"
+              stroke="#68ad36" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FURIA id_fnatic"
+              d="M -121.311043,58.703228 A 524.280222,524.280222 0,0 1,314.929810,413.186676"
+              stroke="#34b288" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_FURIA id_Eternal_Fire"
+              d="M -146.772507,11.630672 A 623.698197,623.698197 0,0 1,460.579346,-281.266510"
+              stroke="#9d9482" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FURIA id_Falcons"
+              d="M -123.213226,41.190693 A 308.865802,308.865802 0,0 1,158.868896,126.275337"
+              stroke="#34b288" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FURIA id_RED_Canids"
+              d="M -134.846573,89.597923 A 614.573136,614.573136 0,0 1,-7.614468,755.658447"
+              stroke="#68ad36" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FURIA id_ATOX"
+              d="M -216.464844,76.484573 A 512.397898,512.397898 0,0 1,-762.435608,-24.579826"
+              stroke="#68ad36" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FURIA id_ENCE"
+              d="M -154.390305,102.354019 A 308.746605,308.746605 0,0 1,-225.480240,391.332092"
+              stroke="#68ad36" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_FURIA id_Ninjas_in_Pyjamas"
+              d="M -127.653862,30.677341 A 625.231654,625.231654 0,0 1,551.487854,101.288704"
+              stroke="#9d9482" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FURIA id_KOI"
+              d="M -121.208153,54.009121 A 727.023592,727.023592 0,0 1,548.016846,513.480896"
+              stroke="#68ad36" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FURIA id_Lynn_Vision"
+              d="M -207.567963,89.566536 A 320.580279,320.580279 0,0 1,-524.930847,138.650803"
+              stroke="#9d9482" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FURIA id_SAW"
+              d="M -148.519958,10.697605 A 476.495902,476.495902 0,0 1,295.003632,-226.753525"
+              stroke="#9d9482" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FURIA id_Sashi"
+              d="M -123.758347,39.450150 A 755.546896,755.546896 0,0 1,681.988220,292.607513"
+              stroke="#b3903a" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FURIA id_BetBoom"
+              d="M -199.070007,13.754553 A 511.323985,511.323985 0,0 1,-186.457794,-534.105774"
+              stroke="#34b288" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FURIA id_Monte"
+              d="M -219.102783,69.565544 A 352.724723,352.724723 0,0 1,-560.025757,-41.053936"
+              stroke="#68ad36" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FURIA id_FORZE"
+              d="M -209.339386,22.938135 A 635.869980,635.869980 0,0 1,-377.784454,-661.062561"
+              stroke="#68ad36" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_FURIA id_Bad_News_Kangaroos"
+              d="M -175.041428,105.113327 A 525.360697,525.360697 0,0 1,-543.193237,542.339172"
+              stroke="#68ad36" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FURIA id_ECSTATIC"
+              d="M -122.137520,45.586311 A 621.823248,621.823248 0,0 1,500.597870,329.999603"
+              stroke="#68ad36" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FURIA id_Legacy"
+              d="M -215.868820,32.811234 A 564.551929,564.551929 0,0 1,-502.248749,-513.959656"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FURIA id_Apeks"
+              d="M -221.067856,58.789387 A 504.285004,504.285004 0,0 1,-684.052673,-222.563126"
+              stroke="#68ad36" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Natus_Vincere id_MIBR"
+              d="M 115.609390,-335.337524 A 394.053914,394.053914 0,0 1,-288.099426,-405.645691"
+              stroke="#e87886" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Natus_Vincere id_paiN"
+              d="M 113.037201,-361.911469 A 171.491196,171.491196 0,0 1,14.241745,-456.678833"
+              stroke="#e87886" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Natus_Vincere id_GamerLegion"
+              d="M 125.356941,-321.945099 A 387.612213,387.612213 0,0 1,-262.400421,-227.914581"
+              stroke="#b3903a" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Natus_Vincere id_BIG"
+              d="M 120.259560,-327.530670 A 210.901646,210.901646 0,0 1,-63.145844,-309.526306"
+              stroke="#7f958c" stroke-width="8.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Natus_Vincere id_FlyQuest"
+              d="M 179.178543,-384.238495 A 187.847054,187.847054 0,0 1,327.805084,-437.088715"
+              stroke="#e87886" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Natus_Vincere id_Complexity"
+              d="M 189.827393,-333.770599 A 359.554963,359.554963 0,0 1,368.787140,-18.986326"
+              stroke="#ff743e" stroke-width="7.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Natus_Vincere id_Virtus.pro"
+              d="M 139.895401,-313.373718 A 307.510364,307.510364 0,0 1,-92.984398,-128.001495"
+              stroke="#7f958c" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Natus_Vincere id_Cloud9"
+              d="M 157.301743,-311.416321 A 570.472491,570.472491 0,0 1,-143.543533,229.753265"
+              stroke="#7f958c" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Natus_Vincere id_Imperial"
+              d="M 141.426361,-391.865936 A 170.509268,170.509268 0,0 1,176.255844,-526.373169"
+              stroke="#b3903a" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Natus_Vincere id_Astralis"
+              d="M 168.316559,-314.117737 A 672.225162,672.225162 0,0 1,-3.901702,405.607178"
+              stroke="#ff743e" stroke-width="6.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Natus_Vincere id_Eternal_Fire"
+              d="M 191.703354,-366.690674 A 296.498910,296.498910 0,0 1,472.164093,-303.833405"
+              stroke="#e87886" stroke-width="12.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Natus_Vincere id_Falcons"
+              d="M 178.282791,-319.803375 A 425.071776,425.071776 0,0 1,205.768921,121.984711"
+              stroke="#7f958c" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Natus_Vincere id_Ninjas_in_Pyjamas"
+              d="M 193.107651,-342.658051 A 529.835235,529.835235 0,0 1,572.374573,90.166733"
+              stroke="#e87886" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Natus_Vincere id_Lynn_Vision"
+              d="M 138.740662,-313.783752 A 708.943352,708.943352 0,0 1,-522.748535,128.817230"
+              stroke="#e87886" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Natus_Vincere id_SAW"
+              d="M 194.042603,-348.044891 A 181.121908,181.121908 0,0 1,315.618164,-254.265869"
+              stroke="#e87886" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Natus_Vincere id_Apeks"
+              d="M 122.631500,-324.673584 A 712.456942,712.456942 0,0 1,-671.621338,-234.150055"
+              stroke="#b3903a" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MIBR id_paiN"
+              d="M -288.430847,-454.396851 A 269.354593,269.354593 0,0 1,-32.396862,-507.721039"
+              stroke="#d27cce" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MIBR id_3DMAX"
+              d="M -322.194855,-395.978638 A 203.195538,203.195538 0,0 1,-461.119141,-267.624268"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MIBR id_Passion_UA"
+              d="M -283.453949,-411.700836 A 919.453801,919.453801 0,0 1,122.815269,562.985535"
+              stroke="#9d9482" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MIBR id_FlyQuest"
+              d="M -284.745056,-449.975647 A 565.117063,565.117063 0,0 1,333.905121,-451.473694"
+              stroke="#d27cce" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MIBR id_Virtus.pro"
+              d="M -282.064514,-414.219818 A 294.521447,294.521447 0,0 1,-134.625168,-167.588440"
+              stroke="#6999d4" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MIBR id_Rare_Atom"
+              d="M -286.196808,-451.897186 A 755.714793,755.714793 0,0 1,572.687927,-497.385986"
+              stroke="#6999d4" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MIBR id_Eternal_Fire"
+              d="M -281.569580,-444.447632 A 690.302453,690.302453 0,0 1,472.388184,-304.051758"
+              stroke="#d27cce" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MIBR id_9z"
+              d="M -298.896027,-397.988251 A 656.802749,656.802749 0,0 1,-440.840179,323.642120"
+              stroke="#d27cce" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MIBR id_M80"
+              d="M -279.310303,-437.865082 A 763.669861,763.669861 0,0 1,517.211670,-109.258331"
+              stroke="#6999d4" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MIBR id_Aurora"
+              d="M -342.865845,-410.993042 A 285.417978,285.417978 0,0 1,-638.857361,-422.221283"
+              stroke="#d27cce" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_paiN id_GamerLegion"
+              d="M -7.530464,-456.752747 A 328.047371,328.047371 0,0 1,-260.271118,-245.501221"
+              stroke="#9d9482" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_paiN id_3DMAX"
+              d="M -16.033043,-460.452911 A 454.503664,454.503664 0,0 1,-461.031769,-256.964386"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_paiN id_BIG"
+              d="M 2.572960,-455.156403 A 163.195515,163.195515 0,0 1,-64.075638,-345.474335"
+              stroke="#6999d4" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_paiN id_FlyQuest"
+              d="M 38.882484,-508.882233 A 305.720177,305.720177 0,0 1,337.384338,-455.746735"
+              stroke="#d27cce" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_paiN id_Complexity"
+              d="M 39.644810,-480.382233 A 525.894907,525.894907 0,0 1,365.532043,-19.085760"
+              stroke="#e87886" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_paiN id_Virtus.pro"
+              d="M 12.000561,-456.099396 A 329.588381,329.588381 0,0 1,-101.242096,-149.690735"
+              stroke="#6999d4" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_paiN id_Cloud9"
+              d="M 17.508144,-457.789764 A 635.287857,635.287857 0,0 1,-149.094971,221.399796"
+              stroke="#6999d4" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_paiN id_Imperial"
+              d="M 29.900349,-521.720398 A 171.287822,171.287822 0,0 1,166.913696,-560.243713"
+              stroke="#9d9482" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_paiN id_Eternal_Fire"
+              d="M 41.342487,-500.818634 A 452.390983,452.390983 0,0 1,479.080597,-309.277863"
+              stroke="#d27cce" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_paiN id_9z"
+              d="M 7.783297,-455.386658 A 798.824431,798.824431 0,0 1,-435.481110,331.491241"
+              stroke="#d27cce" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_paiN id_ENCE"
+              d="M 16.531706,-457.423248 A 788.061543,788.061543 0,0 1,-223.293472,393.814667"
+              stroke="#9d9482" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_paiN id_SAW"
+              d="M 41.796261,-489.617645 A 351.959647,351.959647 0,0 1,318.880768,-255.391541"
+              stroke="#d27cce" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_paiN id_Apeks"
+              d="M -18.885738,-462.302490 A 617.535630,617.535630 0,0 1,-669.366577,-239.607635"
+              stroke="#9d9482" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_GamerLegion id_Wildcard"
+              d="M -279.223969,-207.889648 A 681.812056,681.812056 0,0 1,-352.270599,551.182434"
+              stroke="#68ad36" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_GamerLegion id_Passion_UA"
+              d="M -264.497589,-223.210159 A 771.538208,771.538208 0,0 1,121.261787,562.677246"
+              stroke="#68ad36" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_GamerLegion id_Virtus.pro"
+              d="M -260.222870,-237.384308 A 166.694202,166.694202 0,0 1,-154.949982,-163.609695"
+              stroke="#34b288" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_GamerLegion id_Imperial"
+              d="M -283.173859,-276.538391 A 489.839051,489.839051 0,0 1,165.814056,-553.175354"
+              stroke="#68ad36" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_GamerLegion id_Eternal_Fire"
+              d="M -268.051636,-264.745239 A 666.395949,666.395949 0,0 1,466.492126,-296.857910"
+              stroke="#9d9482" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_GamerLegion id_Falcons"
+              d="M -260.160278,-238.073105 A 522.047963,522.047963 0,0 1,174.252502,117.940582"
+              stroke="#34b288" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_GamerLegion id_M80"
+              d="M -263.494080,-257.177521 A 706.701530,706.701530 0,0 1,512.053040,-105.254486"
+              stroke="#34b288" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_GamerLegion id_ENCE"
+              d="M -274.359222,-211.235504 A 549.761432,549.761432 0,0 1,-233.065796,385.303894"
+              stroke="#68ad36" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_GamerLegion id_SAW"
+              d="M -266.296661,-262.274536 A 522.406341,522.406341 0,0 1,301.417206,-243.301788"
+              stroke="#9d9482" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_GamerLegion id_Monte"
+              d="M -314.558014,-206.163315 A 276.110244,276.110244 0,0 1,-549.758850,-62.033634"
+              stroke="#68ad36" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_GamerLegion id_FORZE"
+              d="M -324.899506,-269.336517 A 371.637711,371.637711 0,0 1,-379.591461,-661.843567"
+              stroke="#68ad36" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_GamerLegion id_Legacy"
+              d="M -334.113312,-256.066772 A 298.216032,298.216032 0,0 1,-499.692322,-513.800293"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_GamerLegion id_AMKAL"
+              d="M -311.795074,-277.400452 A 454.448631,454.448631 0,0 1,-180.020660,-755.500488"
+              stroke="#9d9482" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_3DMAX id_Wildcard"
+              d="M -469.760162,-240.592621 A 703.434064,703.434064 0,0 1,-357.906738,547.357300"
+              stroke="#9d9482" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_3DMAX id_fnatic"
+              d="M -460.704407,-259.477173 A 897.777979,897.777979 0,0 1,316.803436,412.684601"
+              stroke="#6999d4" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_3DMAX id_Astralis"
+              d="M -462.575409,-251.383209 A 692.313968,692.313968 0,0 1,-32.780056,391.997040"
+              stroke="#e87886" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_3DMAX id_9z"
+              d="M -472.081482,-238.590210 A 505.665568,505.665568 0,0 1,-446.395172,319.061249"
+              stroke="#d27cce" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_3DMAX id_SAW"
+              d="M -465.363007,-278.200226 A 682.735619,682.735619 0,0 1,301.947784,-243.995132"
+              stroke="#d27cce" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_BIG id_Passion_UA"
+              d="M -69.038956,-300.607697 A 781.448689,781.448689 0,0 1,126.534775,564.188110"
+              stroke="#34b288" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_BIG id_FlyQuest"
+              d="M -71.582306,-355.220764 A 395.671778,395.671778 0,0 1,329.750977,-443.747711"
+              stroke="#6999d4" stroke-width="6.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_BIG id_Complexity"
+              d="M -59.293903,-324.927887 A 484.481080,484.481080 0,0 1,352.421722,-16.877028"
+              stroke="#7f958c" stroke-width="7.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_BIG id_Virtus.pro"
+              d="M -85.390350,-289.486542 A 171.918150,171.918150 0,0 1,-108.353661,-157.309753"
+              stroke="#00b7da" stroke-width="11.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_BIG id_Cloud9"
+              d="M -81.000679,-291.364746 A 482.329337,482.329337 0,0 1,-152.119461,218.301208"
+              stroke="#00b7da" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_BIG id_Imperial"
+              d="M -85.282288,-363.661621 A 312.006798,312.006798 0,0 1,165.822693,-549.380432"
+              stroke="#34b288" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_BIG id_fnatic"
+              d="M -63.219189,-309.374481 A 731.922426,731.922426 0,0 1,327.773346,412.074860"
+              stroke="#00b7da" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_BIG id_Astralis"
+              d="M -73.361794,-296.381592 A 634.669571,634.669571 0,0 1,-13.851976,397.439758"
+              stroke="#7f958c" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_BIG id_Eternal_Fire"
+              d="M -64.436691,-346.121338 A 501.064281,501.064281 0,0 1,469.295319,-300.702759"
+              stroke="#6999d4" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_BIG id_Falcons"
+              d="M -62.983398,-309.868622 A 467.114443,467.114443 0,0 1,188.080673,116.493401"
+              stroke="#00b7da" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_BIG id_ENCE"
+              d="M -82.995941,-290.432800 A 632.566147,632.566147 0,0 1,-225.122955,391.707947"
+              stroke="#34b288" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_BIG id_Rooster"
+              d="M -76.849762,-293.773621 A 786.509572,786.509572 0,0 1,-114.145668,598.159424"
+              stroke="#7f958c" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_BIG id_SAW"
+              d="M -61.681618,-340.199127 A 365.860200,365.860200 0,0 1,305.772980,-248.095047"
+              stroke="#6999d4" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_BIG id_BetBoom"
+              d="M -128.054947,-352.858307 A 201.868520,201.868520 0,0 1,-177.298828,-529.727783"
+              stroke="#00b7da" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_BIG id_PERA"
+              d="M -61.844185,-340.633209 A 736.226320,736.226320 0,0 1,742.368103,-123.343155"
+              stroke="#6999d4" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_BIG id_BOSS"
+              d="M -95.739525,-365.896149 A 452.402885,452.402885 0,0 1,219.371536,-744.690063"
+              stroke="#6999d4" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_BIG id_Apeks"
+              d="M -127.865753,-300.118561 A 501.623515,501.623515 0,0 1,-671.404358,-234.554260"
+              stroke="#34b288" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Wildcard id_Passion_UA"
+              d="M -346.846893,557.355591 A 407.728586,407.728586 0,0 1,98.583084,571.853638"
+              stroke="#68ad36" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Wildcard id_Virtus.pro"
+              d="M -380.275513,545.258240 A 613.365251,613.365251 0,0 1,-171.810364,-97.709465"
+              stroke="#34b288" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Wildcard id_Cloud9"
+              d="M -373.505371,544.038879 A 316.621768,316.621768 0,0 1,-212.766342,263.609680"
+              stroke="#34b288" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Wildcard id_fnatic"
+              d="M -351.040283,552.304077 A 589.815498,589.815498 0,0 1,295.423065,430.155365"
+              stroke="#34b288" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Wildcard id_9z"
+              d="M -395.781097,556.348694 A 205.716036,205.716036 0,0 1,-468.131775,373.244446"
+              stroke="#9d9482" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Wildcard id_KOI"
+              d="M -348.275940,555.367920 A 774.190847,774.190847 0,0 1,536.298706,522.796326"
+              stroke="#68ad36" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Passion_UA id_Complexity"
+              d="M 112.672493,562.860901 A 512.751088,512.751088 0,0 1,330.080353,45.053093"
+              stroke="#b3903a" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_FlyQuest id_Complexity"
+              d="M 385.894928,-398.748779 A 377.397166,377.397166 0,0 1,389.111237,-12.086669"
+              stroke="#e87886" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_FlyQuest id_Virtus.pro"
+              d="M 349.490326,-395.492340 A 489.516786,489.516786 0,0 1,-92.839569,-121.592941"
+              stroke="#6999d4" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FlyQuest id_Cloud9"
+              d="M 362.550842,-392.321411 A 722.916689,722.916689 0,0 1,-141.083176,236.155533"
+              stroke="#6999d4" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_FlyQuest id_Eternal_Fire"
+              d="M 400.521881,-418.139282 A 171.525898,171.525898 0,0 1,492.640991,-314.624207"
+              stroke="#d27cce" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FlyQuest id_Sangal"
+              d="M 400.696045,-418.682587 A 558.198271,558.198271 0,0 1,773.787964,77.300491"
+              stroke="#d27cce" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_FlyQuest id_Ninjas_in_Pyjamas"
+              d="M 395.831268,-408.646027 A 492.720317,492.720317 0,0 1,583.936829,90.920853"
+              stroke="#d27cce" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_FlyQuest id_Lynn_Vision"
+              d="M 350.097137,-395.229431 A 892.192449,892.192449 0,0 1,-522.825317,130.274017"
+              stroke="#d27cce" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FlyQuest id_BetBoom"
+              d="M 329.611481,-416.417572 A 457.699974,457.699974 0,0 1,-149.584290,-536.064636"
+              stroke="#6999d4" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FlyQuest id_PERA"
+              d="M 402.249237,-426.458466 A 423.835585,423.835585 0,0 1,750.892517,-127.745781"
+              stroke="#d27cce" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FlyQuest id_BOSS"
+              d="M 334.182709,-451.865417 A 286.697758,286.697758 0,0 1,235.230499,-729.477356"
+              stroke="#d27cce" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_FlyQuest id_Nemiga"
+              d="M 387.464081,-399.873077 A 902.869837,902.869837 0,0 1,403.926178,635.329956"
+              stroke="#d27cce" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Complexity id_Virtus.pro"
+              d="M 325.836121,35.844975 A 436.235690,436.235690 0,0 1,-108.598923,-90.104416"
+              stroke="#7f958c" stroke-width="7.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Complexity id_Cloud9"
+              d="M 342.826965,58.152180 A 490.190410,490.190410 0,0 1,-140.485092,254.902695"
+              stroke="#7f958c" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Complexity id_Imperial"
+              d="M 333.428009,-3.787438 A 497.992534,497.992534 0,0 1,189.477661,-518.228027"
+              stroke="#b3903a" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Complexity id_fnatic"
+              d="M 385.464111,60.190807 A 352.023098,352.023098 0,0 1,344.235382,419.210144"
+              stroke="#7f958c" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Complexity id_Astralis"
+              d="M 358.574036,64.391701 A 476.908703,476.908703 0,0 1,5.411710,424.435547"
+              stroke="#ff743e" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Complexity id_Eternal_Fire"
+              d="M 359.911682,-18.662071 A 272.504363,272.504363 0,0 1,466.633087,-253.091019"
+              stroke="#e87886" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Complexity id_Falcons"
+              d="M 349.403320,61.670277 A 187.249049,187.249049 0,0 1,225.383682,152.600449"
+              stroke="#7f958c" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Complexity id_M80"
+              d="M 385.980804,-13.970960 A 165.354239,165.354239 0,0 1,502.016846,-81.475571"
+              stroke="#7f958c" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Complexity id_Ninjas_in_Pyjamas"
+              d="M 407.752289,19.053471 A 193.747106,193.747106 0,0 1,558.640808,95.058456"
+              stroke="#e87886" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Complexity id_ALTERNATE_aTTaX"
+              d="M 335.243683,51.791477 A 938.824629,938.824629 0,0 1,-732.301270,183.262756"
+              stroke="#ff743e" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Complexity id_OG"
+              d="M 382.095490,61.777382 A 616.157100,616.157100 0,0 1,226.074677,730.436951"
+              stroke="#ff743e" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Complexity id_BetBoom"
+              d="M 324.787384,13.991652 A 658.423436,658.423436 0,0 1,-165.607086,-528.843079"
+              stroke="#7f958c" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Complexity id_PERA"
+              d="M 392.002289,-9.988651 A 342.998974,342.998974 0,0 1,735.098999,-112.400322"
+              stroke="#e87886" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Complexity id_Apeks"
+              d="M 326.682251,38.228291 A 912.556421,912.556421 0,0 1,-678.069275,-226.329895"
+              stroke="#b3903a" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Virtus.pro id_Cloud9"
+              d="M -117.100304,-84.567032 A 310.708682,310.708682 0,0 1,-153.519165,217.080551"
+              stroke="#00b7da" stroke-width="6.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Virtus.pro id_Rare_Atom"
+              d="M -115.632973,-162.288208 A 677.602563,677.602563 0,0 1,569.450928,-488.960876"
+              stroke="#00b7da" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Virtus.pro id_Imperial"
+              d="M -133.417267,-167.517044 A 453.855471,453.855471 0,0 1,167.307465,-541.087463"
+              stroke="#34b288" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Virtus.pro id_fnatic"
+              d="M -94.504272,-111.649872 A 608.847785,608.847785 0,0 1,321.980499,411.914185"
+              stroke="#00b7da" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Virtus.pro id_Astralis"
+              d="M -105.810143,-92.631935 A 471.204510,471.204510 0,0 1,-17.739849,395.451752"
+              stroke="#7f958c" stroke-width="6.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Virtus.pro id_Eternal_Fire"
+              d="M -107.241982,-156.339691 A 545.599089,545.599089 0,0 1,462.878815,-289.782349"
+              stroke="#6999d4" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Virtus.pro id_9z"
+              d="M -137.081177,-79.988785 A 475.122204,475.122204 0,0 1,-434.476654,333.904633"
+              stroke="#6999d4" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Virtus.pro id_Falcons"
+              d="M -93.181595,-117.916016 A 355.808447,355.808447 0,0 1,174.659866,117.826775"
+              stroke="#00b7da" stroke-width="14.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Virtus.pro id_RED_Canids"
+              d="M -106.833572,-91.653183 A 756.790538,756.790538 0,0 1,-5.945219,756.475281"
+              stroke="#34b288" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Virtus.pro id_Rooster"
+              d="M -111.185608,-88.113045 A 617.164486,617.164486 0,0 1,-115.027840,597.506836"
+              stroke="#7f958c" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Virtus.pro id_SAW"
+              d="M -106.055374,-155.227890 A 396.037506,396.037506 0,0 1,297.338745,-236.097916"
+              stroke="#6999d4" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Cloud9 id_fnatic"
+              d="M -140.598633,238.032745 A 449.381899,449.381899 0,0 1,306.521515,417.154236"
+              stroke="#00b7da" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Cloud9 id_Ninjas_in_Pyjamas"
+              d="M -150.656464,219.713226 A 637.010371,637.010371 0,0 1,547.017212,108.099503"
+              stroke="#6999d4" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Cloud9 id_SAW"
+              d="M -170.018921,209.055984 A 575.731687,575.731687 0,0 1,295.136719,-219.017166"
+              stroke="#6999d4" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Cloud9 id_BetBoom"
+              d="M -200.010254,215.002884 A 670.911432,670.911432 0,0 1,-186.813980,-534.362793"
+              stroke="#00b7da" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Cloud9 id_Monte"
+              d="M -216.593018,244.364044 A 421.132135,421.132135 0,0 1,-569.394043,-36.020782"
+              stroke="#34b288" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Cloud9 id_ECSTATIC"
+              d="M -143.608414,229.621628 A 583.033424,583.033424 0,0 1,495.466614,334.054230"
+              stroke="#34b288" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Cloud9 id_Legacy"
+              d="M -210.665283,226.072617 A 706.131004,706.131004 0,0 1,-505.052094,-514.461914"
+              stroke="#34b288" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Cloud9 id_Rebels"
+              d="M -163.218811,211.196075 A 869.447394,869.447394 0,0 1,686.834778,-302.149139"
+              stroke="#00b7da" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Rare_Atom id_fnatic"
+              d="M 599.523193,-463.929626 A 805.311807,805.311807 0,0 1,348.752167,423.873779"
+              stroke="#00b7da" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Imperial id_Eternal_Fire"
+              d="M 235.358414,-546.026245 A 339.633267,339.633267 0,0 1,490.748413,-314.205505"
+              stroke="#9d9482" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Imperial id_M80"
+              d="M 233.692322,-539.486816 A 479.978822,479.978822 0,0 1,534.110718,-114.180733"
+              stroke="#34b288" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Imperial id_ENCE"
+              d="M 207.255692,-516.964172 A 890.682745,890.682745 0,0 1,-219.870880,398.884155"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Imperial id_SAW"
+              d="M 229.319550,-531.115356 A 293.125472,293.125472 0,0 1,335.212250,-255.913010"
+              stroke="#9d9482" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Imperial id_ECSTATIC"
+              d="M 229.337494,-531.140686 A 796.423461,796.423461 0,0 1,520.916382,327.498871"
+              stroke="#68ad36" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Imperial id_Apeks"
+              d="M 180.367310,-522.916931 A 788.622914,788.622914 0,0 1,-669.495605,-239.176636"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_fnatic id_Astralis"
+              d="M 297.343353,460.034241 A 298.576826,298.576826 0,0 1,-1.013373,455.247101"
+              stroke="#7f958c" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_fnatic id_Eternal_Fire"
+              d="M 312.416718,414.061279 A 616.450018,616.450018 0,0 1,470.082123,-248.537811"
+              stroke="#6999d4" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_fnatic id_M80"
+              d="M 316.860596,412.671234 A 471.427950,471.427950 0,0 1,507.316772,-64.081947"
+              stroke="#00b7da" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_fnatic id_Ninjas_in_Pyjamas"
+              d="M 326.160980,411.922516 A 340.130322,340.130322 0,0 1,545.265259,132.150894"
+              stroke="#6999d4" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_fnatic id_BetBoom"
+              d="M 296.190643,428.602600 A 930.426497,930.426497 0,0 1,-174.279633,-529.046082"
+              stroke="#00b7da" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Astralis id_Eternal_Fire"
+              d="M -32.869659,391.994171 A 738.828096,738.828096 0,0 1,461.991730,-262.888824"
+              stroke="#e87886" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Astralis id_9z"
+              d="M -71.455956,447.407288 A 364.371349,364.371349 0,0 1,-441.804596,365.529785"
+              stroke="#e87886" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Astralis id_Falcons"
+              d="M -30.187254,392.166718 A 293.546843,293.546843 0,0 1,147.094666,169.502975"
+              stroke="#7f958c" stroke-width="7.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Astralis id_ENCE"
+              d="M -70.185249,450.226044 A 181.982059,181.982059 0,0 1,-221.875916,438.000885"
+              stroke="#b3903a" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Astralis id_Rooster"
+              d="M -31.965637,472.505890 A 172.711671,172.711671 0,0 1,-108.182961,605.007568"
+              stroke="#ff743e" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Astralis id_Ninjas_in_Pyjamas"
+              d="M -15.056949,396.766113 A 570.342283,570.342283 0,0 1,544.071228,117.627380"
+              stroke="#e87886" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Astralis id_SAW"
+              d="M -38.399872,392.203583 A 624.250667,624.250667 0,0 1,298.137512,-209.018768"
+              stroke="#e87886" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Astralis id_Sashi"
+              d="M -5.240278,404.163086 A 618.052598,618.052598 0,0 1,674.513428,301.700073"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Astralis id_BetBoom"
+              d="M -61.723946,402.921417 A 833.140836,833.140836 0,0 1,-183.238144,-532.114746"
+              stroke="#7f958c" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Astralis id_Steel_Helmet"
+              d="M -37.172882,472.446899 A 333.379402,333.379402 0,0 1,-259.134766,742.384888"
+              stroke="#e87886" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Eternal_Fire id_Falcons"
+              d="M 499.100006,-234.810181 A 445.437096,445.437096 0,0 1,223.256790,143.173630"
+              stroke="#6999d4" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Eternal_Fire id_Sangal"
+              d="M 538.274414,-261.340759 A 387.133850,387.133850 0,0 1,774.197327,77.289795"
+              stroke="#d27cce" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Eternal_Fire id_SAW"
+              d="M 472.317322,-246.183777 A 149.908327,149.908327 0,0 1,360.346924,-215.510590"
+              stroke="#d27cce" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Eternal_Fire id_BetBoom"
+              d="M 460.988159,-266.679932 A 605.907670,605.907670 0,0 1,-153.686569,-533.024902"
+              stroke="#6999d4" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Eternal_Fire id_Rebels"
+              d="M 532.509705,-299.421478 A 176.172745,176.172745 0,0 1,689.178101,-310.697662"
+              stroke="#6999d4" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Falcons id_RED_Canids"
+              d="M 196.868698,195.288315 A 543.165974,543.165974 0,0 1,1.533146,762.994324"
+              stroke="#34b288" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Falcons id_ATOX"
+              d="M 148.459076,173.016953 A 819.856586,819.856586 0,0 1,-763.312256,-23.736195"
+              stroke="#34b288" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Falcons id_ENCE"
+              d="M 168.204224,193.180023 A 423.990156,423.990156 0,0 1,-215.256210,419.179108"
+              stroke="#34b288" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Falcons id_ALTERNATE_aTTaX"
+              d="M 152.867432,180.605530 A 780.071889,780.071889 0,0 1,-733.554138,185.281357"
+              stroke="#7f958c" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Falcons id_OG"
+              d="M 209.460968,188.936539 A 491.142966,491.142966 0,0 1,221.639709,726.631042"
+              stroke="#7f958c" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Falcons id_BetBoom"
+              d="M 149.883484,137.470367 A 665.078811,665.078811 0,0 1,-174.012589,-529.001526"
+              stroke="#00b7da" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Falcons id_Monte"
+              d="M 147.217880,169.864700 A 661.588261,661.588261 0,0 1,-560.375549,-40.773109"
+              stroke="#34b288" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Falcons id_TYLOO"
+              d="M 156.599564,128.406494 A 739.560263,739.560263 0,0 1,18.929348,-695.034363"
+              stroke="#00b7da" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Falcons id_Rebels"
+              d="M 195.101212,117.607948 A 580.034411,580.034411 0,0 1,686.864929,-298.127869"
+              stroke="#00b7da" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_M80 id_Rooster"
+              d="M 529.984863,-49.774136 A 802.556222,802.556222 0,0 1,-105.438568,612.468689"
+              stroke="#7f958c" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_M80 id_BetBoom"
+              d="M 502.025360,-81.007278 A 708.153709,708.153709 0,0 1,-158.985535,-530.449951"
+              stroke="#00b7da" stroke-width="6.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_M80 id_TYLOO"
+              d="M 503.272156,-90.760201 A 676.122867,676.122867 0,0 1,30.685320,-692.623657"
+              stroke="#00b7da" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_M80 id_Sharks"
+              d="M 516.226196,-55.040871 A 1062.266803,1062.266803 0,0 1,-643.389526,358.107544"
+              stroke="#00b7da" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_M80 id_Rebels"
+              d="M 537.715576,-114.008087 A 233.757620,233.757620 0,0 1,687.812256,-293.366669"
+              stroke="#00b7da" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_RED_Canids id_ENCE"
+              d="M -37.761101,768.000061 A 358.041800,358.041800 0,0 1,-252.417557,453.611450"
+              stroke="#68ad36" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_ATOX id_ENCE"
+              d="M -756.018616,-38.411018 A 581.231514,581.231514 0,0 1,-260.823486,381.172699"
+              stroke="#68ad36" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_ENCE id_Ninjas_in_Pyjamas"
+              d="M -230.866486,386.729126 A 732.381664,732.381664 0,0 1,544.987976,113.376137"
+              stroke="#9d9482" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_ENCE id_KOI"
+              d="M -219.165573,400.205902 A 681.119866,681.119866 0,0 1,539.130554,519.293640"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_ENCE id_Sashi"
+              d="M -224.525040,392.361481 A 796.268991,796.268991 0,0 1,675.218445,300.378021"
+              stroke="#b3903a" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_ENCE id_Monte"
+              d="M -286.241333,403.600433 A 483.102703,483.102703 0,0 1,-578.192200,-34.764633"
+              stroke="#68ad36" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_ENCE id_Bad_News_Kangaroos"
+              d="M -272.525848,447.315430 A 282.265690,282.265690 0,0 1,-542.837708,552.714111"
+              stroke="#68ad36" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Ninjas_in_Pyjamas id_Sashi"
+              d="M 605.282898,136.239685 A 188.838633,188.838633 0,0 1,698.118958,287.175323"
+              stroke="#e87886" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Ninjas_in_Pyjamas id_PERA"
+              d="M 579.089478,90.093262 A 242.558915,242.558915 0,0 1,735.179626,-99.095627"
+              stroke="#d27cce" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Ninjas_in_Pyjamas id_BOSS"
+              d="M 549.037109,104.553154 A 779.416168,779.416168 0,0 1,234.662247,-729.621765"
+              stroke="#d27cce" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_KOI id_SAW"
+              d="M 537.236206,521.484619 A 661.174443,661.174443 0,0 1,317.425354,-191.970230"
+              stroke="#9d9482" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Lynn_Vision id_TYLOO"
+              d="M -549.648682,102.002594 A 853.490770,853.490770 0,0 1,6.557798,-708.836609"
+              stroke="#6999d4" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Lynn_Vision id_ECSTATIC"
+              d="M -525.033386,117.455185 A 904.799870,904.799870 0,0 1,496.641205,332.924042"
+              stroke="#9d9482" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Sashi id_JiJieHao"
+              d="M 677.645752,296.835083 A 821.801674,821.801674 0,0 1,436.765900,-620.914978"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Monte id_FORZE"
+              d="M -585.789856,-89.443352 A 543.849466,543.849466 0,0 1,-387.731110,-668.702698"
+              stroke="#68ad36" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_TYLOO id_Sharks"
+              d="M 30.934273,-692.636414 A 1062.005471,1062.005471 0,0 1,-643.914612,344.262726"
+              stroke="#00b7da" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Nemiga id_Steel_Helmet"
+              d="M 375.821930,668.289612 A 564.454984,564.454984 0,0 1,-260.600983,758.260925"
+              stroke="#d27cce" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Legacy id_Apeks"
+              d="M -499.285522,-513.800598 A 291.737405,291.737405 0,0 1,-670.224670,-257.185944"
+              stroke="#68ad36" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Apeks id_AMKAL"
+              d="M -690.701660,-273.805267 A 621.309434,621.309434 0,0 1,-184.903961,-766.274841"
+              stroke="#9d9482" stroke-width="1.0" stroke-opacity="1.0"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#ff743e" r="36.258823" cx="-358.38345"
+                class="id_Spirit" cy="159.9254" stroke="#b2512b"
+                stroke-opacity="1.0" stroke-width="6.3058825"/>
+        <circle fill-opacity="1.0" fill="#ff743e" r="38.69412" cx="367.01486"
+                class="id_FaZe" cy="218.23552" stroke="#b2512b"
+                stroke-opacity="1.0" stroke-width="6.7294116"/>
+        <circle fill-opacity="1.0" fill="#ff743e" r="40.317646" cx="7.2989616"
+                class="id_G2" cy="221.32158" stroke="#b2512b"
+                stroke-opacity="1.0" stroke-width="7.0117645"/>
+        <circle fill-opacity="1.0" fill="#ff743e" r="41.129414" cx="27.824928"
+                class="id_MOUZ" cy="20.405066" stroke="#b2512b"
+                stroke-opacity="1.0" stroke-width="7.152941"/>
+        <circle fill-opacity="1.0" fill="#ff743e" r="39.505882" cx="-361.51404"
+                class="id_Vitality" cy="-45.75693" stroke="#b2512b"
+                stroke-opacity="1.0" stroke-width="6.8705883"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="40.317646" cx="58.39905"
+                class="id_HEROIC" cy="-191.8517" stroke="#935690"
+                stroke-opacity="1.0" stroke-width="7.0117645"/>
+        <circle fill-opacity="1.0" fill="#ff743e" r="34.635296" cx="151.9114"
+                class="id_Liquid" cy="371.24954" stroke="#b2512b"
+                stroke-opacity="1.0" stroke-width="6.0235295"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="41.129414" cx="206.52898"
+                class="id_The_MongolZ" cy="-75.96628" stroke="#935690"
+                stroke-opacity="1.0" stroke-width="7.152941"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="46.0" cx="-171.19246"
+                class="id_FURIA" cy="55.261692" stroke="#487925"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#ff743e" r="37.882355" cx="153.09468"
+                class="id_Natus_Vincere" cy="-352.37732" stroke="#b2512b"
+                stroke-opacity="1.0" stroke-width="6.5882354"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="32.2" cx="-313.38034"
+                class="id_MIBR" cy="-429.85052" stroke="#935690"
+                stroke-opacity="1.0" stroke-width="5.6"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="27.329412" cx="-490.29825"
+                class="id_3DMAX" cy="-262.05484" stroke="#935690"
+                stroke-opacity="1.0" stroke-width="4.752941"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="27.329412" cx="-371.66043"
+                class="id_Wildcard" cy="573.68744" stroke="#487925"
+                stroke-opacity="1.0" stroke-width="4.752941"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="34.635296" cx="364.76013"
+                class="id_FlyQuest" cy="-429.9036" stroke="#935690"
+                stroke-opacity="1.0" stroke-width="6.0235295"/>
+        <circle fill-opacity="1.0" fill="#ff743e" r="38.69412" cx="365.87637"
+                class="id_Complexity" cy="22.971653" stroke="#b2512b"
+                stroke-opacity="1.0" stroke-width="6.7294116"/>
+        <circle fill-opacity="1.0" fill="#00b7da" r="40.317646" cx="-136.607"
+                class="id_Virtus.pro" cy="-123.809746" stroke="#008098"
+                stroke-opacity="1.0" stroke-width="7.0117645"/>
+        <circle fill-opacity="1.0" fill="#00b7da" r="35.44706" cx="-178.13574"
+                class="id_Cloud9" cy="246.72072" stroke="#008098"
+                stroke-opacity="1.0" stroke-width="6.1647058"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="32.2" cx="200.76682"
+                class="id_Imperial" cy="-551.3574" stroke="#487925"
+                stroke-opacity="1.0" stroke-width="5.6"/>
+        <circle fill-opacity="1.0" fill="#ff743e" r="37.070587" cx="-34.113617"
+                class="id_Astralis" cy="432.26907" stroke="#b2512b"
+                stroke-opacity="1.0" stroke-width="6.4470587"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="37.070587" cx="500.39624"
+                class="id_Eternal_Fire" cy="-275.08344" stroke="#935690"
+                stroke-opacity="1.0" stroke-width="6.4470587"/>
+        <circle fill-opacity="1.0" fill="#00b7da" r="37.070587" cx="185.29776"
+                class="id_Falcons" cy="156.6913" stroke="#008098"
+                stroke-opacity="1.0" stroke-width="6.4470587"/>
+        <circle fill-opacity="1.0" fill="#ff743e" r="20.835295" cx="209.23193"
+                class="id_OG" cy="745.57666" stroke="#b2512b"
+                stroke-opacity="1.0" stroke-width="3.6235292"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="19.211765" cx="-655.8523"
+                class="id_Aurora" cy="-434.35577" stroke="#935690"
+                stroke-opacity="1.0" stroke-width="3.3411763"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="24.894117" cx="-695.3532"
+                class="id_Apeks" cy="-247.14925" stroke="#487925"
+                stroke-opacity="1.0" stroke-width="4.3294115"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="35.44706" cx="3.4810858"
+                class="id_paiN" cy="-493.6751" stroke="#935690"
+                stroke-opacity="1.0" stroke-width="6.1647058"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="35.44706" cx="-298.56137"
+                class="id_GamerLegion" cy="-241.21503" stroke="#487925"
+                stroke-opacity="1.0" stroke-width="6.1647058"/>
+        <circle fill-opacity="1.0" fill="#00b7da" r="29.764708" cx="534.36786"
+                class="id_M80" cy="-81.82881" stroke="#008098"
+                stroke-opacity="1.0" stroke-width="5.1764708"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="20.835295" cx="774.58386"
+                class="id_Sangal" cy="99.933556" stroke="#935690"
+                stroke-opacity="1.0" stroke-width="3.6235292"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="29.764708" cx="576.08405"
+                class="id_Ninjas_in_Pyjamas" cy="122.30631" stroke="#935690"
+                stroke-opacity="1.0" stroke-width="5.1764708"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="30.576471" cx="328.07465"
+                class="id_SAW" cy="-223.4532" stroke="#935690"
+                stroke-opacity="1.0" stroke-width="5.317647"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="25.705883" cx="-577.6921"
+                class="id_Monte" cy="-62.701332" stroke="#487925"
+                stroke-opacity="1.0" stroke-width="4.470588"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="20.02353" cx="391.51593"
+                class="id_Nemiga" cy="653.2098" stroke="#935690"
+                stroke-opacity="1.0" stroke-width="3.4823527"/>
+        <circle fill-opacity="1.0" fill="#00b7da" r="21.647058" cx="710.29254"
+                class="id_Rebels" cy="-300.31427" stroke="#008098"
+                stroke-opacity="1.0" stroke-width="3.7647057"/>
+        <circle fill-opacity="1.0" fill="#00b7da" r="36.258823" cx="-98.670456"
+                class="id_BIG" cy="-326.5935" stroke="#008098"
+                stroke-opacity="1.0" stroke-width="6.3058825"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="27.329412" cx="-462.37775"
+                class="id_9z" cy="344.10117" stroke="#935690"
+                stroke-opacity="1.0" stroke-width="4.752941"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="33.82353" cx="-251.94705"
+                class="id_ENCE" cy="416.84976" stroke="#487925"
+                stroke-opacity="1.0" stroke-width="5.882353"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="22.458824" cx="556.6172"
+                class="id_KOI" cy="536.3275" stroke="#487925"
+                stroke-opacity="1.0" stroke-width="3.9058826"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="24.082354" cx="-548.917"
+                class="id_Lynn_Vision" cy="128.16884" stroke="#935690"
+                stroke-opacity="1.0" stroke-width="4.1882353"/>
+        <circle fill-opacity="1.0" fill="#00b7da" r="22.458824" cx="29.56079"
+                class="id_TYLOO" cy="-717.0095" stroke="#008098"
+                stroke-opacity="1.0" stroke-width="3.9058826"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="23.270588" cx="513.58264"
+                class="id_ECSTATIC" cy="351.70648" stroke="#487925"
+                stroke-opacity="1.0" stroke-width="4.0470586"/>
+        <circle fill-opacity="1.0" fill="#00b7da" r="28.952942" cx="324.00815"
+                class="id_fnatic" cy="443.3194" stroke="#008098"
+                stroke-opacity="1.0" stroke-width="5.035294"/>
+        <circle fill-opacity="1.0" fill="#ff743e" r="21.647058" cx="-128.5763"
+                class="id_Rooster" cy="616.7441" stroke="#b2512b"
+                stroke-opacity="1.0" stroke-width="3.7647057"/>
+        <circle fill-opacity="1.0" fill="#ff743e" r="24.082354" cx="697.9539"
+                class="id_Sashi" cy="313.3513" stroke="#b2512b"
+                stroke-opacity="1.0" stroke-width="4.1882353"/>
+        <circle fill-opacity="1.0" fill="#00b7da" r="27.329412" cx="-169.25557"
+                class="id_BetBoom" cy="-558.32404" stroke="#008098"
+                stroke-opacity="1.0" stroke-width="4.752941"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="20.02353" cx="-564.1398"
+                class="id_Bad_News_Kangaroos" cy="548.25055" stroke="#487925"
+                stroke-opacity="1.0" stroke-width="3.4823527"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="20.835295" cx="-778.57184"
+                class="id_ATOX" cy="-40.470436" stroke="#487925"
+                stroke-opacity="1.0" stroke-width="3.6235292"/>
+        <circle fill-opacity="1.0" fill="#00b7da" r="20.02353" cx="-664.2701"
+                class="id_Sharks" cy="351.96707" stroke="#008098"
+                stroke-opacity="1.0" stroke-width="3.4823527"/>
+        <circle fill-opacity="1.0" fill="#00b7da" r="20.835295" cx="591.7859"
+                class="id_Rare_Atom" cy="-485.21396" stroke="#008098"
+                stroke-opacity="1.0" stroke-width="3.6235292"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="21.647058" cx="-499.5085"
+                class="id_Legacy" cy="-537.329" stroke="#487925"
+                stroke-opacity="1.0" stroke-width="3.7647057"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="20.02353" cx="-163.3847"
+                class="id_AMKAL" cy="-769.5343" stroke="#935690"
+                stroke-opacity="1.0" stroke-width="3.4823527"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="20.835295" cx="-16.726116"
+                class="id_RED_Canids" cy="776.39166" stroke="#487925"
+                stroke-opacity="1.0" stroke-width="3.6235292"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="20.02353" cx="-370.06204"
+                class="id_FORZE" cy="-681.4112" stroke="#487925"
+                stroke-opacity="1.0" stroke-width="3.4823527"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="21.647058" cx="117.461525"
+                class="id_Passion_UA" cy="585.89777" stroke="#487925"
+                stroke-opacity="1.0" stroke-width="3.7647057"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="20.835295" cx="756.78687"
+                class="id_PERA" cy="-105.879234" stroke="#935690"
+                stroke-opacity="1.0" stroke-width="3.6235292"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="20.02353" cx="240.30666"
+                class="id_BOSS" cy="-750.64185" stroke="#935690"
+                stroke-opacity="1.0" stroke-width="3.4823527"/>
+        <circle fill-opacity="1.0" fill="#ff743e" r="19.211765" cx="-750.6416"
+                class="id_ALTERNATE_aTTaX" cy="173.27756" stroke="#b2512b"
+                stroke-opacity="1.0" stroke-width="3.3411763"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="19.211765" cx="-279.08694"
+                class="id_Steel_Helmet" cy="748.5479" stroke="#935690"
+                stroke-opacity="1.0" stroke-width="3.3411763"/>
+        <circle fill-opacity="1.0" fill="#ff743e" r="18.4" cx="444.01492"
+                class="id_JiJieHao" cy="-639.55505" stroke="#b2512b"
+                stroke-opacity="1.0" stroke-width="3.1999998"/>
+    </g>
+</svg>

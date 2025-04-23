@@ -1,0 +1,444 @@
+Source,Target,Weight
+Astralis,Liquid,5.0
+Astralis,BIG,4.0
+Astralis,Natus Vincere,22.0
+Astralis,FURIA,2.0
+Astralis,Vitality,21.0
+Astralis,HEROIC,12.0
+Astralis,Complexity,11.0
+Astralis,G2,18.0
+Astralis,OG,2.0
+Astralis,MOUZ,20.0
+Astralis,fnatic,16.0
+Astralis,MIBR,3.0
+Astralis,GODSENT,7.0
+Astralis,Gambit,2.0
+Astralis,Cloud9,2.0
+Astralis,North,2.0
+Astralis,FaZe,6.0
+Astralis,Spirit,6.0
+Astralis,Dignitas,2.0
+Astralis,ENCE,8.0
+Astralis,Ninjas in Pyjamas,12.0
+Astralis,Heretics,2.0
+Liquid,BIG,2.0
+Liquid,Natus Vincere,4.0
+Liquid,FURIA,27.0
+Liquid,HEROIC,2.0
+Liquid,G2,2.0
+Liquid,MOUZ,2.0
+Liquid,Virtus.pro,2.0
+Liquid,MIBR,10.0
+Liquid,Cloud9,13.0
+Liquid,FaZe,4.0
+Liquid,Envy,2.0
+Liquid,Gen.G,7.0
+Liquid,Ninjas in Pyjamas,2.0
+Liquid,Evil Geniuses,26.0
+Liquid,100 Thieves,18.0
+Liquid,TeamOne,4.0
+Liquid,New England Whalers,2.0
+Liquid,Chaos,12.0
+Liquid,RBG,2.0
+Liquid,Mythic,2.0
+Liquid,Triumph,3.0
+Liquid,Ze Pug Godz,2.0
+Liquid,Yeah,2.0
+Liquid,Bad News Bears,3.0
+Liquid,Swole Patrol,2.0
+BIG,Natus Vincere,4.0
+BIG,Vitality,20.0
+BIG,HEROIC,15.0
+BIG,Complexity,10.0
+BIG,G2,16.0
+BIG,OG,17.0
+BIG,MOUZ,9.0
+BIG,Virtus.pro,3.0
+BIG,fnatic,7.0
+BIG,MIBR,6.0
+BIG,GODSENT,8.0
+BIG,MAD Lions,3.0
+BIG,North,2.0
+BIG,FaZe,15.0
+BIG,Spirit,2.0
+BIG,Envy,3.0
+BIG,ENCE,5.0
+BIG,FORZE,5.0
+BIG,Ninjas in Pyjamas,6.0
+BIG,Sprout,2.0
+BIG,Endpoint,3.0
+BIG,AGO,2.0
+Natus Vincere,FURIA,4.0
+Natus Vincere,Vitality,17.0
+Natus Vincere,HEROIC,5.0
+Natus Vincere,Complexity,15.0
+Natus Vincere,G2,13.0
+Natus Vincere,OG,13.0
+Natus Vincere,MOUZ,12.0
+Natus Vincere,Virtus.pro,9.0
+Natus Vincere,fnatic,7.0
+Natus Vincere,GODSENT,7.0
+Natus Vincere,Gambit,2.0
+Natus Vincere,MAD Lions,5.0
+Natus Vincere,North,2.0
+Natus Vincere,FaZe,11.0
+Natus Vincere,Spirit,4.0
+Natus Vincere,Nemiga,3.0
+Natus Vincere,ENCE,4.0
+Natus Vincere,FORZE,5.0
+Natus Vincere,Ninjas in Pyjamas,13.0
+Natus Vincere,K23,2.0
+Natus Vincere,Cyber Legacy,3.0
+Natus Vincere,Espada,4.0
+Natus Vincere,AGO,2.0
+Natus Vincere,Gambit Youngsters,5.0
+Natus Vincere,Hard Legion,4.0
+Natus Vincere,Syman,3.0
+Natus Vincere,pro100,2.0
+FURIA,HEROIC,3.0
+FURIA,Complexity,2.0
+FURIA,G2,8.0
+FURIA,OG,3.0
+FURIA,MIBR,16.0
+FURIA,Cloud9,6.0
+FURIA,North,2.0
+FURIA,Envy,3.0
+FURIA,Gen.G,7.0
+FURIA,Evil Geniuses,21.0
+FURIA,100 Thieves,17.0
+FURIA,TeamOne,3.0
+FURIA,New England Whalers,2.0
+FURIA,Chaos,10.0
+FURIA,Triumph,5.0
+FURIA,Rebirth,2.0
+FURIA,ImPerium,2.0
+FURIA,Yeah,5.0
+FURIA,Bad News Bears,2.0
+FURIA,Swole Patrol,2.0
+Vitality,HEROIC,17.0
+Vitality,Complexity,19.0
+Vitality,G2,5.0
+Vitality,OG,5.0
+Vitality,MOUZ,6.0
+Vitality,fnatic,11.0
+Vitality,GODSENT,4.0
+Vitality,MAD Lions,2.0
+Vitality,North,2.0
+Vitality,FaZe,15.0
+Vitality,Spirit,8.0
+Vitality,Dignitas,2.0
+Vitality,ENCE,7.0
+Vitality,Ninjas in Pyjamas,24.0
+Vitality,Sprout,2.0
+Vitality,Heretics,4.0
+Vitality,FATE,2.0
+HEROIC,Complexity,5.0
+HEROIC,G2,15.0
+HEROIC,OG,5.0
+HEROIC,Virtus.pro,2.0
+HEROIC,fnatic,5.0
+HEROIC,GODSENT,6.0
+HEROIC,MAD Lions,4.0
+HEROIC,North,8.0
+HEROIC,FaZe,4.0
+HEROIC,Spirit,2.0
+HEROIC,c0ntact,2.0
+HEROIC,ENCE,9.0
+HEROIC,Ninjas in Pyjamas,9.0
+HEROIC,Sprout,3.0
+HEROIC,Endpoint,4.0
+HEROIC,AGO,3.0
+Complexity,G2,2.0
+Complexity,OG,5.0
+Complexity,MOUZ,4.0
+Complexity,fnatic,14.0
+Complexity,Gambit,2.0
+Complexity,MAD Lions,4.0
+Complexity,North,2.0
+Complexity,FaZe,10.0
+Complexity,Spirit,3.0
+Complexity,Dignitas,2.0
+Complexity,ENCE,9.0
+Complexity,FORZE,6.0
+Complexity,Ninjas in Pyjamas,5.0
+Complexity,Heretics,3.0
+G2,OG,15.0
+G2,MOUZ,11.0
+G2,Virtus.pro,2.0
+G2,fnatic,9.0
+G2,MIBR,5.0
+G2,GODSENT,8.0
+G2,North,9.0
+G2,FaZe,13.0
+G2,Nemiga,2.0
+G2,c0ntact,2.0
+G2,ENCE,7.0
+G2,Ninjas in Pyjamas,3.0
+G2,100 Thieves,4.0
+G2,Endpoint,2.0
+G2,AGO,3.0
+G2,Heretics,3.0
+G2,Movistar Riders,5.0
+G2,Copenhagen Flames,3.0
+G2,TYLOO,3.0
+OG,MOUZ,7.0
+OG,Virtus.pro,9.0
+OG,fnatic,14.0
+OG,MIBR,6.0
+OG,GODSENT,6.0
+OG,MAD Lions,4.0
+OG,Cloud9,2.0
+OG,North,3.0
+OG,FaZe,12.0
+OG,Spirit,5.0
+OG,Dignitas,2.0
+OG,ENCE,5.0
+OG,Gen.G,4.0
+OG,FORZE,2.0
+OG,Ninjas in Pyjamas,7.0
+OG,Evil Geniuses,9.0
+OG,Sprout,5.0
+OG,AGO,2.0
+OG,Heretics,3.0
+OG,TYLOO,2.0
+MOUZ,Virtus.pro,4.0
+MOUZ,fnatic,12.0
+MOUZ,GODSENT,10.0
+MOUZ,MAD Lions,11.0
+MOUZ,Cloud9,2.0
+MOUZ,North,2.0
+MOUZ,FaZe,10.0
+MOUZ,Spirit,2.0
+MOUZ,c0ntact,3.0
+MOUZ,ENCE,3.0
+MOUZ,Ninjas in Pyjamas,3.0
+MOUZ,100 Thieves,3.0
+MOUZ,Movistar Riders,2.0
+MOUZ,Copenhagen Flames,3.0
+MOUZ,TYLOO,4.0
+Virtus.pro,fnatic,3.0
+Virtus.pro,GODSENT,2.0
+Virtus.pro,MAD Lions,6.0
+Virtus.pro,Cloud9,2.0
+Virtus.pro,FaZe,2.0
+Virtus.pro,Spirit,8.0
+Virtus.pro,Nemiga,6.0
+Virtus.pro,Gen.G,3.0
+Virtus.pro,FORZE,3.0
+Virtus.pro,K23,2.0
+Virtus.pro,Cyber Legacy,2.0
+Virtus.pro,Espada,4.0
+Virtus.pro,Gambit Youngsters,3.0
+Virtus.pro,Hard Legion,9.0
+Virtus.pro,Syman,2.0
+Virtus.pro,pro100,2.0
+Virtus.pro,TYLOO,2.0
+fnatic,MIBR,2.0
+fnatic,GODSENT,6.0
+fnatic,MAD Lions,11.0
+fnatic,North,5.0
+fnatic,FaZe,7.0
+fnatic,Spirit,5.0
+fnatic,Dignitas,8.0
+fnatic,c0ntact,3.0
+fnatic,ENCE,2.0
+fnatic,FORZE,3.0
+fnatic,Ninjas in Pyjamas,13.0
+fnatic,100 Thieves,2.0
+fnatic,Heretics,6.0
+fnatic,Movistar Riders,2.0
+fnatic,Renegades,2.0
+MIBR,MAD Lions,8.0
+MIBR,Cloud9,2.0
+MIBR,FaZe,3.0
+MIBR,Envy,8.0
+MIBR,Gen.G,7.0
+MIBR,FORZE,2.0
+MIBR,Ninjas in Pyjamas,3.0
+MIBR,Evil Geniuses,8.0
+MIBR,100 Thieves,2.0
+MIBR,Chaos,7.0
+MIBR,Yeah,2.0
+MIBR,Bad News Bears,2.0
+MIBR,Orgless,5.0
+MIBR,HAVU,3.0
+MIBR,Swole Patrol,2.0
+GODSENT,North,11.0
+GODSENT,FaZe,8.0
+GODSENT,Spirit,5.0
+GODSENT,c0ntact,3.0
+GODSENT,ENCE,8.0
+GODSENT,Ninjas in Pyjamas,4.0
+GODSENT,Sprout,3.0
+GODSENT,SAW,2.0
+GODSENT,AGO,3.0
+GODSENT,Movistar Riders,2.0
+GODSENT,Copenhagen Flames,3.0
+Gambit,Cloud9,2.0
+Gambit,Spirit,3.0
+Gambit,Nemiga,2.0
+Gambit,FORZE,3.0
+Gambit,Winstrike,2.0
+Gambit,ETHEREAL,2.0
+Gambit,HellRaisers,2.0
+MAD Lions,Cloud9,2.0
+MAD Lions,Spirit,2.0
+MAD Lions,Dignitas,2.0
+MAD Lions,Envy,2.0
+MAD Lions,c0ntact,4.0
+MAD Lions,Evil Geniuses,3.0
+MAD Lions,Endpoint,3.0
+MAD Lions,Chaos,2.0
+MAD Lions,Copenhagen Flames,3.0
+MAD Lions,HAVU,7.0
+MAD Lions,FunPlus Phoenix,4.0
+Cloud9,Spirit,2.0
+Cloud9,Dignitas,2.0
+Cloud9,Envy,9.0
+Cloud9,ENCE,2.0
+Cloud9,Gen.G,17.0
+Cloud9,Ninjas in Pyjamas,2.0
+Cloud9,Evil Geniuses,8.0
+Cloud9,100 Thieves,9.0
+Cloud9,TeamOne,6.0
+Cloud9,Chaos,2.0
+Cloud9,Triumph,8.0
+Cloud9,Yeah,2.0
+Cloud9,Copenhagen Flames,2.0
+Cloud9,Orgless,9.0
+Cloud9,HAVU,4.0
+Cloud9,FunPlus Phoenix,3.0
+North,FaZe,5.0
+North,Nemiga,3.0
+North,c0ntact,3.0
+North,ENCE,3.0
+North,FORZE,2.0
+North,Ninjas in Pyjamas,2.0
+North,Sprout,3.0
+North,Heretics,2.0
+North,Movistar Riders,7.0
+North,Copenhagen Flames,2.0
+FaZe,Spirit,8.0
+FaZe,c0ntact,5.0
+FaZe,ENCE,5.0
+FaZe,FORZE,2.0
+FaZe,Ninjas in Pyjamas,12.0
+FaZe,SAW,3.0
+FaZe,Heretics,2.0
+FaZe,Movistar Riders,5.0
+FaZe,Copenhagen Flames,3.0
+FaZe,TYLOO,2.0
+FaZe,Renegades,2.0
+Spirit,Nemiga,13.0
+Spirit,ENCE,2.0
+Spirit,FORZE,5.0
+Spirit,Ninjas in Pyjamas,5.0
+Spirit,Winstrike,6.0
+Spirit,ETHEREAL,2.0
+Spirit,HellRaisers,2.0
+Spirit,Espada,4.0
+Spirit,Gambit Youngsters,2.0
+Spirit,Unique,2.0
+Dignitas,c0ntact,3.0
+Dignitas,ENCE,3.0
+Dignitas,Gen.G,4.0
+Dignitas,FORZE,3.0
+Dignitas,Ninjas in Pyjamas,2.0
+Dignitas,Heretics,3.0
+Dignitas,Orgless,9.0
+Envy,Gen.G,6.0
+Envy,FORZE,3.0
+Envy,100 Thieves,3.0
+Envy,Yeah,2.0
+Envy,Bad News Bears,3.0
+Envy,HAVU,2.0
+Nemiga,FORZE,4.0
+Nemiga,Winstrike,7.0
+Nemiga,ETHEREAL,2.0
+Nemiga,HellRaisers,2.0
+Nemiga,Gambit Youngsters,3.0
+Nemiga,Syman,2.0
+Nemiga,Unique,2.0
+c0ntact,Movistar Riders,3.0
+c0ntact,Copenhagen Flames,5.0
+c0ntact,HAVU,3.0
+c0ntact,FunPlus Phoenix,6.0
+ENCE,Ninjas in Pyjamas,10.0
+ENCE,AGO,3.0
+ENCE,Heretics,2.0
+ENCE,x6tence,3.0
+ENCE,Copenhagen Flames,2.0
+Gen.G,Evil Geniuses,12.0
+Gen.G,100 Thieves,11.0
+Gen.G,Chaos,6.0
+Gen.G,Triumph,5.0
+Gen.G,HAVU,3.0
+Gen.G,FunPlus Phoenix,2.0
+FORZE,Winstrike,2.0
+FORZE,K23,2.0
+FORZE,Cyber Legacy,3.0
+FORZE,Espada,3.0
+FORZE,Gambit Youngsters,3.0
+FORZE,Unique,2.0
+Ninjas in Pyjamas,Evil Geniuses,2.0
+Ninjas in Pyjamas,Sprout,5.0
+Ninjas in Pyjamas,Heretics,6.0
+Ninjas in Pyjamas,x6tence,2.0
+Evil Geniuses,100 Thieves,18.0
+Evil Geniuses,TeamOne,2.0
+Evil Geniuses,New England Whalers,2.0
+Evil Geniuses,Chaos,2.0
+Evil Geniuses,Triumph,9.0
+Evil Geniuses,Rebirth,2.0
+Evil Geniuses,ImPerium,2.0
+Evil Geniuses,Orgless,2.0
+Evil Geniuses,Swole Patrol,2.0
+Winstrike,ETHEREAL,3.0
+Winstrike,HellRaisers,3.0
+Winstrike,Espada,3.0
+Winstrike,Gambit Youngsters,2.0
+Winstrike,Hard Legion,5.0
+Winstrike,Syman,2.0
+Winstrike,Unique,2.0
+ETHEREAL,HellRaisers,2.0
+K23,Cyber Legacy,3.0
+K23,Espada,2.0
+Cyber Legacy,Espada,2.0
+Espada,Gambit Youngsters,2.0
+Espada,Hard Legion,2.0
+Espada,Syman,3.0
+Espada,pro100,2.0
+100 Thieves,TeamOne,4.0
+100 Thieves,Chaos,9.0
+100 Thieves,RBG,2.0
+100 Thieves,Mythic,2.0
+100 Thieves,Triumph,4.0
+100 Thieves,Swole Patrol,3.0
+100 Thieves,TYLOO,2.0
+TeamOne,New England Whalers,2.0
+TeamOne,Chaos,3.0
+TeamOne,RBG,3.0
+TeamOne,Mythic,3.0
+New England Whalers,Triumph,2.0
+New England Whalers,Rebirth,3.0
+New England Whalers,ImPerium,2.0
+Chaos,RBG,2.0
+Chaos,Mythic,2.0
+Chaos,Triumph,5.0
+Chaos,Ze Pug Godz,2.0
+Chaos,Orgless,2.0
+Chaos,HAVU,2.0
+Chaos,FunPlus Phoenix,3.0
+RBG,Mythic,2.0
+Triumph,Rebirth,3.0
+Triumph,ImPerium,2.0
+Triumph,Ze Pug Godz,3.0
+Rebirth,ImPerium,3.0
+Yeah,Bad News Bears,2.0
+Movistar Riders,FATE,2.0
+Movistar Riders,Copenhagen Flames,2.0
+Gambit Youngsters,Unique,2.0
+Hard Legion,Syman,3.0
+Hard Legion,pro100,2.0
+Syman,pro100,3.0
+Copenhagen Flames,HAVU,2.0

@@ -1,0 +1,346 @@
+Source,Target,Weight
+G2,Liquid,8.0
+G2,FaZe,13.0
+G2,Vitality,22.0
+G2,Natus Vincere,7.0
+G2,HEROIC,4.0
+G2,Outsiders,7.0
+G2,Ninjas in Pyjamas,7.0
+G2,Fluxo,2.0
+G2,FURIA,9.0
+G2,MOUZ,2.0
+G2,Spirit,1.0
+G2,fnatic,6.0
+G2,BIG,4.0
+G2,ENCE,7.0
+G2,Imperial,1.0
+G2,Complexity,1.0
+G2,Movistar Riders,3.0
+G2,Astralis,6.0
+G2,MIBR,4.0
+G2,FTW,2.0
+G2,Entropiq,3.0
+G2,Looking For Org,2.0
+G2,Virtus.pro,2.0
+Liquid,FaZe,8.0
+Liquid,OG,3.0
+Liquid,Vitality,7.0
+Liquid,Natus Vincere,10.0
+Liquid,HEROIC,11.0
+Liquid,Outsiders,3.0
+Liquid,Ninjas in Pyjamas,5.0
+Liquid,FURIA,6.0
+Liquid,MOUZ,3.0
+Liquid,Spirit,6.0
+Liquid,Cloud9,10.0
+Liquid,fnatic,3.0
+Liquid,BIG,2.0
+Liquid,Sprout,1.0
+Liquid,9z,2.0
+Liquid,Evil Geniuses,3.0
+Liquid,Imperial,3.0
+Liquid,00NATION,3.0
+Liquid,Complexity,3.0
+Liquid,Eternal Fire,2.0
+Liquid,Movistar Riders,9.0
+Liquid,Astralis,2.0
+Liquid,MIBR,2.0
+Liquid,Players,2.0
+Liquid,Party Astronauts,2.0
+Liquid,GODSENT,2.0
+FaZe,OG,10.0
+FaZe,Vitality,7.0
+FaZe,Natus Vincere,14.0
+FaZe,HEROIC,9.0
+FaZe,Outsiders,5.0
+FaZe,Ninjas in Pyjamas,6.0
+FaZe,FURIA,5.0
+FaZe,MOUZ,3.0
+FaZe,Spirit,4.0
+FaZe,Cloud9,8.0
+FaZe,fnatic,3.0
+FaZe,BIG,11.0
+FaZe,ENCE,13.0
+FaZe,Sprout,3.0
+FaZe,Bad News Eagles,4.0
+FaZe,Evil Geniuses,1.0
+FaZe,00NATION,2.0
+FaZe,Complexity,3.0
+FaZe,Movistar Riders,2.0
+FaZe,Astralis,8.0
+FaZe,MIBR,3.0
+FaZe,FTW,2.0
+FaZe,paiN,2.0
+FaZe,Encore,1.0
+FaZe,Copenhagen Flames,3.0
+FaZe,Players,3.0
+FaZe,Gambit,2.0
+OG,Vitality,6.0
+OG,Natus Vincere,6.0
+OG,HEROIC,6.0
+OG,Ninjas in Pyjamas,5.0
+OG,FURIA,1.0
+OG,MOUZ,2.0
+OG,fnatic,1.0
+OG,ENCE,4.0
+OG,Grayhound,1.0
+OG,IHC,2.0
+OG,Complexity,2.0
+OG,Astralis,5.0
+OG,MIBR,1.0
+OG,Entropiq,2.0
+OG,Renegades,1.0
+Vitality,Natus Vincere,10.0
+Vitality,HEROIC,5.0
+Vitality,Outsiders,6.0
+Vitality,Ninjas in Pyjamas,4.0
+Vitality,FURIA,3.0
+Vitality,MOUZ,9.0
+Vitality,Spirit,2.0
+Vitality,fnatic,3.0
+Vitality,BIG,3.0
+Vitality,ENCE,9.0
+Vitality,Sprout,5.0
+Vitality,GamerLegion,1.0
+Vitality,Evil Geniuses,1.0
+Vitality,Grayhound,2.0
+Vitality,Imperial,1.0
+Vitality,Complexity,1.0
+Vitality,Movistar Riders,5.0
+Vitality,Astralis,3.0
+Vitality,MIBR,2.0
+Vitality,Endpoint,2.0
+Vitality,TYLOO,1.0
+Vitality,paiN,3.0
+Vitality,FORZE,3.0
+Vitality,Gambit,2.0
+Natus Vincere,HEROIC,11.0
+Natus Vincere,Ninjas in Pyjamas,16.0
+Natus Vincere,Fluxo,2.0
+Natus Vincere,FURIA,5.0
+Natus Vincere,MOUZ,3.0
+Natus Vincere,Spirit,2.0
+Natus Vincere,Cloud9,1.0
+Natus Vincere,fnatic,3.0
+Natus Vincere,BIG,5.0
+Natus Vincere,ENCE,5.0
+Natus Vincere,Bad News Eagles,2.0
+Natus Vincere,Evil Geniuses,2.0
+Natus Vincere,Complexity,4.0
+Natus Vincere,Movistar Riders,3.0
+Natus Vincere,Astralis,6.0
+Natus Vincere,MIBR,1.0
+Natus Vincere,Endpoint,2.0
+Natus Vincere,AGO,2.0
+HEROIC,Outsiders,3.0
+HEROIC,Ninjas in Pyjamas,8.0
+HEROIC,FURIA,3.0
+HEROIC,MOUZ,7.0
+HEROIC,Spirit,3.0
+HEROIC,Cloud9,2.0
+HEROIC,fnatic,4.0
+HEROIC,BIG,4.0
+HEROIC,ENCE,5.0
+HEROIC,Sprout,1.0
+HEROIC,Evil Geniuses,2.0
+HEROIC,Complexity,4.0
+HEROIC,Astralis,8.0
+HEROIC,HEET,3.0
+HEROIC,MIBR,2.0
+HEROIC,Finest,3.0
+HEROIC,AGO,2.0
+HEROIC,Virtus.pro,2.0
+Outsiders,Ninjas in Pyjamas,1.0
+Outsiders,FURIA,10.0
+Outsiders,MOUZ,6.0
+Outsiders,Spirit,1.0
+Outsiders,Cloud9,3.0
+Outsiders,fnatic,4.0
+Outsiders,BIG,4.0
+Outsiders,ENCE,4.0
+Outsiders,Sprout,3.0
+Outsiders,IHC,1.0
+Outsiders,Imperial,1.0
+Outsiders,Complexity,1.0
+Outsiders,MIBR,3.0
+Outsiders,FTW,2.0
+Outsiders,FORZE,6.0
+Ninjas in Pyjamas,FURIA,2.0
+Ninjas in Pyjamas,MOUZ,8.0
+Ninjas in Pyjamas,Spirit,2.0
+Ninjas in Pyjamas,Cloud9,3.0
+Ninjas in Pyjamas,fnatic,5.0
+Ninjas in Pyjamas,BIG,3.0
+Ninjas in Pyjamas,ENCE,2.0
+Ninjas in Pyjamas,Sprout,2.0
+Ninjas in Pyjamas,Evil Geniuses,3.0
+Ninjas in Pyjamas,Complexity,2.0
+Ninjas in Pyjamas,Movistar Riders,2.0
+Ninjas in Pyjamas,Astralis,2.0
+Ninjas in Pyjamas,Endpoint,2.0
+Ninjas in Pyjamas,Entropiq,2.0
+Ninjas in Pyjamas,Copenhagen Flames,2.0
+Ninjas in Pyjamas,Looking For Org,3.0
+Ninjas in Pyjamas,Gambit,5.0
+Ninjas in Pyjamas,Virtus.pro,3.0
+Ninjas in Pyjamas,Wisla Krakow,1.0
+FURIA,Spirit,7.0
+FURIA,Cloud9,4.0
+FURIA,BIG,7.0
+FURIA,ENCE,6.0
+FURIA,Sprout,2.0
+FURIA,9z,5.0
+FURIA,GamerLegion,2.0
+FURIA,Evil Geniuses,2.0
+FURIA,Imperial,1.0
+FURIA,00NATION,1.0
+FURIA,Eternal Fire,3.0
+FURIA,Movistar Riders,2.0
+FURIA,Astralis,7.0
+MOUZ,Cloud9,3.0
+MOUZ,fnatic,6.0
+MOUZ,BIG,1.0
+MOUZ,ENCE,9.0
+MOUZ,Evil Geniuses,1.0
+MOUZ,Imperial,2.0
+MOUZ,Complexity,3.0
+MOUZ,Eternal Fire,3.0
+MOUZ,Movistar Riders,2.0
+MOUZ,Astralis,5.0
+MOUZ,HEET,3.0
+MOUZ,TYLOO,2.0
+MOUZ,paiN,1.0
+MOUZ,Entropiq,4.0
+MOUZ,GODSENT,1.0
+MOUZ,Looking For Org,2.0
+Spirit,fnatic,2.0
+Spirit,Sprout,2.0
+Spirit,Bad News Eagles,1.0
+Spirit,Imperial,1.0
+Spirit,00NATION,3.0
+Spirit,Complexity,1.0
+Spirit,Eternal Fire,1.0
+Spirit,Astralis,2.0
+Spirit,Endpoint,3.0
+Spirit,Copenhagen Flames,3.0
+Cloud9,fnatic,1.0
+Cloud9,BIG,5.0
+Cloud9,ENCE,3.0
+Cloud9,9z,3.0
+Cloud9,GamerLegion,2.0
+Cloud9,Evil Geniuses,4.0
+Cloud9,Grayhound,1.0
+Cloud9,Imperial,5.0
+Cloud9,Complexity,2.0
+Cloud9,Eternal Fire,2.0
+Cloud9,Movistar Riders,2.0
+Cloud9,Astralis,4.0
+fnatic,BIG,11.0
+fnatic,ENCE,3.0
+fnatic,9z,2.0
+fnatic,Astralis,6.0
+fnatic,Endpoint,2.0
+fnatic,Entropiq,2.0
+fnatic,Copenhagen Flames,1.0
+fnatic,Looking For Org,3.0
+fnatic,Wisla Krakow,2.0
+BIG,ENCE,2.0
+BIG,Sprout,1.0
+BIG,Bad News Eagles,1.0
+BIG,9z,2.0
+BIG,Evil Geniuses,4.0
+BIG,Grayhound,1.0
+BIG,Imperial,1.0
+BIG,Complexity,1.0
+BIG,Eternal Fire,3.0
+BIG,Movistar Riders,3.0
+BIG,Astralis,12.0
+BIG,MIBR,6.0
+BIG,FTW,3.0
+BIG,ORDER,1.0
+BIG,Entropiq,6.0
+BIG,Players,2.0
+BIG,Party Astronauts,2.0
+BIG,GODSENT,2.0
+BIG,Gambit,2.0
+BIG,K23,3.0
+ENCE,Sprout,3.0
+ENCE,Bad News Eagles,3.0
+ENCE,9z,1.0
+ENCE,Complexity,2.0
+ENCE,Eternal Fire,3.0
+ENCE,Movistar Riders,3.0
+ENCE,Astralis,5.0
+ENCE,HEET,2.0
+ENCE,Entropiq,1.0
+ENCE,Copenhagen Flames,3.0
+ENCE,GODSENT,3.0
+Sprout,paiN,3.0
+Sprout,GODSENT,2.0
+Bad News Eagles,GamerLegion,2.0
+Bad News Eagles,Imperial,3.0
+Bad News Eagles,00NATION,1.0
+Bad News Eagles,Eternal Fire,1.0
+Bad News Eagles,MIBR,3.0
+Bad News Eagles,FORZE,1.0
+Bad News Eagles,Copenhagen Flames,1.0
+9z,GamerLegion,1.0
+9z,Evil Geniuses,1.0
+9z,Imperial,1.0
+9z,MIBR,1.0
+9z,FORZE,2.0
+Evil Geniuses,IHC,1.0
+Evil Geniuses,Complexity,3.0
+Evil Geniuses,Eternal Fire,2.0
+Evil Geniuses,Movistar Riders,2.0
+Evil Geniuses,Astralis,2.0
+Evil Geniuses,AGO,2.0
+IHC,Imperial,3.0
+IHC,00NATION,3.0
+IHC,Complexity,1.0
+IHC,Astralis,1.0
+IHC,Renegades,2.0
+Imperial,00NATION,2.0
+Imperial,Eternal Fire,3.0
+Imperial,Astralis,3.0
+Imperial,ORDER,3.0
+Imperial,FORZE,2.0
+Imperial,Finest,3.0
+Imperial,Copenhagen Flames,2.0
+00NATION,Astralis,1.0
+Complexity,Astralis,11.0
+Complexity,HEET,2.0
+Complexity,MIBR,3.0
+Complexity,AGO,3.0
+Complexity,Gambit,3.0
+Complexity,ECSTATIC,2.0
+Eternal Fire,Movistar Riders,2.0
+Eternal Fire,MIBR,2.0
+Eternal Fire,Renegades,1.0
+Movistar Riders,Astralis,2.0
+Movistar Riders,MIBR,3.0
+Movistar Riders,Players,3.0
+Movistar Riders,Party Astronauts,3.0
+Movistar Riders,GODSENT,3.0
+Astralis,HEET,3.0
+Astralis,MIBR,3.0
+Astralis,FORZE,2.0
+Astralis,Entropiq,6.0
+Astralis,EG White,1.0
+Astralis,Encore,2.0
+Astralis,AGO,2.0
+Astralis,K23,3.0
+MIBR,FTW,2.0
+MIBR,TYLOO,3.0
+FORZE,Renegades,1.0
+Entropiq,Renegades,2.0
+Entropiq,Looking For Org,2.0
+Entropiq,Gambit,5.0
+Entropiq,ECSTATIC,5.0
+Finest,EG White,2.0
+Copenhagen Flames,Gambit,3.0
+Copenhagen Flames,Virtus.pro,2.0
+Players,Party Astronauts,2.0
+Players,GODSENT,3.0
+Party Astronauts,GODSENT,2.0
+ECSTATIC,K23,2.0

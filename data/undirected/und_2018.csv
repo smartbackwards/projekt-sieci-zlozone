@@ -1,0 +1,638 @@
+Source,Target,Weight
+Astralis,Natus Vincere,20.0
+Astralis,FaZe,25.0
+Astralis,Ninjas in Pyjamas,17.0
+Astralis,Cloud9,10.0
+Astralis,MIBR,14.0
+Astralis,Liquid,34.0
+Astralis,MOUZ,22.0
+Astralis,Renegades,1.0
+Astralis,G2,13.0
+Astralis,NRG,1.0
+Astralis,HellRaisers,7.0
+Astralis,BIG,2.0
+Astralis,North,15.0
+Astralis,ViCi,1.0
+Astralis,TYLOO,3.0
+Astralis,Virtus.pro,5.0
+Astralis,Gambit,4.0
+Astralis,Complexity,1.0
+Astralis,Rogue,1.0
+Astralis,Envy,4.0
+Astralis,AGO,4.0
+Astralis,Windigo,2.0
+Astralis,fnatic,16.0
+Astralis,HEROIC,6.0
+Astralis,LDLC,4.0
+Astralis,OpTic,3.0
+Astralis,MVP PK,1.0
+Astralis,ENCE,1.0
+Astralis,Vega Squadron,1.0
+Astralis,Space Soldiers,6.0
+Astralis,Spirit,1.0
+Astralis,Grayhound,1.0
+Astralis,SK,4.0
+Astralis,GODSENT,2.0
+Natus Vincere,FaZe,22.0
+Natus Vincere,Ninjas in Pyjamas,12.0
+Natus Vincere,Cloud9,4.0
+Natus Vincere,MIBR,4.0
+Natus Vincere,Liquid,8.0
+Natus Vincere,MOUZ,21.0
+Natus Vincere,Renegades,1.0
+Natus Vincere,Ghost,7.0
+Natus Vincere,G2,5.0
+Natus Vincere,NRG,5.0
+Natus Vincere,Sharks,2.0
+Natus Vincere,HellRaisers,9.0
+Natus Vincere,BIG,11.0
+Natus Vincere,ORDER,1.0
+Natus Vincere,North,6.0
+Natus Vincere,TYLOO,2.0
+Natus Vincere,Virtus.pro,5.0
+Natus Vincere,Gambit,13.0
+Natus Vincere,eUnited,1.0
+Natus Vincere,Envy,6.0
+Natus Vincere,AGO,4.0
+Natus Vincere,Windigo,2.0
+Natus Vincere,fnatic,16.0
+Natus Vincere,ex-Space Soldiers,2.0
+Natus Vincere,HEROIC,10.0
+Natus Vincere,LDLC,2.0
+Natus Vincere,AVANGAR,4.0
+Natus Vincere,MVP PK,1.0
+Natus Vincere,ENCE,3.0
+Natus Vincere,Sprout,1.0
+Natus Vincere,Space Soldiers,2.0
+Natus Vincere,SK,5.0
+Natus Vincere,VG.Flash,2.0
+Natus Vincere,Quantum Bellator Fire,3.0
+FaZe,Ninjas in Pyjamas,12.0
+FaZe,Cloud9,15.0
+FaZe,MIBR,7.0
+FaZe,Liquid,12.0
+FaZe,MOUZ,24.0
+FaZe,Renegades,5.0
+FaZe,Ghost,2.0
+FaZe,G2,15.0
+FaZe,NRG,3.0
+FaZe,HellRaisers,6.0
+FaZe,BIG,6.0
+FaZe,ORDER,2.0
+FaZe,North,8.0
+FaZe,TYLOO,6.0
+FaZe,Virtus.pro,6.0
+FaZe,Gambit,2.0
+FaZe,Luminosity,1.0
+FaZe,Envy,7.0
+FaZe,AGO,4.0
+FaZe,Windigo,2.0
+FaZe,fnatic,23.0
+FaZe,ex-Space Soldiers,2.0
+FaZe,HEROIC,5.0
+FaZe,LDLC,5.0
+FaZe,OpTic,4.0
+FaZe,ENCE,3.0
+FaZe,Vega Squadron,2.0
+FaZe,Space Soldiers,4.0
+FaZe,Grayhound,3.0
+FaZe,BOOT-d[S],1.0
+FaZe,SK,3.0
+FaZe,GODSENT,2.0
+FaZe,GameAgents,2.0
+FaZe,Dark Tigers,2.0
+FaZe,Quantum Bellator Fire,1.0
+Ninjas in Pyjamas,Cloud9,4.0
+Ninjas in Pyjamas,MIBR,6.0
+Ninjas in Pyjamas,Liquid,7.0
+Ninjas in Pyjamas,MOUZ,15.0
+Ninjas in Pyjamas,Ghost,3.0
+Ninjas in Pyjamas,G2,11.0
+Ninjas in Pyjamas,NRG,2.0
+Ninjas in Pyjamas,HellRaisers,6.0
+Ninjas in Pyjamas,BIG,2.0
+Ninjas in Pyjamas,ORDER,2.0
+Ninjas in Pyjamas,North,14.0
+Ninjas in Pyjamas,TYLOO,6.0
+Ninjas in Pyjamas,Virtus.pro,6.0
+Ninjas in Pyjamas,Gambit,2.0
+Ninjas in Pyjamas,Envy,4.0
+Ninjas in Pyjamas,AGO,6.0
+Ninjas in Pyjamas,Windigo,2.0
+Ninjas in Pyjamas,fnatic,11.0
+Ninjas in Pyjamas,HEROIC,9.0
+Ninjas in Pyjamas,LDLC,4.0
+Ninjas in Pyjamas,OpTic,4.0
+Ninjas in Pyjamas,AVANGAR,3.0
+Ninjas in Pyjamas,Swole Patrol,2.0
+Ninjas in Pyjamas,ENCE,2.0
+Ninjas in Pyjamas,Vega Squadron,1.0
+Ninjas in Pyjamas,Space Soldiers,5.0
+Ninjas in Pyjamas,SK,2.0
+Ninjas in Pyjamas,VG.Flash,2.0
+Ninjas in Pyjamas,GODSENT,2.0
+Cloud9,MIBR,9.0
+Cloud9,Liquid,16.0
+Cloud9,MOUZ,5.0
+Cloud9,Renegades,11.0
+Cloud9,Ghost,4.0
+Cloud9,G2,5.0
+Cloud9,NRG,8.0
+Cloud9,Sharks,3.0
+Cloud9,HellRaisers,1.0
+Cloud9,ORDER,3.0
+Cloud9,INTZ,2.0
+Cloud9,TYLOO,3.0
+Cloud9,Virtus.pro,4.0
+Cloud9,Gambit,2.0
+Cloud9,Complexity,8.0
+Cloud9,Rogue,8.0
+Cloud9,eUnited,6.0
+Cloud9,Luminosity,8.0
+Cloud9,Envy,3.0
+Cloud9,fnatic,4.0
+Cloud9,HEROIC,6.0
+Cloud9,OpTic,4.0
+Cloud9,Spacestation,2.0
+Cloud9,Vega Squadron,2.0
+Cloud9,Sprout,1.0
+Cloud9,Space Soldiers,2.0
+Cloud9,Winstrike,1.0
+Cloud9,Grayhound,1.0
+Cloud9,SK,14.0
+Cloud9,GODSENT,2.0
+Cloud9,Splyce,2.0
+Cloud9,Dignitas,2.0
+Cloud9,TeamOne,3.0
+Cloud9,MAX,2.0
+Cloud9,Belgium,2.0
+Cloud9,The Onliners,1.0
+Cloud9,SCARZ Absolute,1.0
+MIBR,Liquid,10.0
+MIBR,MOUZ,6.0
+MIBR,Renegades,6.0
+MIBR,Ghost,2.0
+MIBR,G2,1.0
+MIBR,NRG,10.0
+MIBR,Sharks,1.0
+MIBR,HellRaisers,1.0
+MIBR,BIG,3.0
+MIBR,North,6.0
+MIBR,INTZ,2.0
+MIBR,TYLOO,1.0
+MIBR,Virtus.pro,1.0
+MIBR,Kinguin,3.0
+MIBR,Complexity,6.0
+MIBR,Rogue,4.0
+MIBR,eUnited,4.0
+MIBR,Luminosity,4.0
+MIBR,Envy,2.0
+MIBR,MVP PK,2.0
+MIBR,AZIO,2.0
+MIBR,Space Soldiers,1.0
+MIBR,Flash,2.0
+Liquid,MOUZ,18.0
+Liquid,Renegades,12.0
+Liquid,Ghost,4.0
+Liquid,G2,4.0
+Liquid,NRG,25.0
+Liquid,HellRaisers,4.0
+Liquid,BIG,10.0
+Liquid,North,3.0
+Liquid,INTZ,2.0
+Liquid,Virtus.pro,3.0
+Liquid,Gambit,7.0
+Liquid,Complexity,8.0
+Liquid,Rogue,8.0
+Liquid,eUnited,6.0
+Liquid,Luminosity,9.0
+Liquid,Envy,2.0
+Liquid,fnatic,8.0
+Liquid,HEROIC,2.0
+Liquid,LDLC,3.0
+Liquid,OpTic,3.0
+Liquid,AVANGAR,6.0
+Liquid,Swole Patrol,2.0
+Liquid,Vega Squadron,3.0
+Liquid,AZIO,2.0
+Liquid,Space Soldiers,2.0
+Liquid,Winstrike,1.0
+Liquid,Grayhound,1.0
+Liquid,SK,10.0
+Liquid,GODSENT,3.0
+Liquid,Torqued,2.0
+Liquid,Splyce,2.0
+Liquid,Dignitas,2.0
+Liquid,FlipSid3,1.0
+MOUZ,Renegades,7.0
+MOUZ,Ghost,1.0
+MOUZ,G2,18.0
+MOUZ,NRG,4.0
+MOUZ,Sharks,1.0
+MOUZ,HellRaisers,8.0
+MOUZ,BIG,5.0
+MOUZ,North,12.0
+MOUZ,TYLOO,2.0
+MOUZ,Virtus.pro,12.0
+MOUZ,Gambit,7.0
+MOUZ,Luminosity,2.0
+MOUZ,Envy,4.0
+MOUZ,AGO,7.0
+MOUZ,Windigo,2.0
+MOUZ,fnatic,14.0
+MOUZ,HEROIC,6.0
+MOUZ,LDLC,4.0
+MOUZ,OpTic,3.0
+MOUZ,AVANGAR,2.0
+MOUZ,MVP PK,2.0
+MOUZ,ENCE,3.0
+MOUZ,Vega Squadron,1.0
+MOUZ,CyberZen,1.0
+MOUZ,Sprout,1.0
+MOUZ,Space Soldiers,6.0
+MOUZ,BOOT-d[S],1.0
+MOUZ,SK,8.0
+MOUZ,Não Tem Como,2.0
+MOUZ,GODSENT,2.0
+MOUZ,Valiance,1.0
+MOUZ,x-kom,2.0
+MOUZ,eXtatus,2.0
+MOUZ,Quantum Bellator Fire,1.0
+Renegades,Ghost,4.0
+Renegades,G2,5.0
+Renegades,NRG,8.0
+Renegades,HellRaisers,6.0
+Renegades,BIG,7.0
+Renegades,INTZ,2.0
+Renegades,ViCi,2.0
+Renegades,TYLOO,7.0
+Renegades,Virtus.pro,3.0
+Renegades,Gambit,6.0
+Renegades,Complexity,10.0
+Renegades,Rogue,8.0
+Renegades,eUnited,6.0
+Renegades,Luminosity,8.0
+Renegades,Envy,3.0
+Renegades,fnatic,4.0
+Renegades,LDLC,3.0
+Renegades,OpTic,6.0
+Renegades,AVANGAR,3.0
+Renegades,Spacestation,2.0
+Renegades,Vega Squadron,1.0
+Renegades,Imperial,1.0
+Renegades,CyberZen,1.0
+Renegades,Sprout,1.0
+Renegades,Space Soldiers,2.0
+Renegades,Grayhound,2.0
+Renegades,BOOT-d[S],2.0
+Renegades,SK,4.0
+Renegades,GODSENT,2.0
+Renegades,Legacy OCE,1.0
+Renegades,Splyce,2.0
+Renegades,Dignitas,2.0
+Ghost,NRG,10.0
+Ghost,ORDER,2.0
+Ghost,INTZ,2.0
+Ghost,Kinguin,5.0
+Ghost,Complexity,4.0
+Ghost,Rogue,4.0
+Ghost,eUnited,2.0
+Ghost,Luminosity,4.0
+Ghost,Envy,2.0
+Ghost,OpTic,7.0
+Ghost,SK,4.0
+Ghost,Splyce,2.0
+Ghost,Dignitas,2.0
+G2,NRG,6.0
+G2,HellRaisers,8.0
+G2,BIG,6.0
+G2,North,6.0
+G2,INTZ,3.0
+G2,Virtus.pro,7.0
+G2,Gambit,2.0
+G2,Complexity,4.0
+G2,Luminosity,6.0
+G2,Envy,5.0
+G2,AGO,4.0
+G2,Windigo,2.0
+G2,fnatic,14.0
+G2,HEROIC,4.0
+G2,LDLC,4.0
+G2,OpTic,2.0
+G2,MVP PK,1.0
+G2,Vega Squadron,1.0
+G2,Space Soldiers,4.0
+G2,Flash,1.0
+G2,GODSENT,2.0
+G2,Quantum Bellator Fire,1.0
+G2,Misfits,1.0
+NRG,HellRaisers,7.0
+NRG,BIG,3.0
+NRG,North,14.0
+NRG,INTZ,2.0
+NRG,TYLOO,2.0
+NRG,Virtus.pro,2.0
+NRG,Gambit,2.0
+NRG,Kinguin,1.0
+NRG,Complexity,8.0
+NRG,Rogue,8.0
+NRG,eUnited,6.0
+NRG,Luminosity,8.0
+NRG,Envy,2.0
+NRG,HEROIC,3.0
+NRG,LDLC,3.0
+NRG,OpTic,7.0
+NRG,MVP PK,6.0
+NRG,Spacestation,2.0
+NRG,Vega Squadron,4.0
+NRG,Fragsters,1.0
+NRG,BOOT-d[S],2.0
+NRG,5POWER,1.0
+NRG,SK,4.0
+NRG,VG.Flash,2.0
+NRG,Splyce,2.0
+NRG,Dignitas,2.0
+Sharks,North,2.0
+HellRaisers,BIG,6.0
+HellRaisers,North,9.0
+HellRaisers,TYLOO,4.0
+HellRaisers,Virtus.pro,3.0
+HellRaisers,Gambit,8.0
+HellRaisers,Envy,5.0
+HellRaisers,AGO,4.0
+HellRaisers,Windigo,2.0
+HellRaisers,fnatic,7.0
+HellRaisers,ex-Space Soldiers,2.0
+HellRaisers,HEROIC,6.0
+HellRaisers,LDLC,2.0
+HellRaisers,OpTic,1.0
+HellRaisers,AVANGAR,2.0
+HellRaisers,MVP PK,2.0
+HellRaisers,ENCE,3.0
+HellRaisers,Vega Squadron,1.0
+HellRaisers,Imperial,3.0
+HellRaisers,CyberZen,1.0
+HellRaisers,Sprout,1.0
+HellRaisers,Space Soldiers,2.0
+HellRaisers,GODSENT,2.0
+HellRaisers,GameAgents,2.0
+HellRaisers,Dark Tigers,2.0
+BIG,North,3.0
+BIG,INTZ,1.0
+BIG,TYLOO,5.0
+BIG,Gambit,3.0
+BIG,Complexity,3.0
+BIG,AGO,4.0
+BIG,Windigo,2.0
+BIG,fnatic,7.0
+BIG,ex-Space Soldiers,2.0
+BIG,HEROIC,2.0
+BIG,OpTic,8.0
+BIG,ENCE,3.0
+BIG,Vega Squadron,1.0
+BIG,Fragsters,1.0
+BIG,Space Soldiers,1.0
+BIG,SK,1.0
+BIG,Não Tem Como,3.0
+BIG,Russia,1.0
+BIG,Wololos,2.0
+ORDER,Space Soldiers,2.0
+ORDER,Legacy OCE,2.0
+ORDER,TeamOne,2.0
+ORDER,MAX,1.0
+ORDER,Bravado,2.0
+North,TYLOO,1.0
+North,Virtus.pro,3.0
+North,Gambit,4.0
+North,Rogue,1.0
+North,Luminosity,2.0
+North,Envy,3.0
+North,AGO,13.0
+North,Windigo,2.0
+North,fnatic,7.0
+North,ex-Space Soldiers,2.0
+North,HEROIC,9.0
+North,LDLC,7.0
+North,OpTic,6.0
+North,Vega Squadron,5.0
+North,Fragsters,3.0
+North,Imperial,3.0
+North,Space Soldiers,2.0
+North,Spirit,1.0
+North,Giants,1.0
+North,Red Reserve,3.0
+North,SK,2.0
+North,GODSENT,2.0
+INTZ,Complexity,2.0
+INTZ,Rogue,2.0
+INTZ,eUnited,2.0
+INTZ,Luminosity,2.0
+INTZ,Envy,2.0
+ViCi,Belgium,1.0
+ViCi,Wololos,1.0
+ViCi,Parallax,1.0
+TYLOO,Virtus.pro,8.0
+TYLOO,Gambit,4.0
+TYLOO,Kinguin,3.0
+TYLOO,fnatic,3.0
+TYLOO,HEROIC,2.0
+TYLOO,OpTic,1.0
+TYLOO,MVP PK,2.0
+TYLOO,ENCE,1.0
+TYLOO,Spirit,2.0
+TYLOO,Grayhound,3.0
+TYLOO,BOOT-d[S],2.0
+TYLOO,SK,1.0
+TYLOO,GODSENT,3.0
+Virtus.pro,Gambit,4.0
+Virtus.pro,Kinguin,2.0
+Virtus.pro,Envy,2.0
+Virtus.pro,AGO,2.0
+Virtus.pro,fnatic,5.0
+Virtus.pro,HEROIC,4.0
+Virtus.pro,LDLC,2.0
+Virtus.pro,OpTic,3.0
+Virtus.pro,MVP PK,6.0
+Virtus.pro,Fragsters,1.0
+Virtus.pro,Space Soldiers,1.0
+Virtus.pro,5POWER,2.0
+Virtus.pro,GODSENT,1.0
+Virtus.pro,x-kom,2.0
+Virtus.pro,eXtatus,2.0
+Virtus.pro,Quantum Bellator Fire,1.0
+Gambit,Complexity,3.0
+Gambit,Envy,2.0
+Gambit,AGO,3.0
+Gambit,fnatic,6.0
+Gambit,OpTic,1.0
+Gambit,AVANGAR,2.0
+Gambit,Vega Squadron,1.0
+Gambit,Fragsters,1.0
+Gambit,Imperial,2.0
+Gambit,Space Soldiers,2.0
+Gambit,Grayhound,2.0
+Gambit,BOOT-d[S],3.0
+Gambit,SK,4.0
+Gambit,GODSENT,3.0
+Gambit,Torqued,1.0
+Gambit,Quantum Bellator Fire,1.0
+Kinguin,HEROIC,2.0
+Complexity,Rogue,8.0
+Complexity,eUnited,4.0
+Complexity,Luminosity,8.0
+Complexity,Envy,2.0
+Complexity,fnatic,1.0
+Complexity,HEROIC,3.0
+Complexity,OpTic,10.0
+Complexity,Spacestation,2.0
+Complexity,Vega Squadron,1.0
+Complexity,Space Soldiers,1.0
+Complexity,SK,2.0
+Complexity,Splyce,2.0
+Complexity,Dignitas,2.0
+Rogue,eUnited,6.0
+Rogue,Luminosity,8.0
+Rogue,Envy,2.0
+Rogue,OpTic,4.0
+Rogue,Spacestation,2.0
+Rogue,Space Soldiers,1.0
+Rogue,Spirit,1.0
+Rogue,SK,4.0
+Rogue,Splyce,2.0
+Rogue,Dignitas,2.0
+eUnited,Luminosity,8.0
+eUnited,Envy,2.0
+eUnited,fnatic,2.0
+eUnited,OpTic,2.0
+eUnited,Spacestation,2.0
+eUnited,SK,2.0
+Luminosity,Envy,2.0
+Luminosity,HEROIC,3.0
+Luminosity,OpTic,4.0
+Luminosity,AVANGAR,2.0
+Luminosity,Fragsters,1.0
+Luminosity,AZIO,2.0
+Luminosity,SK,4.0
+Luminosity,Splyce,2.0
+Luminosity,Dignitas,2.0
+Envy,AGO,2.0
+Envy,fnatic,4.0
+Envy,HEROIC,5.0
+Envy,LDLC,2.0
+Envy,MVP PK,2.0
+Envy,Space Soldiers,2.0
+Envy,Flash,1.0
+Envy,VG.Flash,2.0
+Envy,GODSENT,2.0
+Envy,Russia,2.0
+Envy,Bravado,1.0
+Envy,Recca,2.0
+Envy,Quantum Bellator Fire,1.0
+AGO,Windigo,2.0
+AGO,fnatic,6.0
+AGO,ex-Space Soldiers,2.0
+AGO,HEROIC,5.0
+AGO,LDLC,2.0
+AGO,Swole Patrol,1.0
+AGO,Imperial,1.0
+AGO,Space Soldiers,2.0
+AGO,BOOT-d[S],1.0
+AGO,Giants,2.0
+AGO,Red Reserve,1.0
+AGO,GODSENT,2.0
+AGO,Torqued,2.0
+AGO,Russia,3.0
+AGO,Wololos,2.0
+Windigo,fnatic,2.0
+Windigo,ex-Space Soldiers,2.0
+Windigo,HEROIC,2.0
+fnatic,ex-Space Soldiers,2.0
+fnatic,HEROIC,8.0
+fnatic,LDLC,4.0
+fnatic,OpTic,3.0
+fnatic,MVP PK,2.0
+fnatic,Vega Squadron,1.0
+fnatic,Space Soldiers,5.0
+fnatic,Winstrike,1.0
+fnatic,SK,3.0
+fnatic,GODSENT,2.0
+fnatic,Chiefs,1.0
+fnatic,TeamOne,2.0
+fnatic,Wololos,2.0
+fnatic,The Onliners,1.0
+fnatic,SCARZ Absolute,1.0
+ex-Space Soldiers,HEROIC,2.0
+HEROIC,LDLC,2.0
+HEROIC,OpTic,2.0
+HEROIC,MVP PK,3.0
+HEROIC,Space Soldiers,2.0
+LDLC,OpTic,2.0
+LDLC,Space Soldiers,2.0
+OpTic,ENCE,2.0
+OpTic,Vega Squadron,1.0
+OpTic,Imperial,2.0
+OpTic,Space Soldiers,2.0
+OpTic,SK,7.0
+OpTic,Splyce,2.0
+OpTic,Dignitas,2.0
+AVANGAR,Space Soldiers,1.0
+AVANGAR,SK,3.0
+AVANGAR,GODSENT,3.0
+AVANGAR,Quantum Bellator Fire,1.0
+AVANGAR,Misfits,1.0
+AVANGAR,FlipSid3,1.0
+MVP PK,SK,2.0
+MVP PK,Chiefs,2.0
+MVP PK,Russia,2.0
+MVP PK,TeamOne,1.0
+MVP PK,Recca,2.0
+MVP PK,subtLe,1.0
+MVP PK,Alpha Red,1.0
+Swole Patrol,BOOT-d[S],1.0
+Swole Patrol,GODSENT,1.0
+ENCE,Vega Squadron,5.0
+ENCE,Imperial,1.0
+Vega Squadron,Fragsters,2.0
+Vega Squadron,Sprout,1.0
+Vega Squadron,Spirit,1.0
+Vega Squadron,Torqued,2.0
+Imperial,CyberZen,1.0
+Sprout,Space Soldiers,1.0
+Space Soldiers,SK,5.0
+Space Soldiers,GODSENT,2.0
+Space Soldiers,Russia,2.0
+Space Soldiers,TeamOne,2.0
+Space Soldiers,Bravado,2.0
+Space Soldiers,Recca,1.0
+Space Soldiers,Isurus,1.0
+Space Soldiers,Limitless,1.0
+Space Soldiers,Misfits,1.0
+Grayhound,SK,3.0
+Flash,Quantum Bellator Fire,1.0
+BOOT-d[S],GODSENT,1.0
+SK,VG.Flash,3.0
+SK,Torqued,2.0
+SK,Splyce,1.0
+SK,Dignitas,2.0
+SK,Valiance,1.0
+SK,Russia,1.0
+GODSENT,MAX,2.0
+GODSENT,Belgium,2.0
+Splyce,Dignitas,2.0
+x-kom,eXtatus,2.0
+GameAgents,Dark Tigers,2.0
+Russia,TeamOne,2.0
+Russia,Recca,2.0
+TeamOne,Bravado,2.0
+TeamOne,subtLe,1.0
+TeamOne,Alpha Red,1.0
+MAX,Belgium,2.0
+Belgium,Wololos,1.0
+Belgium,Parallax,1.0
+Wololos,Parallax,1.0
+Recca,Isurus,1.0
+Recca,Limitless,1.0
+The Onliners,SCARZ Absolute,1.0
+Isurus,Limitless,1.0
+subtLe,Alpha Red,1.0
+Misfits,FlipSid3,1.0

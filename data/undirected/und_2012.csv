@@ -1,0 +1,135 @@
+Source,Target,Weight
+Ninjas in Pyjamas,ESC,4.0
+Ninjas in Pyjamas,CPLAY,3.0
+Ninjas in Pyjamas,gamed!de,1.0
+Ninjas in Pyjamas,MaxFloPlay,2.0
+Ninjas in Pyjamas,Absolute Legends,1.0
+Ninjas in Pyjamas,LowLandLions,2.0
+Ninjas in Pyjamas,Curse,3.0
+Ninjas in Pyjamas,Lemondogs,2.0
+Ninjas in Pyjamas,gosu,1.0
+Ninjas in Pyjamas,CPH Wolves,1.0
+Ninjas in Pyjamas,VeryGames,8.0
+Ninjas in Pyjamas,BuyKey,3.0
+Ninjas in Pyjamas,zNation,1.0
+Ninjas in Pyjamas,k1ck,2.0
+Ninjas in Pyjamas,eXtensive,2.0
+Ninjas in Pyjamas,Brussels Guardians,1.0
+Ninjas in Pyjamas,mousesports,3.0
+Ninjas in Pyjamas,ProGaming.TD,3.0
+Ninjas in Pyjamas,n!faculty,2.0
+Ninjas in Pyjamas,fnatic,1.0
+Ninjas in Pyjamas,Area 51,1.0
+Ninjas in Pyjamas,MOUZ,1.0
+Ninjas in Pyjamas,x6tence,1.0
+Ninjas in Pyjamas,34united,1.0
+Ninjas in Pyjamas,bemyfRAG,1.0
+ESC,FMESPORTS,4.0
+ESC,CPLAY,1.0
+ESC,3DMAX,1.0
+ESC,logiX,1.0
+ESC,Anexis,2.0
+ESC,CRG,1.0
+ESC,VeryGames,3.0
+ESC,BuyKey,1.0
+ESC,zNation,1.0
+ESC,Brussels Guardians,1.0
+ESC,mousesports,1.0
+ESC,n!faculty,1.0
+ESC,fnatic,1.0
+FMESPORTS,CPLAY,3.0
+FMESPORTS,MaxFloPlay,1.0
+FMESPORTS,3DMAX,1.0
+FMESPORTS,Absolute Legends,1.0
+FMESPORTS,AT Gaming,1.0
+FMESPORTS,Anexis,1.0
+FMESPORTS,EYES ON U,1.0
+FMESPORTS,NeverPlay,1.0
+FMESPORTS,VeryGames,1.0
+FMESPORTS,n!faculty,1.0
+CPLAY,gamed!de,1.0
+CPLAY,MaxFloPlay,1.0
+CPLAY,3DMAX,1.0
+CPLAY,logiX,1.0
+CPLAY,LowLandLions,1.0
+gamed!de,MaxFloPlay,1.0
+gamed!de,3DMAX,1.0
+gamed!de,Absolute Legends,1.0
+gamed!de,AT Gaming,1.0
+gamed!de,EYES ON U,1.0
+gamed!de,ServerForge,1.0
+MaxFloPlay,Absolute Legends,1.0
+MaxFloPlay,Anexis,1.0
+MaxFloPlay,LowLandLions,1.0
+3DMAX,Absolute Legends,1.0
+3DMAX,EYES ON U,1.0
+3DMAX,ServerForge,1.0
+3DMAX,VeryGames,1.0
+3DMAX,Hawks,1.0
+Absolute Legends,AT Gaming,1.0
+Absolute Legends,Anexis,1.0
+Absolute Legends,NeverPlay,1.0
+Absolute Legends,Lemondogs,3.0
+Absolute Legends,Western Wolves,1.0
+Absolute Legends,VeryGames,1.0
+Absolute Legends,Hawks,1.0
+AT Gaming,NeverPlay,1.0
+logiX,Anexis,1.0
+logiX,CRG,1.0
+Anexis,CRG,1.0
+Anexis,Curse,2.0
+Anexis,Lemondogs,4.0
+Anexis,Western Wolves,1.0
+Anexis,VeryGames,1.0
+Anexis,Dynamic,1.0
+Anexis,n!faculty,2.0
+EYES ON U,ServerForge,1.0
+LowLandLions,ProGaming.TD,1.0
+LowLandLions,Area 51,1.0
+LowLandLions,MOUZ,1.0
+Curse,gosu,2.0
+Curse,CPH Wolves,2.0
+Curse,ProGaming.TD,1.0
+Lemondogs,Western Wolves,1.0
+Lemondogs,VeryGames,2.0
+Lemondogs,Dynamic,1.0
+Lemondogs,n!faculty,1.0
+gosu,CPH Wolves,2.0
+gosu,ProGaming.TD,1.0
+CPH Wolves,mousesports,2.0
+CPH Wolves,ProGaming.TD,1.0
+VeryGames,myDGB.net,3.0
+VeryGames,k1ck,2.0
+VeryGames,eXtensive,1.0
+VeryGames,dAT,1.0
+VeryGames,Dynamic,2.0
+VeryGames,n!faculty,1.0
+VeryGames,Hawks,1.0
+VeryGames,Area 51,3.0
+VeryGames,x6tence,2.0
+VeryGames,ASES,1.0
+VeryGames,DN-Gaming,1.0
+myDGB.net,BuyKey,2.0
+myDGB.net,zNation,3.0
+myDGB.net,k1ck,1.0
+myDGB.net,eXtensive,1.0
+myDGB.net,dAT,1.0
+BuyKey,zNation,1.0
+BuyKey,k1ck,3.0
+BuyKey,Brussels Guardians,1.0
+zNation,Brussels Guardians,1.0
+k1ck,eXtensive,1.0
+k1ck,dAT,1.0
+k1ck,ASES,1.0
+k1ck,DN-Gaming,1.0
+eXtensive,dAT,1.0
+mousesports,fnatic,1.0
+Dynamic,n!faculty,1.0
+ProGaming.TD,Area 51,1.0
+ProGaming.TD,MOUZ,1.0
+n!faculty,Area 51,3.0
+Area 51,MOUZ,1.0
+x6tence,34united,1.0
+x6tence,bemyfRAG,1.0
+34united,bemyfRAG,1.0
+ASES,DN-Gaming,1.0
