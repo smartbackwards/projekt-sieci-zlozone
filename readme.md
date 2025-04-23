@@ -1,2 +1,13 @@
-Original data: https://github.com/liuxilu/Proofread-Modern-Chinese-Common-Lexicon/blob/main/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E5%B8%B8%E7%94%A8%E8%AF%8D%E8%A1%A8.txt
-Original frequency data: https://github.com/bedlate/cn-corpus/tree/master
+university project for Complex Networks
+
+to see notebooks with visualisations, go to the notebooks directory
+
+to see raw data, go to the data directory
+
+to add more data
+1. go to  https://www.hltv.org/stats/matches 
+2. specify filters on which events you'd like to include
+3. copy the map results into an excel spreadsheet
+4. use XLSX_to_CSV.py in order to create a CSV
+
+to see the final poster, see poster_final.pdf
